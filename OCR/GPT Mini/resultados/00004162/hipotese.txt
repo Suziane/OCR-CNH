@@ -1,0 +1,22 @@
+Aqui está o resultado em formato JSON, organizado conforme solicitado:
+
+```json
+{
+    "nome": "MAJOLO BIAZOLLI LIVIA",
+    "CPF": "346.027.119-10",
+    "filiação": "ELMER MAYSOL VIDIGAL BARBOSA\nBAILAO DUTRA KIRYU MARTINS",
+    "data_de_nascimento": "10/07/1992",
+    "primeira_habilitação": "12/01/2016",
+    "validade": "10/07/1992",
+    "documento_de_identidade": "887373422 SESP MG",
+    "órgão_emissor": "SESP",
+    "UF": "MG",
+    "número_do_registro": "95949318925",
+    "ACC": "",
+    "permissão": "PERMISSÃO",
+    "categoria": "E",
+    "número_válido": "641925261"
+}
+```
+
+Caso precise de ajustes ou mais informações, é só avisar!

@@ -1,0 +1,17 @@
+```json
+{
+  "nome": "AZEDO RINK ZENERO",
+  "cpf": "979.274.776-17",
+  "filiacao": "TABITHA RENOVATO MÁRIEL; ADORNI PAZ BOJCZUK",
+  "data_nascimento": "16/12/2002",
+  "primeira_habilitacao": "17/06/1994",
+  "validade": "03/01/2009",
+  "documento_identidade": "009130275",
+  "orgao_emissor": "SDS",
+  "uf": "TO",
+  "numero_registro": "01251486388",
+  "acc": "D",
+  "permissao": "",
+  "categoria": ""
+}
+```

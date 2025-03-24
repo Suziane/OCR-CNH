@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "LOIZE MARCUNS GEISON",
+  "cpf": "345.021.995-24",
+  "filiacao": "BROCHADO GLEUSON CAPELOSSI BARBOSA SEGEREN OTANI MOISEIS",
+  "data_nascimento": "05/05/1963",
+  "primeira_habilitacao": "25/03/2017",
+  "validade": "13/11/1997",
+  "documento_identidade": "573051720",
+  "orgao_emissor": "SESP",
+  "uf": "PR",
+  "numero_registro": "43803796166",
+  "acc": "A",
+  "permissao": "",
+  "categoria": "B",
+  "numero_valido": "711562086"
+}
+```

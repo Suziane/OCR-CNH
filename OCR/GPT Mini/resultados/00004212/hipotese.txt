@@ -1,0 +1,21 @@
+Baseado nas informações fornecidas na imagem, o reconhecimento dos campos resulta no seguinte JSON:
+
+```json
+{
+  "nome": "HIDEO ASSIMO TORTOIRA",
+  "cpf": "644.035.970-33",
+  "filiação": "HINUY BELLON ERRA; MURBACK GERALDELLI SILV PEREIRA",
+  "data_nascimento": "30/11/1981",
+  "primeira_habilitação": "15/03/1964",
+  "validade": "27/07/2013",
+  "documento_identidade": "634325164",
+  "orgão_emissor": "SNJ",
+  "UF": "SP",
+  "número_registro": "22871987943",
+  "ACC": "",
+  "permissão": "AB",
+  "número_válido": "569728621"
+}
+```
+
+Se alguma informação não estiver disponível ou estiver em branco, o valor correspondente na chave deverá ser uma string vazia.

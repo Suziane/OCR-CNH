@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "RIBAS VAZ LEITE",
+  "CPF": "291.962.454-76",
+  "filiação": "OLADIO REJEL VILEMAR, BRISOLARI KARYNA T DUARTE",
+  "data de nascimento": "21/09/1958",
+  "primeira habilitação": "21/12/1952",
+  "validade": "30/08/1957",
+  "documento de identidade": "328655090",
+  "órgão emissor": "SEJ",
+  "UF": "AL",
+  "número do registro": "72542003479",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número válido": "680202354"
+}
+```

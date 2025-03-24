@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "CARMES DECINA LINDMAYER",
+  "CPF": "579.575.651-23",
+  "filiação": "BONALDO MOBIGLIA OMAKI, ROBUSTI MAGELO BALAR",
+  "data de nascimento": "01/05/2017",
+  "primeira habilitação": "28/03/1985",
+  "validade": "18/10/2004",
+  "documento de identidade": "370349532",
+  "órgão emissor": "SSP",
+  "UF": "RS",
+  "número do registro": "52489669888",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número válido": "181798488"
+}
+```

@@ -1,0 +1,22 @@
+Aqui está o resultado do reconhecimento dos campos solicitados, organizado em um arquivo JSON:
+
+```json
+{
+    "nome": "MEZZALIRA DEVITO DWEK",
+    "CPF": "335.251.531-04",
+    "filiação": "JEKI RUZENE GIANGIACOMO PIRES\nMADALSA MOSNIAX NAVA",
+    "data_de_nascimento": "15/06/1972",
+    "primeira_habilitação": "11/10/1987",
+    "validade": "12/11/1996",
+    "documento_de_identidade": "715668218",
+    "órgão_emissor": "SRS",
+    "UF": "ES",
+    "número_do_registro": "692811335498",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "",
+    "número_válido": ""
+}
+```
+
+Caso haja alguma outra solicitação ou necessidade, estou à disposição!

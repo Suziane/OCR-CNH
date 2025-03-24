@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "TERUO PORTIOLI AILEEN",
+  "CPF": "892.761.738-03",
+  "filiação": "TIRLCNE MIROL ZACURA, CASSINI FONTI GARAVELL",
+  "data de nascimento": "22/05/1973",
+  "primeira habilitação": "05/10/1993",
+  "validade": "29/05/1977",
+  "documento de identidade": "593081420",
+  "órgão emissor": "SESP",
+  "UF": "GO",
+  "número do registro": "23312733481",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número válido": "732413754"
+}
+```

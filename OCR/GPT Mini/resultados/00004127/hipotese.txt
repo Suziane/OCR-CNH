@@ -1,0 +1,21 @@
+Aqui está o reconhecimento dos campos da imagem em formato JSON:
+
+```json
+{
+    "nome": "RATNER REINACH KUNG",
+    "cpf": "842.424.150-95",
+    "filiação": "CEVEIRA PETRINI VILLANUE, MARGARITA HELFEN DA MATA",
+    "data_nascimento": "16/11/2012",
+    "primeira_habilitação": "05/12/1994",
+    "validade": "15/08/2019",
+    "documento_identidade": "399083583",
+    "orgão_emissor": "SPTC",
+    "uf": "SP",
+    "número_do_registro": "21778399837",
+    "acc": "",
+    "permissão": "B",
+    "categoria": ""
+}
+```
+
+Caso precise de mais alguma informação ou ajuste, é só avisar!

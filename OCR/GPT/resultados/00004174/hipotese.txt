@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "TRAPANI CARIA DULFES",
+    "CPF": "363.116.832-16",
+    "filiação": "NADIR VESCIO ANTHERO, GERSOM SCHENK KASHIMA DULFES",
+    "data de nascimento": "20/08/2008",
+    "primeira habilitação": "17/12/1998",
+    "validade": "12/09/2028",
+    "documento de identidade": "187392684",
+    "órgão emissor": "SSP",
+    "UF": "MG",
+    "número do registro": "035584150229",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "",
+    "número válido": "653490396"
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "RAUAN CHIARAMELLI FIERUZZI",
+  "cpf": "410.449.173-00",
+  "filiação": "RALISCH TAH CESE, NIVEA LINN HERMAN RODRIGUES",
+  "data de nascimento": "07/10/1985",
+  "primeira habilitação": "30/05/1984",
+  "validade": "18/06/1961",
+  "documento de identidade": "378462532",
+  "órgão emissor": "SNJ",
+  "UF": "PB",
+  "número do registro": "9921067503",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "D",
+  "número válido": "535884215"
+}
+```

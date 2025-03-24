@@ -1,0 +1,19 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos:
+
+```json
+{
+    "nome": "LEN MORENTI REMEDI",
+    "cpf": "051.999.709-33",
+    "filiação": "HABITZREUTER ALBERICI BA DA COSTA\nSCATAMBULO NADUDVARI BIAN PIRES",
+    "data_nascimento": "24/07/2003",
+    "primeira_habilitação": "29/12/1954",
+    "validade": "21/04/2019",
+    "documento_identidade": "3646991916",
+    "órgão_emissor": "POM",
+    "uf": "PR",
+    "número_do_registro": "35102539471",
+    "acc": "",
+    "permissão": "A",
+    "categoria": ""
+}
+```

@@ -1,0 +1,22 @@
+Aqui está o resultado organizado em um arquivo JSON com os campos solicitados:
+
+```json
+{
+  "nome": "TAUKEUTI LINARES CAMIL",
+  "cpf": "324.824.170-58",
+  "filiação": "GEVANILDO LARANJEIRO CASTRO, RAZABONE TOLOI STROH",
+  "data_nascimento": "26/10/1964",
+  "primeira_habilitação": "05/10/1980",
+  "validade": "01/09/1990",
+  "documento_identidade": "961634018 SNJ PI",
+  "orgão_emissor": "SNJ",
+  "uf": "PI",
+  "número_registro": "41620993208",
+  "acc": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número_válido": "343798404"
+}
+```
+
+Qualquer campo que não foi encontrado está representado como uma string vazia.

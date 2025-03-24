@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "SCIASCIA BREGANOLLO NEDER",
+  "cpf": "242.640.305-52",
+  "filiacao": "MITICO CARRASCOSSA QU MENDES GALVEZ CONTE TUILA SILVEIRA",
+  "data_nascimento": "13/05/2011",
+  "primeira_habilitacao": "03/12/2017",
+  "validade": "03/10/2004",
+  "documento_identidade": "374046700",
+  "orgao_emissor": "SDS",
+  "uf": "BA",
+  "numero_registro": "60002095827",
+  "acc": "",
+  "permissao": "",
+  "categoria": "E",
+  "numero_valido": "577984855"
+}
+```

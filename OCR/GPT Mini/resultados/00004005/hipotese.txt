@@ -1,0 +1,22 @@
+Aqui está o resultado em formato JSON com os dados reconhecidos:
+
+```json
+{
+    "nome": "CAPELLARO GIZELE ANAHY",
+    "cpf": "706.195.980-00",
+    "filiação": "SCUTA VIDOTO LUDOVI FACCIONE URBANO KEIDI",
+    "data_de_nascimento": "27/06/1994",
+    "primeira_habilitação": "16/07/1981",
+    "validade": "11/09/1971",
+    "documento_de_identidade": "843176076",
+    "órgão_emissor": "SESP",
+    "UF": "SP",
+    "número_do_registro": "352797842118",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "C",
+    "número_válido": "392745853"
+}
+``` 
+
+Caso algum campo não possa ser encontrado, o valor está atribuído como uma string vazia. Se precisar de mais alguma coisa, é só avisar!

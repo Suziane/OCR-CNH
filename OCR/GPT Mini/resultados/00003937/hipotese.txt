@@ -1,0 +1,22 @@
+Aqui está o reconhecimento dos campos solicitados em formato JSON:
+
+```json
+{
+  "nome": "TAKUSHI CUPERTINO TAKIISHI",
+  "CPF": "878.132.462-68",
+  "filiação": "HOU MOLEIRO COLINA",
+  "data_nascimento": "13/06/1979",
+  "primeira_habilitação": "01/06/1965",
+  "validade": "21/02/2007",
+  "documento_de_identidade": "467498878",
+  "órgão_emissor": "SDS",
+  "UF": "RS",
+  "número_do_registro": "73651673578",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número_válido": ""
+}
+```
+
+Caso tenha mais alguma solicitação, fique à vontade para perguntar!

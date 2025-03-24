@@ -1,0 +1,21 @@
+Aqui está o resultado organizado em um formato JSON com base nas informações reconhecidas:
+
+```json
+{
+    "nome": "BERTOLAMI ANDRELEVIcius",
+    "cpf": "210.834.914-66",
+    "filiacao": "HEMERLY FABOZZI FERRAN SILVA, BIA RUPPERT NISHIOKA DA PAZ",
+    "data_nascimento": "01/02/2001",
+    "primeira_habilitacao": "21/06/1997",
+    "validade": "20/10/2014",
+    "documento_identidade": "652550185 SESP SC",
+    "orgao_emissor": "",
+    "uf": "",
+    "numero_registro": "95765411627",
+    "acc": "B",
+    "permissao": "",
+    "categoria": ""
+}
+```
+
+Note que campos em branco foram atribuídos como strings vazias, conforme solicitado.

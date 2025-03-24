@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "COLIN DESTEFANO QUIREZA",
+    "cpf": "837.629.283-80",
+    "filiacao": "CERA TORRALVO CAMPANHAO, DARIUS MASSAO SCHUCHMANN",
+    "data_de_nascimento": "20/12/1982",
+    "primeira_habilitacao": "10/06/2002",
+    "validade": "09/09/1982",
+    "documento_de_identidade": "770120787",
+    "orgao_emissor": "SJS",
+    "uf": "SP",
+    "numero_do_registro": "96603318314",
+    "acc": "",
+    "permissao": "",
+    "categoria": "D",
+    "numero_valido": "262612878"
+}
+```

@@ -1,0 +1,22 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos da imagem:
+
+```json
+{
+  "nome": "SALVINE BUTZER FIDALGO",
+  "cpf": "561.470.061-77",
+  "filiacao": "ODIRLEI AYO GARRO\nZARELLI TSUDA AN NASCIMENTO",
+  "data_nascimento": "19/02/1957",
+  "primeira_habilitacao": "01/03/2006",
+  "validade": "09/11/1960",
+  "documento_identidade": "4114393905",
+  "orgao_emissor": "SEJ",
+  "uf": "MG",
+  "numero_registro": "64044755209",
+  "acc": "",
+  "permissao": "",
+  "categoria": "B",
+  "numero_valido": "798727944"
+}
+```
+
+Neste JSON, todos os campos foram preenchidos conforme solicitado. Campos que não foram encontrados foram atribuídos como strings vazias.

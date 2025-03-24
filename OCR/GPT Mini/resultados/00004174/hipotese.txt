@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "ITZAPANI CARIA DULLES",
+  "CPF": "",
+  "filiação": "NADIR VESCIO ANTHERC; GIESM SCHENK KASHINA DUETTE",
+  "data_de_nascimento": "20/08/2002",
+  "primeira_habilitação": "",
+  "validade": "",
+  "documento_de_identidade": "187392264 3J3 MG",
+  "órgão_emissor": "",
+  "UF": "MG",
+  "número_do_registro": "363.116.832-16",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "",
+  "número_válido": ""
+}
+```

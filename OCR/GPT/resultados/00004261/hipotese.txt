@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "KURITA LUHUEY CALIFE",
+  "CPF": "529.259.296-05",
+  "filiação": "SUETSUGU MONTU JADE PEREIRA PASSARI HISAYASU NIRSCHL BARBOSA",
+  "data de nascimento": "13/03/1958",
+  "primeira habilitação": "25/06/1980",
+  "validade": "28/06/1992",
+  "documento de identidade": "349686166",
+  "órgão emissor": "SEJ",
+  "UF": "BA",
+  "número do registro": "92092084712",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "C",
+  "número válido": "367276998"
+}
+```

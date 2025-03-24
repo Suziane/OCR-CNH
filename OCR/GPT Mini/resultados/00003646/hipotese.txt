@@ -1,0 +1,21 @@
+Aqui está o reconhecimento dos campos solicitados organizados em um arquivo JSON:
+
+```json
+{
+    "nome": "FUCCIO CAVICHIOLI CATARINA",
+    "cpf": "131.492.910-03",
+    "filiação": "CECARA INGRAC RODRIGUES CAPPIABIANCO REV MENDES",
+    "data_de_nascimento": "06/08/1997",
+    "primeira_habilitação": "29/11/1954",
+    "validade": "22/08/2003",
+    "documento_de_identidade": "870068659 SSP CE",
+    "órgão_emissor": "SSP CE",
+    "uf": "",
+    "número_do_registro": "4778173222",
+    "acc": "",
+    "permissão": "",
+    "categoria": ""
+}
+```
+
+Os campos que não foram encontrados foram preenchidos com strings vazias.

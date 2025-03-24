@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "ABRAMOVICI ZAKKA MARIAN",
+  "cpf": "664.346.198-71",
+  "filiação": "ALBARELLI FRAGA TOSTE, COLLACO TIBERTI RIVELLIS MELO",
+  "data_nascimento": "19/12/1972",
+  "primeira_habilitação": "13/09/1978",
+  "validade": "31/12/1982",
+  "documento_identidade": "842193510",
+  "orgão_emissor": "SJS",
+  "uf": "RS",
+  "número_registro": "07066215802",
+  "acc": "",
+  "permissão": "",
+  "categoria": "D",
+  "número_válido": "934186691"
+}
+```

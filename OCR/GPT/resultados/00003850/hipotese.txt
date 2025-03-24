@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "KOYAMA BUCHELE BESSE",
+  "CPF": "070.870.114-05",
+  "filiação": "KANAE BOLDRIN REZK CARDOSO AVELLAR SALLES MERET REZENDE",
+  "data_nascimento": "18/06/2016",
+  "primeira_habilitação": "26/03/1985",
+  "validade": "30/08/2013",
+  "documento_identidade": "928991891",
+  "orgao_emissor": "SSP",
+  "UF": "GO",
+  "numero_registro": "71955477521",
+  "ACC": "",
+  "permissao": "",
+  "categoria": "AB",
+  "numero_valido": "235894149"
+}
+```

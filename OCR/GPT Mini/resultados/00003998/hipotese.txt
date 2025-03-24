@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "SPINELLA KLIMUK MINOZZI",
+    "cpf": "394.601.539-50",
+    "filiação": "MIOTO NOVOTNY RAPADO DA CUNHA CAVOLLA FURUKAVA ABONDANZA PIRES",
+    "data_nascimento": "18/09/1977",
+    "primeira_habilitação": "24/08/2004",
+    "validade": "22/06/1989",
+    "documento_identidade": "635908931",
+    "orgao_emissor": "SEJ",
+    "uf": "MG",
+    "numero_registro": "87281184878",
+    "acc": "",
+    "permissao": "",
+    "categoria": "A",
+    "numero_valido": "720512449"
+}
+```

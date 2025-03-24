@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "SERVILHA SANADA SORIO",
+  "cpf": "850.788.637-02",
+  "filiação": "LUCIE FRACCHIA LAFRAIA",
+  "data_nascimento": "26/04/1967",
+  "primeira_habilitação": "29/10/2002",
+  "validade": "29/06/1987",
+  "documento_identidade": "671985012",
+  "orgão_emissor": "POM",
+  "UF": "PI",
+  "número_do_registro": "13395625254",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "D",
+  "número_válido": "659941839"
+}
+```

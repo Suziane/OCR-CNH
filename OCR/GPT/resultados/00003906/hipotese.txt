@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "IMYRA ZANONI ALLEONI",
+  "CPF": "962.521.119-53",
+  "filiação": "BRAIT BIAGGIO ESTEPHAN PIRES, PETTY NALI LAIR SALES",
+  "data de nascimento": "01/08/1996",
+  "primeira habilitação": "17/09/2013",
+  "validade": "26/04/1986",
+  "documento de identidade": "256887548",
+  "órgão emissor": "SSP",
+  "UF": "PE",
+  "número do registro": "20999128948",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número válido": "410945090"
+}
+```

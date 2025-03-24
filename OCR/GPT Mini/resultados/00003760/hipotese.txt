@@ -1,0 +1,22 @@
+Aqui está o resultado organizado em formato JSON, conforme solicitado:
+
+```json
+{
+    "nome": "NORMANHA HUMANTSCHUK PRETI",
+    "cpf": "730.188.933-01",
+    "filiação": "TCHIZLI FUZIY C ARAUJO HAJALA JADE KLEINHAPPEL COSTA",
+    "data_nascimento": "31/07/2017",
+    "primeira_habilitação": "17/10/1966",
+    "validade": "30/09/1968",
+    "documento_identidade": "502415186",
+    "orgão_emissor": "SESP",
+    "uf": "SP",
+    "número_registro": "03748820310",
+    "acc": "",
+    "permissão": "",
+    "categoria": "",
+    "número_válido": ""
+}
+```
+
+Note que os campos que não foram encontrados foram deixados como strings vazias.

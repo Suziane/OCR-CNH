@@ -1,0 +1,17 @@
+```json
+{
+    "nome": "KURMAN ONO STERN",
+    "CPF": "383.622.829-75",
+    "filiação": "GOTILLA MITSUTANI PATC PAGLIARI DANIEL B TEIXEIRA",
+    "data_de_nascimento": "26/08/1969",
+    "primeira_habilitação": "28/12/1966",
+    "validade": "10/04/1978",
+    "documento_de_identidade": "366805368",
+    "órgão_emissor": "SES",
+    "UF": "PE",
+    "número_do_registro": "66792212465",
+    "ACC": "",
+    "permissão": "A",
+    "categoria": ""
+}
+```

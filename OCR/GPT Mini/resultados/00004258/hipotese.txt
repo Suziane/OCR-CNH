@@ -1,0 +1,22 @@
+Aqui está o resultado organizado em formato JSON com os dados reconhecidos:
+
+```json
+{
+    "nome": "EMYLLI GALVANI HENDRES",
+    "cpf": "095.198.068-81",
+    "filiação": "LUSSIM ALEGRE TELHADO; FERRAROTTO ZARINO SOUZA",
+    "data_de_nascimento": "06/12/1991",
+    "primeira_habilitação": "14/09/2012",
+    "validade": "14/09/2012",
+    "documento_de_identidade": "832071894",
+    "órgão_emissor": "SDS",
+    "UF": "MA",
+    "número_do_registro": "66860310004",
+    "acc": "",
+    "permissão": "",
+    "categoria": "E",
+    "número_válido": ""
+}
+``` 
+
+Os campos que não foram encontrados estão representados como strings vazias.

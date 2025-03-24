@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "LEN MORENTI REMEDI",
+  "cpf": "051.999.709-33",
+  "filiacao": "HABITZREUTER ALBERICI BA DA COSTA, SCATAMBULO NADUDVARI BIAN PIRES",
+  "data_nascimento": "24/07/2003",
+  "primeira_habilitacao": "29/12/1954",
+  "validade": "21/04/2019",
+  "documento_identidade": "364699196",
+  "orgao_emissor": "POM",
+  "uf": "PR",
+  "numero_registro": "35102539471",
+  "acc": "",
+  "permissao": "",
+  "categoria": "A",
+  "numero_valido": "654272344"
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "FREINDORFER LINHARES SUSHILIA",
+    "CPF": "859.930.469-02",
+    "filiação": "GUIZILINI MELL ARTU OLIVEIRA, COSTIUC SUZARTE VALFREDO SALES",
+    "data_nascimento": "21/09/2010",
+    "primeira_habilitação": "05/04/1979",
+    "validade": "28/05/2003",
+    "documento_identidade": "005020438",
+    "órgão_emissor": "SESP",
+    "UF": "PB",
+    "número_registro": "61583252976",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "B",
+    "número_válido": "039628051"
+}
+```

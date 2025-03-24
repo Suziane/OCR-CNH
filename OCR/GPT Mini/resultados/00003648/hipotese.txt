@@ -1,0 +1,22 @@
+Aqui está o reconhecimento dos campos solicitados organizados em um arquivo JSON:
+
+```json
+{
+    "nome": "MONTERO DLUGOSZ AIMEE",
+    "cpf": "828.129.203-27",
+    "filiação": "BÁRCÉ COLMAN MOUTSOPOU PERESIN CHIOCCETTI BIGAR FERREIRA",
+    "data_nascimento": "01/08/1980",
+    "primeira_habilitação": "04/06/1983",
+    "validade": "",
+    "documento_identidade": "700135686",
+    "órgão_emissor": "SESP",
+    "UF": "RO",
+    "número_registro": "90142307111",
+    "data_nascimento_2": "16/02/1991",
+    "ACC": "",
+    "permissão": "C",
+    "número_válido": "70163929"
+}
+```
+
+Se precisar de mais alguma coisa, é só avisar!

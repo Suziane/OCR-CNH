@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "FRANCESCHI CAPUTI ALEKSAS",
+  "CPF": "021.674.294-36",
+  "filiação": "KOK BORDINO SALDEADO DA PAZ, VAIDOTAS FROMM LAO",
+  "data de nascimento": "20/04/2010",
+  "primeira habilitação": "27/07/2014",
+  "validade": "30/04/1993",
+  "documento de identidade": "464428993",
+  "órgão emissor": "SES",
+  "UF": "PR",
+  "número do registro": "33654805021",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "C",
+  "número válido": "506248623"
+}
+```

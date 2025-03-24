@@ -1,0 +1,23 @@
+Claro! Aqui está a organização dos dados em formato JSON, com os campos solicitados e os valores correspondentes com base na imagem fornecida:
+
+```json
+{
+    "nome": "MANDELI GASPARETTI DARCADIA",
+    "cpf": "798458392",
+    "filiação": "WILSON THALISSA POIANTI ACTIS ROIM OTAGU JESUS",
+    "data_de_nascimento": "27/01/1975",
+    "primeira_habilitação": "15/11/2012",
+    "validade": "11/01/2010",
+    "documento_de_identidade": "82137293047",
+    "órgão_emissor": "SNJ",
+    "uf": "",
+    "número_do_registro": "881 230.253-30",
+    "data_de_nascimento_2": "27/01/1975",
+    "acc": "",
+    "permissão": "D",
+    "categoria": "",
+    "número_válido": ""
+}
+```
+
+Caso um campo não tenha sido reconhecido, foi atribuído como uma string vazia (''). 

@@ -1,0 +1,19 @@
+Aqui está o reconhecimento dos campos solicitados, organizado em formato JSON:
+
+```json
+{
+    "nome": "BUGELLI HELVANY ZARDO",
+    "CPF": "440.936.104-01",
+    "filiacao": "COCCHI LORNA GEISON, ONEMAR LYRA BASSETTE ALMEIDA",
+    "data_nascimento": "06/06/1956",
+    "primeira_habilitacao": "29/04/1961",
+    "validade": "13/02/1998",
+    "documento_identidade": "215767366",
+    "orgao_emissor": "SNJ",
+    "UF": "MG",
+    "numero_registro": "26257445607",
+    "ACC": "",
+    "permissao": "A",
+    "categoria": ""
+}
+```

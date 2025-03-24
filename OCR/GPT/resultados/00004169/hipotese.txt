@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "TRAGANTE VERGINE FACIOLI",
+  "CPF": "641.710.268-81",
+  "filiação": "DEHIRA GINALDO BERTINI YUKIKO LOZEKAM BARROS",
+  "data de nascimento": "05/12/1989",
+  "primeira habilitação": "05/08/2001",
+  "validade": "07/03/2019",
+  "documento de identidade": "526378645",
+  "órgão emissor": "SSP",
+  "UF": "PI",
+  "número do registro": "57383358930",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número válido": "819968813"
+}
+```

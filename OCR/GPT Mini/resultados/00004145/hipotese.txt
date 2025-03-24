@@ -1,0 +1,22 @@
+Aqui está o reconhecimento dos campos solicitados organizados em formato JSON:
+
+```json
+{
+  "nome": "LAITER TSALDARIS FELITTI",
+  "CPF": "244.949.469-31",
+  "filiação": "BIGNOTTO JBARA KOST CASTRO\nSPERLING SONEGO PEN SOARES",
+  "data_de_nascimento": "08/12/1957",
+  "primeira_habilitação": "03/08/1993",
+  "validade": "20/12/1994",
+  "documento_de_identidade": "64633839C",
+  "órgão_emissor": "POM",
+  "UF": "MT",
+  "número_do_registro": "59726119814",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número_válido": "67124349"
+}
+```
+
+Certifique-se de validar os campos e os dados conforme necessário.

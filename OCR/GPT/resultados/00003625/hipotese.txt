@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "CREUSA SUGAI GALASSO",
+  "cpf": "490.667.760-64",
+  "filiacao": "DAMIANY GUELFI FADA SALES JIVAGO IZEPPI AYOUB",
+  "data_nascimento": "16/06/1978",
+  "primeira_habilitacao": "25/01/1989",
+  "validade": "14/09/1981",
+  "documento_identidade": "545315487",
+  "orgao_emissor": "SESP",
+  "uf": "MT",
+  "numero_registro": "86668490558",
+  "acc": "",
+  "permissao": "",
+  "categoria": "A",
+  "numero_valido": "12916948"
+}
+```

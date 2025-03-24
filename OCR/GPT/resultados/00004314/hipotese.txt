@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "SERAPHIM GALLUZZI BONINI",
+  "CPF": "263.128.200-09",
+  "filiação": "LEONILDO ALBIERO ARNUS COSTA, SHINODA VINAGREIRO MAL OLIVEIRA",
+  "data de nascimento": "22/08/1983",
+  "primeira habilitação": "05/09/2018",
+  "validade": "23/04/1960",
+  "documento de identidade": "920677368",
+  "órgão emissor": "SESP",
+  "UF": "CE",
+  "número do registro": "01632557054",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número válido": "675959007"
+}
+```

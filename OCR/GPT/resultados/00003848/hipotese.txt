@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "STIEGLE FROSSARD JATENE",
+  "CPF": "956.133.113-66",
+  "filiação": "LEPSKI BATAGINI FERRONE PELUCIO TRIA KEP VIEIRA",
+  "data de nascimento": "24/12/1971",
+  "primeira habilitação": "07/08/1950",
+  "validade": "01/06/2009",
+  "documento de identidade": "563438836",
+  "órgão emissor": "SDS",
+  "UF": "GO",
+  "número do registro": "67152250481",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "E",
+  "número válido": "048739015"
+}
+```

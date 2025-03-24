@@ -1,0 +1,15 @@
+{
+  "nome": "LANA THALIA YOKOSAWA",
+  "CPF": "711.664.196-30",
+  "filiação": "MENEGON RUEFO GELTON\nKRUSE VICENTIN MOCHIU",
+  "data_de_nascimento": "28/07/1982",
+  "primeira_habilitação": "01/10/2008",
+  "validade": "",
+  "documento_de_identidade": "230310643",
+  "orgão_emissor": "SNJ",
+  "UF": "SP",
+  "número_do_registro": "78726185902",
+  "ACC": "AB",
+  "permissão": "",
+  "categoria": ""
+}

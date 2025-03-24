@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "BRONIZESKI BERGER ARCHA",
+  "CPF": "993.188.311-10",
+  "filiação": "LORDELLO TACIN PLE RODRIGUES CAVALMORETTI LORIGGIO",
+  "data_de_nascimento": "29/05/1959",
+  "primeira_habilitação": "18/02/2014",
+  "validade": "21/01/1980",
+  "documento_de_identidade": "633413045",
+  "órgão_emissor": "POF",
+  "UF": "TO",
+  "número_do_registro": "39524925276",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número_válido": "466423389"
+}
+```

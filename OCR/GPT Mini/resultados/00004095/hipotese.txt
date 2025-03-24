@@ -1,0 +1,22 @@
+Aqui está o resultado reconhecido no formato JSON:
+
+```json
+{
+    "nome": "LABRONICI AYAKA FREDDY",
+    "cpf": "920.600.713-10",
+    "filiação": "GOBEL EMRANI PANARIELL MENDES\nDAIMO SLOBODTICOV JEF DA ROSA",
+    "data_nascimento": "07/08/1964",
+    "primeira_habilitação": "",
+    "validade": "24/04/1954",
+    "documento_identidade": "852552841",
+    "orgão_emissor": "SESP",
+    "uf": "PE",
+    "número_do_registro": "76795264893",
+    "acc": "E",
+    "permissão": "",
+    "categoria": "",
+    "número_válido": "225312028"
+}
+``` 
+
+Caso precise de mais alguma informação ou ajuda, é só avisar!

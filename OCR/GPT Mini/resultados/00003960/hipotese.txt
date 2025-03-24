@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "MACHLINE SU GAZZETTA",
+    "cpf": "333.442.752-83",
+    "filiacao": "TURTURA TAZIMA BALEIEIRO",
+    "data_nascimento": "16/01/2015",
+    "primeira_habilitacao": "02/07/1965",
+    "validade": "08/07/1962",
+    "documento_identidade": "971054010",
+    "orgao_emissor": "POM",
+    "uf": "AM",
+    "numero_registro": "13794173249",
+    "acc": "",
+    "permissao": "",
+    "categoria": "D",
+    "numero_valido": "790301049"
+}
+```

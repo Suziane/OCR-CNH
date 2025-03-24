@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "TATHY MAFFIA ZANINI",
+    "CPF": "135.380.098-78",
+    "filiação": "RYUITI EVELY KREYCI VIANA; ARIZA COSTADELLA DELL FREITAS",
+    "data_de_nascimento": "05/01/2001",
+    "primeira_habilitação": "",
+    "validade": "03/01/1950",
+    "documento_de_identidade": "534052265 SJS CE",
+    "órgão_emissor": "",
+    "UF": "",
+    "número_do_registro": "65013311671",
+    "ACC": "",
+    "permissão": "AB",
+    "categoria": "",
+    "número_válido": "759713345"
+}
+```

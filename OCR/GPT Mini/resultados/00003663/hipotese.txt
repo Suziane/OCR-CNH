@@ -1,0 +1,22 @@
+Aqui está o reconhecimento dos campos extraídos da imagem fornecida, organizados em formato JSON:
+
+```json
+{
+  "nome": "MORITZ HULSHOF ADEMAR",
+  "CPF": "469.112.647-31",
+  "filiação": "SCOMPARENTI GIOVANA VIDA, LENER KAMIMOTO KOJI",
+  "data_nascimento": "27/04/1989",
+  "primeira_habilitação": "13/10/1992",
+  "validade": "10/07/1985",
+  "documento_identidade": "324014600",
+  "órgão_emissor": "SESP",
+  "UF": "RS",
+  "número_do_registro": "11395387005",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número_válido": "859905670"
+}
+``` 
+
+Se precisar de mais alguma informação ou ajuste, fique à vontade para pedir!

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "DEUTNER MENICI PARON",
+  "CPF": "308.396.334-32",
+  "filiação": ["PAITARO FABIANE YBARRA", "LAURENTINO LELIC JOICE"],
+  "data de nascimento": "",
+  "primeira habilitação": "26/07/1972",
+  "validade": "08/05/1979",
+  "documento de identidade": "728753431",
+  "órgão emissor": "SDS",
+  "UF": "PI",
+  "número do registro": "12947683370",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número válido": "78919050"
+}
+```

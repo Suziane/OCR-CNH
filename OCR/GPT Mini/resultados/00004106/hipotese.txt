@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "KORTITAKI BIANCARDI BERIMB",
+  "CPF": "608.231.308-94",
+  "filiação": "POSTIGLIONE ISHIVAT PEIXOTO FERRARINI IAMARINO MAR",
+  "data_de_nascimento": "10/09/1968",
+  "primeira_habilitação": "05/12/2004",
+  "validade": "25/11/1970",
+  "documento_de_identidade": "313134960",
+  "órgão_emissor": "SJ",
+  "UF": "SP",
+  "número_do_registro": "39273436827",
+  "ACC": "",
+  "permissão": "F",
+  "categoria": "E",
+  "número_válido": ""
+}
+```

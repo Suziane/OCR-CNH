@@ -1,0 +1,23 @@
+Aqui está o resultado do reconhecimento dos campos em formato JSON:
+
+```json
+{
+  "nome": "JHANNAINA ARRIGHI ZUQUIM",
+  "cpf": "546.677.783-85",
+  "filiação": "FRANSERGIUS NAKASHIM DA COSTA CAVELLANT RINCON BARIZON VIEIRA",
+  "data_nascimento": "31/07/1994",
+  "primeira_habilitação": "",
+  "validade": "04/04/2000",
+  "documento_identidade": "855854253",
+  "orgão_emissor": "SJS",
+  "uf": "MG",
+  "número_registro": "25666709414",
+  "data_nascimento": "16/02/1956",
+  "acc": "",
+  "permissão": "",
+  "categoria": "B",
+  "número_válido": ""
+}
+```
+
+Note que alguns campos foram deixados vazios, pois não estavam presentes na imagem.

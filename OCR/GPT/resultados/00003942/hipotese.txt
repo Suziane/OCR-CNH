@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "AZEDO RINK ZENERO",
+    "CPF": "979.274.776-17",
+    "filiação": "TIBITHA RENOVATO MARCIEL, AOIRONI PAZ BOJCUK",
+    "data de nascimento": "16/12/2002",
+    "primeira habilitação": "03/01/2009",
+    "validade": "17/06/1934",
+    "documento de identidade": "0091330275",
+    "órgão emissor": "SSP",
+    "UF": "TO",
+    "número do registro": "01251486389",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "D",
+    "número válido": "6543866689"
+}
+```

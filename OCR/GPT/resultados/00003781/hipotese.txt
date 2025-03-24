@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "MARZANI FUZATTO ORLOVICIN",
+  "CPF": "608.184.821-33",
+  "filiação": "LONGANO SEMEGHINI MEIR MOURA, COLBO DENILTON PONGRACZ DA ROSA",
+  "data de nascimento": "04/04/1957",
+  "primeira habilitação": "02/05/2007",
+  "validade": "09/12/1985",
+  "documento de identidade": "366750947",
+  "órgão emissor": "POF",
+  "UF": "MG",
+  "número do registro": "45794668864",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número válido": "0890958223"
+}
+```

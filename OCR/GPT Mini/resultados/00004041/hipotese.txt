@@ -1,0 +1,22 @@
+Aqui está a estrutura em JSON com os dados reconhecidos da imagem:
+
+```json
+{
+    "nome": "VIZENTIM LYUJI GRIZILLI",
+    "cpf": "359.924.399-94",
+    "filiação": "ABDALA SHANNON CALZA ALVES; TOFOLI SERIKYAKU TIENGO SILVA",
+    "data_nascimento": "29/05/1987",
+    "primeira_habilitação": "05/04/1958",
+    "validade": "22/05/2016",
+    "documento_identidade": "327299393",
+    "órgão_emissor": "SJS",
+    "uf": "SC",
+    "número_do_registro": "797929286596",
+    "acc": "",
+    "permissão": "",
+    "categoria": "D",
+    "número_válido": "983989800"
+}
+```
+
+Caso precise de mais alguma informação ou ajuste, estou à disposição!

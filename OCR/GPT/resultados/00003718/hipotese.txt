@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "ROZAURO EDILEU MAGALHAES",
+  "CPF": "504.066.675-60",
+  "filiação": "OUROS TAKAYOSHI GALLEOTTI, DALARME MOMENTE FUKUMORI CARVALHO",
+  "data de nascimento": "06/10/2008",
+  "primeira habilitação": "15/11/1997",
+  "validade": "12/10/1967",
+  "documento de identidade": "434973361",
+  "órgão emissor": "SPTC",
+  "UF": "TO",
+  "número do registro": "71438333118",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número válido": "787576117"
+}
+```

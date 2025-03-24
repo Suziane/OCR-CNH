@@ -1,0 +1,22 @@
+Aqui está o resultado em formato JSON: 
+
+```json
+{
+  "nome": "BUGY FALCINA SONCINI",
+  "CPF": "613.163.507-20",
+  "filiação": "PAROLIN PARDELLI SEBERK SELINGART MALAGO TOMAZ",
+  "data_de_nascimento": "29/08/1981",
+  "primeira_habilitação": "",
+  "validade": "14/12/1985",
+  "documento_de_identidade": "773544490",
+  "orgão_emissor": "",
+  "UF": "",
+  "número_do_registro": "031427790",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número_válido": ""
+}
+``` 
+
+Caso precise de mais alguma informação, estou à disposição!

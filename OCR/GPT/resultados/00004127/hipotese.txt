@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "RATNER REINACH KUNG",
+    "CPF": "842.424.150-95",
+    "filiação": "CERVEIRA PETRINI VILLANUE MARGARITA HELFEN DA MATA",
+    "data de nascimento": "16/11/2012",
+    "primeira habilitação": "05/12/1994",
+    "validade": "15/08/2019",
+    "documento de identidade": "399083583",
+    "órgão emissor": "SPTC",
+    "UF": "SP",
+    "número do registro": "21788398837",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "B",
+    "número válido": "672821976"
+}
+```

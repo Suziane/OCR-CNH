@@ -1,0 +1,22 @@
+Aqui está o resultado do reconhecimento dos campos estruturados em um formato JSON:
+
+```json
+{
+  "nome": "IMYRA ZANCONI ALLEBNI",
+  "CPF": "952.521.119-53",
+  "filiação": "BRAIT GIACICO ESTEPHAN",
+  "data_de_nascimento": "26/04/1986",
+  "primeira_habilitação": "17/09/2013",
+  "validade": "",
+  "documento_de_identidade": "264.874.549 SSP-PE",
+  "órgão_emissor": "SSP-PE",
+  "UF": "PE",
+  "número_do_registro": "410945090",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número_válido": ""
+}
+```
+
+Note que alguns campos não foram encontrados e foram atribuídos valores vazios.

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "LOMBARDO ELDA LUKAS",
+  "cpf": "097.712.967-52",
+  "filiacao": "BATTACLINI KUROTORI M DA ROCHA CEZANNE ADELSON YUGOU DAS NEVES",
+  "data_de_nascimento": "29/08/1973",
+  "primeira_habilitacao": "01/01/1955",
+  "validade": "07/12/2008",
+  "documento_de_identidade": "927110660",
+  "orgao_emissor": "SDS",
+  "uf": "MG",
+  "numero_do_registro": "00856407378",
+  "acc": "",
+  "permissao": "PERMISSÃO",
+  "categoria": "B",
+  "numero_valido": "772154793"
+}
+```

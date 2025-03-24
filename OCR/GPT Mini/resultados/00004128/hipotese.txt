@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "RIAN VENANZI BRUNHEIRA",
+    "cpf": "257.202.788-77",
+    "filiação": "DAGNONE BERNARDINA SUPPO, SZKLO KAMINSKI WANDERLEI SILVEIRA",
+    "data_nascimento": "18/02/1979",
+    "primeira_habilitação": "02/07/1955",
+    "validade": "11/10/1964",
+    "documento_identidade": "233843802",
+    "orgão_emissor": "SJS",
+    "uf": "RJ",
+    "numero_registro": "14022203730",
+    "acc": "",
+    "permissão": "",
+    "categoria": "A",
+    "numero_valido": "675778925"
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "SCARMAGNAN ALBERICO HIRATSUKA",
+  "CPF": "763.651.629-29",
+  "filiação": "CLAUDINO MATARUC CARVALHO, JEFFERSON CASSALES NAS ARAUJO",
+  "data_de_nascimento": "10/10/1983",
+  "primeira_habilitação": "18/02/1958",
+  "validade": "02/07/1970",
+  "documento_de_identidade": "377924374",
+  "órgão_emissor": "SNJ",
+  "UF": "BA",
+  "número_do_registro": "82719883253",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número_válido": "0639924"
+}
+```

@@ -1,0 +1,21 @@
+Aqui está o resultado do reconhecimento dos campos solicitados, organizado em formato JSON:
+
+```json
+{
+  "nome": "SACCO MIZUMA NARUZAWA",
+  "cpf": "047.308.924-61",
+  "filiação": "HOLZHAUSEN SEPTANIL GOYA ARAGO FUMIE MOSTAZO JACOB FERREIRA",
+  "data_nascimento": "23/03/1952",
+  "primeira_habilitação": "23/11/1967",
+  "validade": "20/01/2001",
+  "documento_identidade": "327048700",
+  "orgão_emissor": "SEJ",
+  "uf": "SP",
+  "número_registro": "917045398907",
+  "acc": "",
+  "permissão": "E",
+  "categoria": ""
+}
+```
+
+Se precisar de mais alguma coisa, é só avisar!

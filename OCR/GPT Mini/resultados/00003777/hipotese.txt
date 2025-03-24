@@ -1,0 +1,21 @@
+Aqui está o reconhecimento dos campos solicitados, organizados no formato JSON:
+
+```json
+{
+  "nome": "GOLDSTEIN MUKATA RAMPONI",
+  "cpf": "480.645.201-77",
+  "filiacao": "TANACA GHANI FESTA\nRENN ARAUJO SEON CALDEIRA",
+  "data_nascimento": "15/11/1980",
+  "primeira_habilitacao": "24/11/2019",
+  "validade": "14/11/1953",
+  "documento_identidade": "050048272",
+  "orgao_emissor": "POM",
+  "uf": "GO",
+  "numero_registro": "547992845819",
+  "acc": "",
+  "permissao": "AB",
+  "numero_valido": "213038266"
+}
+```
+
+Qualquer campo que não foi encontrado foi atribuído como uma string vazia.

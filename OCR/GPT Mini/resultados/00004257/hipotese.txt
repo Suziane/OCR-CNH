@@ -1,0 +1,22 @@
+Aqui está o reconhecimento dos campos solicitados organizados em formato JSON:
+
+```json
+{
+  "nome": "CONEGO KOMUKAI MENANI",
+  "CPF": "156.930.341-00",
+  "filiação": "LUSTOZA RONDELO RUGGIERI DA LUZ",
+  "data_nascimento": "09/05/2018",
+  "primeira_habilitação": "19/12/1981",
+  "validade": "",
+  "documento_identidade": "1975255113 POM RS",
+  "órgão_emissor": "POM",
+  "UF": "RS",
+  "número_registro": "66273285568",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "1ª HABILITAÇÃO",
+  "número_válido": "255486240"
+}
+```
+
+Note que alguns campos não foram encontrados e foram deixados como strings vazias.

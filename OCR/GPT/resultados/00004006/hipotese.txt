@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "BERTOLAMI ANDRELEVICIUS",
+  "cpf": "210.834.914-66",
+  "filiacao": "HEMERLY FABOZZI FERRAN SILVA, BIA RUPPERT NISHIOKA DA PAZ",
+  "data_nascimento": "01/02/2001",
+  "primeira_habilitacao": "22/10/2014",
+  "validade": "21/06/1997",
+  "documento_identidade": "662550185",
+  "orgao_emissor": "SESP",
+  "uf": "SC",
+  "numero_registro": "95765411627",
+  "acc": "",
+  "permissao": "",
+  "categoria": "B",
+  "numero_valido": "339871160"
+}
+```

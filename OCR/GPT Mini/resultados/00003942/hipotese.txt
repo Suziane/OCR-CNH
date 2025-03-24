@@ -1,0 +1,22 @@
+Aqui está a estrutura JSON com os campos identificados a partir da imagem:
+
+```json
+{
+  "nome": "AZEDO RINK ZENZERO",
+  "cpf": "979.274.776-17",
+  "filiacao": "TIBITHA RENOVATO MARICEL",
+  "data_nascimento": "16/12/2002",
+  "primeira_habilitacao": "01/01/2009",
+  "validade": "17/06/1934",
+  "documento_identidade": "",
+  "orgao_emissor": "SSP",
+  "uf": "TO",
+  "numero_registro": "01251486388",
+  "acc": "",
+  "permissao": "D",
+  "categoria": "D",
+  "numero_valido": ""
+}
+```
+
+Os campos foram preenchidos com os dados visíveis na imagem, enquanto os campos não encontrados receberam uma string vazia.

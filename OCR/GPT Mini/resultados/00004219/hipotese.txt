@@ -1,0 +1,22 @@
+Aqui está o resultado do reconhecimento dos campos em formato JSON, de acordo com os dados presentes na imagem:
+
+```json
+{
+    "nome": "JUASSE AYOU SHIMAZU",
+    "CPF": "534.365.143-73",
+    "filiação": "BITUGAN ANASTACIO CAR",
+    "data_de_nascimento": "09/12/1974",
+    "primeira_habilitação": "",
+    "validade": "20/03/2000",
+    "documento_de_identidade": "104736173 POM PT",
+    "órgão_emissor": "",
+    "UF": "",
+    "número_do_registro": "",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "",
+    "número_válido": "978.756.100"
+}
+```
+
+Neste JSON, campos que não puderam ser reconhecidos foram deixados como strings vazias.

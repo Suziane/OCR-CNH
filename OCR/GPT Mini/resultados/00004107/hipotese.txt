@@ -1,0 +1,22 @@
+Aqui está a estrutura JSON solicitada baseada nas informações da imagem:
+
+```json
+{
+    "nome": "CHUERI CERASI JHONATHAN",
+    "CPF": "553.445.471-70",
+    "filiação": "MADALENA SALVIN MENDES YAKUSHIJIN COLETA ABRAMOVI RODRIGUES",
+    "data_nascimento": "22/07/2008",
+    "primeira_habilitação": "16/03/2001",
+    "validade": "19/08/1965",
+    "documento_identidade": "051241171 SEJ MG",
+    "órgão_emissor": "DETRAN",
+    "UF": "MG",
+    "número_do_registro": "43450407657",
+    "ACC": "",
+    "permissão": "D",
+    "categoria": "",
+    "número_válido": "4475373"
+}
+```
+
+Caso algum campo não tenha sido reconhecido, ele foi atribuído como uma string vazia.

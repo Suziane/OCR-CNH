@@ -1,0 +1,22 @@
+Aqui está o reconhecimento dos campos solicitados, formatado em JSON:
+
+```json
+{
+  "nome": "VICTOR ROSSELINI DCTTAVIANO",
+  "cpf": "068.962.517-00",
+  "filiação": "DALMAU REGIS TADDE LOPES CORTEZ SQUASSONI FAS DAS NEVES",
+  "data_nascimento": "20/01/1961",
+  "primeira_habilitação": "05/02/2014",
+  "validade": "05/12/2000",
+  "documento_identidade": "7504044392 SEU RS",
+  "órgão_emissor": "SEU",
+  "UF": "RS",
+  "número_registro": "71377147240",
+  "data_nascimento": "20/01/1961",
+  "acc": "",
+  "permissão": "A",
+  "categoria": ""
+}
+```
+
+Note que campos não encontrados foram preenchidos como strings vazias.

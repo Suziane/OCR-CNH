@@ -1,0 +1,21 @@
+Aqui está o resultado organizado em formato JSON com os campos reconhecidos:
+
+```json
+{
+  "nome": "BRAGUIERI BRADNA VASILC",
+  "cpf": "290.698.191-55",
+  "filiação": "ALYNE WEIDLE RAFACHO, FLAMINIO CANTARELI MORAES",
+  "data_de_nascimento": "06/03/1953",
+  "primeira_habilitação": "13/03/1986",
+  "validade": "26/06/2017",
+  "documento_de_identidade": "868266084",
+  "órgão_emissor": "SPTC",
+  "UF": "MG",
+  "número_do_registro": "85652449733",
+  "ACC": "",
+  "permissão": "A",
+  "categoria": ""
+}
+```
+
+Campo ACC e categoria não foram encontrados, portanto, foram deixados como strings vazias.

@@ -1,0 +1,23 @@
+Aqui está o resultado do reconhecimento dos campos da imagem no formato JSON:
+
+```json
+{
+    "nome": "FALCAPELLA RAVANCHOLLI GRIMBERG",
+    "CPF": "208.838.113-91",
+    "filiação": "ARAMAKI MORELLO NA ALVES\nBITOS CAMILI BONIST",
+    "data_de_nascimento": "11/12/1981",
+    "primeira_habilitação": "",
+    "validade": "21/07/1992",
+    "documento_de_identidade": "",
+    "órgão_emissor": "SDS SP",
+    "UF": "",
+    "número_do_registro": "29714362525",
+    "data_de_nascimento_2": "21/07/1992",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "D",
+    "número_válido": ""
+}
+```
+
+Os campos foram preenchidos com os dados disponíveis ou deixados como strings vazias quando não encontrados.

@@ -1,0 +1,22 @@
+Aqui está a estrutura JSON baseada nas informações reconhecidas na imagem:
+
+```json
+{
+  "nome": "SERRA TSAI SAUSMIKAT",
+  "CPF": "969.601.478-32",
+  "filiação": "SECKLER DANUSA THENILE PIRES, OERTES OTAVIO GIANESSELLA FREITAS",
+  "data_de_nascimento": "21/03/1998",
+  "primeira_habilitação": "",
+  "validade": "11/12/2019",
+  "documento_de_identidade": "1148482212",
+  "orgão_emissor": "SES MG",
+  "UF": "",
+  "número_do_registro": "183608928216",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "D",
+  "número_válido": "015959819"
+}
+```
+
+Os campos foram preenchidos conforme as informações disponíveis na imagem. Algumas entradas foram deixadas como strings vazias, pois não foram encontradas.

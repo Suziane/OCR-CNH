@@ -1,0 +1,21 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos:
+
+```json
+{
+  "nome": "CAJUBY FERRATTO LENI",
+  "cpf": "496.482.858-10",
+  "filiação": "GROTKOWSKY MONTEIRO FRE BARROS DEVIA AIUB GASPARI",
+  "data_nascimento": "10/08/1957",
+  "primeira_habilitacao": "06/12/1989",
+  "validade": "29/11/1991",
+  "documento_identidade": "231984959",
+  "orgao_emissor": "POM",
+  "uf": "MT",
+  "numero_registro": "88194136755",
+  "acc": "",
+  "permissao": "C",
+  "numero_valido": "156619714"
+}
+```
+
+Todos os campos foram preenchidos conforme solicitado, e campos não encontrados foram atribuídos como strings vazias.

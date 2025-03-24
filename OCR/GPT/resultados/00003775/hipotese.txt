@@ -1,0 +1,21 @@
+```json
+{
+    "nome": "Biazoli Camarneiro Anely",
+    "CPF": "873.488.756-37",
+    "filiação": [
+        "Caseta Chuo Nailu Da Costa",
+        "Borra Wajman Bergoce Da Mata"
+    ],
+    "data de nascimento": "10/12/1981",
+    "primeira habilitação": "25/09/1978",
+    "validade": "06/01/1997",
+    "documento de identidade": "099161503",
+    "órgão emissor": "SEJ",
+    "UF": "GO",
+    "número do registro": "30776446523",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "D",
+    "número válido": "190614006"
+}
+```

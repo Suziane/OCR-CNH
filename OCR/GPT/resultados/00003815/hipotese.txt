@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "WANDA HASHIDA DRAGONI",
+  "cpf": "852.584.208-76",
+  "filiacao": "BENEDUZI MARCONI JACONIS CAPUTO MAKINO SOMAN RIBEIRO",
+  "data_nascimento": "20/05/1999",
+  "primeira_habilitacao": "29/12/2015",
+  "validade": "30/08/1975",
+  "documento_identidade": "189673710",
+  "orgao_emissor": "SESP",
+  "uf": "RS",
+  "numero_registro": "35906746312",
+  "acc": "",
+  "permissao": "",
+  "categoria": "E",
+  "numero_valido": "714187920"
+}
+```

@@ -1,0 +1,22 @@
+Aqui está o resultado do reconhecimento dos campos em formato JSON:
+
+```json
+{
+  "nome": "BEORDO FUZINATO LEMIKA",
+  "CPF": "200.914.419-86",
+  "filiação": "FINOTTI DELLISA ESTEPEH, TORTORO LAURICILLA HIDEKA CAVALCANTI",
+  "data_nascimento": "25/10/1998",
+  "primeira_habilitação": "16/02/2009",
+  "validade": "13/08/1969",
+  "documento_identidade": "182537523",
+  "orgão_emissor": "SESP",
+  "UF": "PR",
+  "número_registro": "62102209162",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "C",
+  "número_válido": "656103720"
+}
+```
+
+Se precisar de mais alguma informação ou ajuste, estou à disposição!

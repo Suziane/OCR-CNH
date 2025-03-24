@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "MAITSUDA URBINATTI LEH",
+    "CPF": "664.319.096-74",
+    "filiação": "LINTI PIEVE DELGATTO; TRANSLATTI HILDA SOTO",
+    "data_nascimento": "28/05/1953",
+    "primeira_habilitação": "20/11/2004",
+    "validade": "04/09/1973",
+    "documento_de_identidade": "752797554",
+    "órgão_emissor": "SE",
+    "UF": "MT",
+    "número_do_registro": "87726787399",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "D",
+    "número_válido": ""
+}
+```

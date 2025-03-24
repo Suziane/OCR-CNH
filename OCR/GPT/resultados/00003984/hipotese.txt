@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "MALTEZ JARMENDIA NA",
+  "cpf": "143.223.123-57",
+  "filiacao": "SPRINGER ALEIXO FUTAGAWA BOVI MIR CAVALCANTI",
+  "data_nascimento": "30/01/1969",
+  "primeira_habilitacao": "15/11/1987",
+  "validade": "19/11/1995",
+  "documento_identidade": "766167463",
+  "orgao_emissor": "SPTC",
+  "uf": "SP",
+  "numero_registro": "81289846643",
+  "acc": "",
+  "permissao": "",
+  "categoria": "B",
+  "numero_valido": "232481939"
+}
+```

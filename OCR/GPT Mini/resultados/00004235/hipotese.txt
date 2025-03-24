@@ -1,0 +1,21 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos:
+
+```json
+{
+  "nome": "SISSI BUSTOS CONSTANT",
+  "CPF": "518.084.070-83",
+  "filiação": "FILOSO TOSO SPAGOLA; DALMITRA LURIKO FRASSIN BARBOSA",
+  "data_de_nascimento": "16/11/1952",
+  "primeira_habilitação": "07/02/2001",
+  "validade": "30/06/2006",
+  "documento_de_identidade": "364900015",
+  "órgão_emissor": "SNJ",
+  "UF": "SF",
+  "número_do_registro": "747766686608",
+  "ACC": "",
+  "permissão": "E",
+  "categoria": ""
+}
+```
+
+Caso precise de mais alguma coisa, estou à disposição!

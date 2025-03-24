@@ -1,0 +1,17 @@
+```json
+{
+  "nome": "JEZLER BERTONHA CICCONI",
+  "cpf": "371.629.693-72",
+  "filiacao": "ROSILENE FAIZBAIOFF F, DAIKUZONO THAYLA LEONAN FERNANDES",
+  "data_nascimento": "08/06/1955",
+  "primeira_habilitacao": "07/03/1963",
+  "validade": "22/08/2016",
+  "documento_identidade": "905470643",
+  "orgao_emissor": "SES",
+  "uf": "SP",
+  "numero_registro": "10449991175",
+  "acc": "",
+  "permissao": "A",
+  "categoria": ""
+}
+```

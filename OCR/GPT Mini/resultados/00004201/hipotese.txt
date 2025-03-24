@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "EUN YREITZUMI PALARETTI",
+  "cpf": "733 824.911-33",
+  "filiacao": "HERZILIO DIODI NORYO\nHAMED CAPELIA LIVIA RODRIGUES",
+  "data_nascimento": "27/05/1990",
+  "primeira_habilitacao": "14/04/1958",
+  "validade": "05/03/2001",
+  "documento_identidade": "119485227",
+  "orgao_emissor": "SP/DT",
+  "uf": "AL",
+  "numero_registro": "74465715384",
+  "acc": "",
+  "permissao": "E",
+  "categoria": "",
+  "numero_valido": "580794595"
+}
+```

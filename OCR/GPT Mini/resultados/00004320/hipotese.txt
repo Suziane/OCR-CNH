@@ -1,0 +1,21 @@
+Aqui está o resultado do reconhecimento dos campos a partir da imagem fornecida, organizado em um arquivo JSON:
+
+```json
+{
+    "nome": "REGENTHAL GUNGORA SIGNORI",
+    "cpf": "623.958.488-67",
+    "filiação": "GALLELLO BACCO BONIM RIBEIRO, CANEZIM TAKEUCHI POCCI RODRIGUES",
+    "data_nascimento": "11/02/2002",
+    "primeira_habilitação": "04/10/1969",
+    "validade": "06/05/2019",
+    "documento_identidade": "723980726",
+    "orgão_emissor": "SEJ",
+    "uf": "MG",
+    "número_do_registro": "41158685093",
+    "acc": "",
+    "permissão": "C",
+    "categoria": ""
+}
+```
+
+Caso precise de mais informações ou outros formatos, estou à disposição!

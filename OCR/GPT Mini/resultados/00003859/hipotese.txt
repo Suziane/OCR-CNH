@@ -1,0 +1,19 @@
+```json
+{
+    "nome": "KORITTAKI BIANCARDI BERIMB",
+    "cpf": "608.231.308-94",
+    "filiação": "POSTIGLIONE ISHVANT FEIXOTO FERRARINI IMARINO MAR",
+    "data_nascimento": "10/09/1968",
+    "primeira_habilitação": "",
+    "validade": "25/11/1970",
+    "documento_identidade": "311314960",
+    "órgão_emissor": "SP",
+    "uf": "",
+    "número_registro": "39273436827",
+    "data_nascimento": "10/09/1968",
+    "acc": "",
+    "permissão": "FIRMÇÃO",
+    "categoria": "E",
+    "número_válido": "113861310"
+}
+```

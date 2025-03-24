@@ -1,0 +1,22 @@
+Aqui está o resultado no formato JSON com os campos reconhecidos:
+
+```json
+{
+  "nome": "FRANCESCHI CAPUTI ALEKSAS",
+  "cpf": "021.674.294-36",
+  "filiação": "KKK BORDINO SALDEADO DA PAZ VAIDOTAS FROMM LAO",
+  "data_nascimento": "20/04/2010",
+  "primeira_habilitação": "",
+  "validade": "30/04/1993",
+  "documento_identidade": "464428993",
+  "orgão_emissor": "SES",
+  "uf": "PR",
+  "numero_registro": "33654805021",
+  "acc": "",
+  "permissão": "C",
+  "categoria": "",
+  "numero_valido": "506248623"
+}
+```
+
+Caso precise de mais alguma informação, é só avisar!

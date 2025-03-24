@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "MACHI VALIATI LORIZ",
+  "CPF": "427.380.537-50",
+  "filiação": "ANTENOR MARUI CASATE, LEONCINI ROSANE CUMPR PEREIRA",
+  "data de nascimento": "13/02/1970",
+  "primeira habilitação": "17/01/1967",
+  "validade": "17/06/2001",
+  "documento de identidade": "689079297",
+  "órgão emissor": "SNJ",
+  "UF": "RS",
+  "número do registro": "96746852350",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número válido": "173238167"
+}
+```

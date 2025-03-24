@@ -1,0 +1,20 @@
+Aqui está o resultado organizado em formato JSON com base nos campos que você mencionou:
+
+```json
+{
+  "nome": "VANTIM NOBUOCHI GRAZI",
+  "CPF": "705.407.353-37",
+  "filiação": "MANFRED SCHECW VALADARE SANTOS",
+  "data_nascimento": "29/08/1997",
+  "primeira_habilitação": "25/11/2000",
+  "validade": "05/08/1977",
+  "documento_identidade": "614289117 POM MG",
+  "órgão_emissor": "",
+  "UF": "",
+  "número_registro": "26919169608",
+  "ACC": "A",
+  "permissão": ""
+}
+```
+
+Caso precise de mais alguma informação ou ajuste, é só avisar!

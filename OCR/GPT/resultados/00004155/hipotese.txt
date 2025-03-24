@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "MAYCKOL ZAREBSKI GOIA",
+  "CPF": "359.409.377-80",
+  "filiação": "LETTIERE CHIYODA SEUNG MAZZEU CONSTANCIO BA",
+  "data de nascimento": "16/04/1959",
+  "primeira habilitação": "07/07/1982",
+  "validade": "20/05/1967",
+  "documento de identidade": "399246241",
+  "órgão emissor": "SSP",
+  "UF": "MA",
+  "número do registro": "26007679003",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "D",
+  "número válido": "782027424"
+}
+```

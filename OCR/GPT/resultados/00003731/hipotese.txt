@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "PRESOTO NINA ORABONA",
+    "CPF": "391.631.827-69",
+    "filiação": "OSAKI RUEDA GILLI, DORINHA GARDE INNOC MARTINS",
+    "data de nascimento": "31/05/1953",
+    "primeira habilitação": "02/12/1971",
+    "validade": "01/10/1960",
+    "documento de identidade": "859358513",
+    "órgão emissor": "SESP",
+    "UF": "MG",
+    "número do registro": "56214249153",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "D",
+    "número válido": "938487005"
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "OTERO KADOMOTO SIE",
+  "CPF": "554.019.282-62",
+  "filiação": "SRIGUENAGA ONIKI EGIDIO, NYE SCHUDT SANDANELLO",
+  "data_nascimento": "05/11/1961",
+  "primeira_habilitação": "25/03/2013",
+  "validade": "20/07/1973",
+  "documento_identidade": "343520199",
+  "órgão_emissor": "POF",
+  "UF": "MS",
+  "número_registro": "34784514120",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número_válido": "894735058"
+}
+```

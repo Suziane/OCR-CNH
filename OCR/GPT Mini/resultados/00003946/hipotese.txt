@@ -1,0 +1,22 @@
+Aqui está o resultado organizado em formato JSON com os campos reconhecidos:
+
+```json
+{
+    "nome": "OFELIA ASSENSO SATURNINO",
+    "CPF": "228.115.208-13",
+    "filiação": "NAIDHIG GENIO YONATHAN, STELLO KAWASSAKI SOARES",
+    "data_de_nascimento": "31/12/1990",
+    "primeira_habilitação": "",
+    "validade": "27/08/2020",
+    "documento_de_identidade": "58111709",
+    "órgão_emissor": "SPTC",
+    "UF": "RS",
+    "número_do_registro": "22492776633",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "A",
+    "número_válido": ""
+}
+```
+
+Os campos não encontrados foram preenchidos com strings vazias conforme solicitado.

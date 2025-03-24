@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "HANNA ZALC BERLA",
+    "cpf": "171.613.476-53",
+    "filiação": "IVANISE WEINZ NAIL LOPES KAMEYA NARDELI CAMIZ",
+    "data_nascimento": "25/03/1997",
+    "primeira_habilitação": "22/12/1994",
+    "validade": "09/03/1960",
+    "documento_identidade": "945165535",
+    "orgão_emissor": "SNJ",
+    "uf": "RS",
+    "número_do_registro": "96120535384",
+    "acc": "",
+    "permissão": "",
+    "categoria": "B",
+    "número_válido": ""
+}
+```

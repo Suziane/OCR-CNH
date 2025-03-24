@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "CURT STEPHANIE CAIRO",
+  "CPF": "123.001.285-00",
+  "filiação": "IGRECIAS TSUBOI TULLIU, ZANCOTELLO CANALI FILS DA ROSA",
+  "data de nascimento": "05/05/1994",
+  "primeira habilitação": "28/08/2019",
+  "validade": "28/07/1970",
+  "documento de identidade": "968703021",
+  "órgão emissor": "SESP",
+  "UF": "SP",
+  "número do registro": "65956907028",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número válido": "512783801"
+}
+```

@@ -1,0 +1,23 @@
+Aqui está o resultado organizado em um arquivo JSON com os dados reconhecidos:
+
+```json
+{
+  "nome": "BIERRENBACH ANAE SPLENDORELLI",
+  "CPF": "038.114.919-62",
+  "filiação": "SIVDAJ KIELING PAVSE FREITAS FARIAS BETTI GAZZOLA LIMA",
+  "data_de_nascimento": "04/09/1987",
+  "primeira_habilitação": "",
+  "validade": "07/02/2009",
+  "documento_de_identidade": "",
+  "órgão_emissor": "POM",
+  "UF": "SC",
+  "número_do_registro": "92750260363",
+  "data_de_nascimento_duplicada": "04/09/1987",
+  "ACC": "",
+  "permissão": "C",
+  "categoria": "",
+  "número_válido": "072598822"
+}
+```
+
+Caso haja mais dúvidas ou necessidade de ajustes, fique à vontade para perguntar!

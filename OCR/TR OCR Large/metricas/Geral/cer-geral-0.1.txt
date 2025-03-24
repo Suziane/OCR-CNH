@@ -1,0 +1,12 @@
+0 total_files 720 mean_cer 0.00264 success 718 error 2
+1 total_files 720 mean_cer 0.02917 success 698 error 22
+2 total_files 720 mean_cer 0.02808 success 637 error 83
+3 total_files 720 mean_cer 0.01556 success 712 error 8
+4 total_files 720 mean_cer 0.00777 success 706 error 14
+5 total_files 720 mean_cer 0.00866 success 710 error 10
+6 total_files 720 mean_cer 0.00593 success 715 error 5
+7 total_files 720 mean_cer 0.00876 success 713 error 7
+8 total_files 720 mean_cer 0.01208 success 716 error 4
+9 total_files 720 mean_cer 0.04985 success 686 error 34
+10 total_files 20 mean_cer 0.18333 success 0 error 20
+11 total_files 0 mean_cer 0 success 0 error 0

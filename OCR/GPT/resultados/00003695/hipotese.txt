@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "LOZEKAN FABRIZZIO FARESE",
+    "CPF": "932.584.828-83",
+    "filiacao": "LEONARDO MURASS MOR; CONNCATTI VANCUTIS MIXKO MOSNE",
+    "data_de_nascimento": "13/07/1964",
+    "primeira_habilitacao": "02/02/1988",
+    "validade": "",
+    "documento_de_identidade": "469719936",
+    "orgao_emissor": "SSP",
+    "UF": "SP",
+    "numero_do_registro": "05160859564",
+    "ACC": "",
+    "permissao": "",
+    "categoria": "AB",
+    "numero_valido": "2837682117"
+}
+```

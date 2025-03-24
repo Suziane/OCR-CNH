@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "MAJURI MILLS STRUZEL",
+    "CPF": "714.619.624-04",
+    "filiação": "IZBECKI GIGIOLI MALUTA, FUZER VOSS CESTARO",
+    "data de nascimento": "01/03/1951",
+    "primeira habilitação": "15/08/1991",
+    "validade": "26/08/1960",
+    "documento de identidade": "570345923",
+    "órgão emissor": "SSP",
+    "UF": "CE",
+    "número do registro": "27997232638",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "A",
+    "número válido": "224705309"
+}
+```

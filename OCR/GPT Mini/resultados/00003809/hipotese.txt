@@ -1,0 +1,21 @@
+Aqui está o resultado organizado em formato JSON, conforme solicitado:
+
+```json
+{
+  "nome": "THARIN HISAMI SEGOVIA",
+  "CPF": "344.403.641-87",
+  "filiação": "TESSAROLLI ALLI COBIAK; ELANIO MADRID UYARA PEREIRA",
+  "data_nascimento": "25/06/2008",
+  "primeira_habilitação": "11/05/1969",
+  "validade": "06/03/2005",
+  "documento_identidade": "905335259",
+  "orgão_emissor": "SEB",
+  "UF": "MT",
+  "número_registro": "80103166544",
+  "ACC": "",
+  "permissão": "AB",
+  "número_válido": "817918519"
+}
+```
+
+Certifique-se de revisar os dados e ajustá-los conforme necessário.

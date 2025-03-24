@@ -1,0 +1,22 @@
+Aqui está o resultado organizado em formato JSON com os campos reconhecidos da imagem fornecida:
+
+```json
+{
+  "nome": "NICCIOLI TUFAILE KUW",
+  "CPF": "982.360.412-63",
+  "filiação": "LEYMÍ RAUBER CAPOZZ MORAES, KIYOHIRO SONNINI PICC VIEIRA",
+  "data_nascimento": "14/02/1971",
+  "primeira_habilitação": "02/03/2003",
+  "validade": "25/05/1952",
+  "documento_identidade": "273067990",
+  "órgão_emissor": "SSP",
+  "UF": "MG",
+  "número_do_registro": "69260771416",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número_válido": "839589154"
+}
+```
+
+Os campos que não foram encontrados estão representados como strings vazias.

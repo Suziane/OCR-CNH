@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "KURMAN ONO STEIN",
+  "CPF": "383.622.829-75",
+  "filiação": "GOTILLA MITSUTANI PATICIA PAGLIARI DANIEL B TEIXEIRA",
+  "data de nascimento": "26/08/1969",
+  "primeira habilitação": "28/12/1966",
+  "validade": "10/04/1978",
+  "documento de identidade": "366205368",
+  "órgão emissor": "SES",
+  "UF": "PB",
+  "número do registro": "66792212465",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número válido": "340144634"
+}
+```

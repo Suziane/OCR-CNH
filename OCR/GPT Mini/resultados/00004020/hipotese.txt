@@ -1,0 +1,22 @@
+Aqui está o reconhecimento dos campos a partir da imagem fornecida, organizado em formato JSON:
+
+```json
+{
+    "nome": "CARLETTI CABETTE TANNUS",
+    "cpf": "521.783.648-29",
+    "filiacao": "INFORZATO ELER MARCELOS\nCOMOTE AVELLAR FUA",
+    "data_nascimento": "01/09/1996",
+    "primeira_habilitacao": "24/08/1980",
+    "validade": "03/07/1950",
+    "documento_identidade": "843441665",
+    "orgao_emissor": "SNJ",
+    "uf": "PR",
+    "numero_registro": "55413947830",
+    "acc": "",
+    "permissao": "",
+    "categoria": "D",
+    "numero_valido": "565536844"
+}
+```
+
+Note que alguns campos, como "ACC" e "permissão", não foram encontrados, por isso estão vazios.

@@ -1,0 +1,23 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos a partir da imagem:
+
+```json
+{
+  "nome": "TAUKEUTI LINARES CAMIL",
+  "cpf": "324.824.170-58",
+  "filiação": "GEVANILDO LARANJEIRO CASTRO RAZABONE TOLIO STROHH",
+  "data_nascimento": "26/10/1964",
+  "primeira_habilitação": "05/10/1980",
+  "validade": "01/09/1990",
+  "documento_identidade": "961634018 SNJ PI",
+  "órgão_emissor": "",
+  "uf": "",
+  "número_do_registro": "41620993208",
+  "data_nascimento_2": "26/10/1964",
+  "acc": "",
+  "permissão": "AB",
+  "categoria": "AB",
+  "número_válido": ""
+}
+```
+
+Caso tenha mais campos ou informações, por favor, me avise!

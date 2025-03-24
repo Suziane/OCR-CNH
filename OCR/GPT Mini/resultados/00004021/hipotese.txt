@@ -1,0 +1,22 @@
+Aqui está a estrutura do arquivo JSON com os campos solicitados e os valores reconhecidos da imagem:
+
+```json
+{
+  "nome": "KADRI FILHILINO TESHIMA",
+  "cpf": "420.946.999-86",
+  "filiação": "MAZONE PELA STRUMIEL MONTIERO DEFING ICIMOTO SEGA SALES",
+  "data_de_nascimento": "28/03/1968",
+  "primeira_habilitação": "07/12/1980",
+  "validade": "02/01/1952",
+  "documento_de_identidade": "685506988",
+  "órgão_emissor": "POM",
+  "uf": "MT",
+  "número_do_registro": "97542880437",
+  "data_de_nascimento_2": "",
+  "acc": "",
+  "permissão": "AB",
+  "categoria": ""
+}
+```
+
+Note que os campos que não foram encontrados foram atribuídos como strings vazias.

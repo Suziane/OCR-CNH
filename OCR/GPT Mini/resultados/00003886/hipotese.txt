@@ -1,0 +1,21 @@
+Aqui está o reconhecimento dos campos da imagem no formato JSON:
+
+```json
+{
+  "nome": "PROCÓPIO MONFORT BALSEIRO",
+  "cpf": "718.727.996-55",
+  "filiação": "DALCIO ANTEGHINI CARRI CARVALHO\nKENNDY DIOSEF PORTUGAL NOVAES",
+  "data_nascimento": "13/03/1959",
+  "primeira_habilitação": "15/02/1953",
+  "validade": "31/12/2012",
+  "documento_identidade": "574659122",
+  "órgão_emissor": "POF",
+  "uf": "SC",
+  "número_registro": "01977277790",
+  "acc": "",
+  "permissão": "C",
+  "categoria": ""
+}
+```
+
+Os campos que não foram encontrados possuem string vazia.

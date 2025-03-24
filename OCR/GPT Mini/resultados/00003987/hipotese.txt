@@ -1,0 +1,21 @@
+Aqui está o resultado do reconhecimento dos campos solicitados, organizado em formato JSON:
+
+```json
+{
+    "nome": "CURI STEPHANIE CAIRO",
+    "cpf": "123.001.285-00",
+    "filiação": "IGRECIAS TSUBOI TULLIU\nZANOTELLO CANALI FILS DA ROSA",
+    "data_nascimento": "05/05/1994",
+    "primeira_habilitação": "28/07/1970",
+    "validade": "28/08/2019",
+    "documento_identidade": "968703021",
+    "orgão_emissor": "SESP",
+    "uf": "SP",
+    "número_registro": "659569907028",
+    "acc": "",
+    "permissão": "AB",
+    "categoria": ""
+}
+``` 
+
+Todos os campos foram preenchidos conforme os dados reconhecidos ou deixados como strings vazias quando não aplicáveis.

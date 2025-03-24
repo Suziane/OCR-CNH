@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "RHAMYRA ABRAMOVICI FAISTING",
+  "cpf": "441.623.100-84",
+  "filiação": "ARINILDA MICHAELLE IRAHA, ARBEX WILTON MARTIN DA CRUZ",
+  "data_de_nascimento": "21/06/1986",
+  "primeira_habilitação": "06/09/2016",
+  "validade": "21/06/1986",
+  "documento_de_identidade": "132625714",
+  "órgão_emissor": "SE",
+  "uf": "SE",
+  "número_do_registro": "06609713037",
+  "acc": "",
+  "permissão": "B",
+  "categoria": "",
+  "número_válido": "986082313"
+}
+```

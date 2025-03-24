@@ -1,0 +1,21 @@
+Aqui está o JSON com os dados reconhecidos da imagem:
+
+```json
+{
+    "nome": "FILETO RUBIM SAOTOME",
+    "CPF": "163.997.220-04",
+    "filiação": "TIE LEUSIN DERENCIO; MARIELLA AVANSI NORONH CARVALHO",
+    "data de nascimento": "16/05/2015",
+    "primeira habilitação": "02/02/1994",
+    "validade": "28/10/1966",
+    "documento de identidade": "325739171",
+    "orgão emissor": "SPTC",
+    "UF": "MG",
+    "número do registro": "32902867105",
+    "ACC": "",
+    "permissão": "C",
+    "categoria": ""
+}
+```
+
+Caso precise de mais alguma coisa, é só avisar!

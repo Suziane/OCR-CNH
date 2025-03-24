@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "BISIELI NEGRELLI MARETTO",
+    "CPF": "656.626.602-05",
+    "filiação": "NAKAZONE SOLIMEO ROSEN MORAES, GONTIJO KAVAGUTI FAGIO JESUS",
+    "data de nascimento": "24/06/2020",
+    "primeira habilitação": "10/03/1999",
+    "validade": "15/04/2012",
+    "documento de identidade": "935160225",
+    "órgão emissor": "SNJ",
+    "UF": "MA",
+    "número do registro": "989772596422",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "",
+    "número válido": "160941393"
+}
+```

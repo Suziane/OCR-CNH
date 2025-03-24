@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "MERES NOBUHIRO DUART",
+  "CPF": "263.325.424-11",
+  "filiação": "GIANVECCHIO RA, PADRAO JORDANA FRASSON FERREIRA",
+  "data de nascimento": "18/11/1986",
+  "primeira habilitação": "03/12/1985",
+  "validade": "15/11/1975",
+  "documento de identidade": "750966439",
+  "órgão emissor": "SJS",
+  "UF": "BA",
+  "número do registro": "0140248152",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número válido": "265757658"
+}
+```

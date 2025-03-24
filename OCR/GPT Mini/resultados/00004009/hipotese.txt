@@ -1,0 +1,22 @@
+Aqui está o resultado em formato JSON com os dados reconhecidos:
+
+```json
+{
+  "nome": "JEZLER BERTONHA CICCONI",
+  "CPF": "371.629.693-72",
+  "filiação": "ROSILENE FAIZBAIOFF F; DAIKUZONO THAYLA LEONAN FERNANDES",
+  "data_de_nascimento": "08/06/1955",
+  "primeira_habilitação": "07/03/1963",
+  "validade": "22/08/2016",
+  "documento_de_identidade": "905470643",
+  "órgão_emissor": "SES",
+  "UF": "SP",
+  "número_do_registro": "10449991175",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número_válido": "645038367"
+}
+```
+
+Caso precise de algo mais, estou à disposição!

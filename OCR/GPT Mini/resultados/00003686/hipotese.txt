@@ -1,0 +1,22 @@
+Aqui está a representação JSON dos campos reconhecidos a partir da imagem fornecida:
+
+```json
+{
+  "nome": "MERES NOBUHIRO DUART",
+  "cpf": "263.325.424-11",
+  "filiação": "GIANVECHCIO RA\nPADRAC JORDANA FRASSON FERREIRA",
+  "data_nascimento": "18/11/1986",
+  "primeira_habilitação": "15/11/1975",
+  "validade": "03/12/1985",
+  "documento_identidade": "750966439",
+  "orgão_emissor": "SJS",
+  "UF": "BA",
+  "número_registro": "01040248152",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número_válido": "265757658"
+}
+``` 
+
+Os campos sem dados foram deixados como strings vazias.

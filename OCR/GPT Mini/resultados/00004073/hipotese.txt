@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "CIOCA UNTERBERGER PARISE",
+    "cpf": "358.737.846-04",
+    "filiação": "IRIGON TRUSCHI NAWA ARAGÃO NAGAYOSHI AGGIO EDITH CARDOSO",
+    "data_de_nascimento": "03/08/2013",
+    "primeira_habilitação": "09/03/1982",
+    "validade": "20/07/2002",
+    "documento_de_identidade": "700337726",
+    "órgão_emissor": "SNJ",
+    "uf": "PA",
+    "número_do_registro": "14993096428",
+    "acc": "",
+    "permissão": "",
+    "categoria": "C",
+    "número_válido": "984874815"
+}
+```

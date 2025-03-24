@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "HIDEO ASSIMO TORTORA",
+  "CPF": "644.035.970-33",
+  "filiação": "HINUY BELLON ERRA, MURBACK GERALDELLI SILV PEREIRA",
+  "data_de_nascimento": "30/11/1981",
+  "primeira_habilitação": "27/07/2013",
+  "validade": "15/03/1964",
+  "documento_de_identidade": "634325164",
+  "órgão_emissor": "SNJ",
+  "UF": "SP",
+  "número_do_registro": "22871987943",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número_válido": "569728621"
+}
+```

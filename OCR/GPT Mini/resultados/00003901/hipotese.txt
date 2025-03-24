@@ -1,0 +1,20 @@
+Aqui está o resultado do reconhecimento dos campos solicitados, organizado em um formato JSON:
+
+```json
+{
+    "nome": "BELLINI BELLONI CARFANESSES",
+    "cpf": "",
+    "filiação": "MARCIA RIGUEIRA NEKRYCZ",
+    "data_nascimento": "29/06/1970",
+    "primeira_habilitação": "17/05/1983",
+    "validade": "",
+    "documento_identidade": "255.822.197-93",
+    "orgão_emissor": "PR",
+    "uf": "PR",
+    "número_registro": "850.974.881-64",
+    "acc": "",
+    "permissão": "AB",
+    "categoria": "",
+    "número_válido": ""
+}
+```

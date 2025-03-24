@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "GALEGO GALENDER BOLETTA",
+  "cpf": "132.693.924-60",
+  "filiação": "NISHIMIYA FEDOZZI KALUP CARVALHO, FOLONI QUERO SINICIO PINTO",
+  "data_de_nascimento": "16/04/1984",
+  "primeira_habilitação": "22/09/1999",
+  "validade": "03/10/2019",
+  "documento_de_identidade": "139786574",
+  "órgão_emissor": "SDS",
+  "UF": "RS",
+  "número_do_registro": "564221833554",
+  "acc": "",
+  "permissão": "",
+  "categoria": "D",
+  "número_válido": "068943152"
+}
+```

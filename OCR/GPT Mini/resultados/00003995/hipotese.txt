@@ -1,0 +1,22 @@
+Aqui está o resultado organizado em formato JSON com os campos reconhecidos da imagem:
+
+```json
+{
+    "nome": "RENATTI IAGÍO MUGNELA",
+    "CPF": "781.657.906-70",
+    "filiação": "CAZONATO EBERTH BAEDER MONTEIRO\nVALLERINI MARCELL GRE RIBEIRO",
+    "data_de_nascimento": "29/02/1952",
+    "primeira_habilitação": "",
+    "validade": "",
+    "documento_de_identidade": "0593792116",
+    "órgão_emissor": "POF",
+    "UF": "RS",
+    "número_do_registro": "74.677.567.711",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "D",
+    "número_válido": ""
+}
+```
+
+Caso tenha mais alguma solicitação ou dúvida, fique à vontade para perguntar!

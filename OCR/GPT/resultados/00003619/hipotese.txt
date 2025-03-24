@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "GROSSO KENNDY LYUSSEI",
+  "CPF": "103.980.426-83",
+  "filiação": "FREGONASSI BERTATO C ALMEIDA, PARAGUASU RICARD YOSHIO NASCIMENTO",
+  "data de nascimento": "30/07/1986",
+  "primeira habilitação": "20/06/2004",
+  "validade": "23/09/2000",
+  "documento de identidade": "778386867",
+  "órgão emissor": "SPTC",
+  "UF": "MG",
+  "número do registro": "99147972459",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número válido": "150237615"
+}
+```

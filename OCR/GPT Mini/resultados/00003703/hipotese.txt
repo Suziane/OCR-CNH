@@ -1,0 +1,22 @@
+Aqui está o reconhecimento dos campos da imagem em formato JSON:
+
+```json
+{
+  "nome": "EGIMA MITSUMOTO FURCH",
+  "CPF": "904.001.412-48",
+  "filiação": "TUJIO BAYCER RUDY, JUTGLA HAMM HISSASHI RODRIGUES",
+  "data_nascimento": "03/09/2001",
+  "primeira_habilitação": "04/12/1981",
+  "validade": "07/04/2000",
+  "documento_identidade": "157590112",
+  "órgão_emissor": "SSP/RS",
+  "UF": "RS",
+  "número_do_registro": "72456681890",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número_válido": "379427326"
+}
+``` 
+
+Todos os campos foram organizados conforme solicitado.

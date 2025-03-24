@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "AZZI SCUDERI TYE",
+  "CPF": "426.723.087-95",
+  "filiação": "FARKAS NAOJU YANES CAVALCANTIT SUETO PEDÃO LARIANT",
+  "data_de_nascimento": "15/08/1982",
+  "primeira_habilitação": "08/07/2019",
+  "validade": "15/07/2020",
+  "documento_de_identidade": "473877740",
+  "órgão_emissor": "POM",
+  "UF": "RN",
+  "número_do_registro": "41605661388",
+  "ACC": "",
+  "permissão": "B",
+  "categoria": "",
+  "número_válido": ""
+}
+```

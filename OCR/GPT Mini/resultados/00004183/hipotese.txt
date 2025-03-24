@@ -1,0 +1,21 @@
+A partir da imagem que você forneceu, aqui está a estrutura do JSON com os campos reconhecidos:
+
+```json
+{
+  "nome": "MEIRY GENIVAL PAUL",
+  "CPF": "061.503.140-49",
+  "filiação": "BOLFARINE HECK OHNISHI\nFREITAS CAVALLI PEREIRA",
+  "data_nascimento": "19/09/2018",
+  "primeira_habilitação": "16/01/2015",
+  "validade": "08/11/2002",
+  "documento_identidade": "260433780",
+  "órgão_emissor": "PR",
+  "UF": "PR",
+  "número_do_registro": "71660102691",
+  "ACC": "",
+  "permissão": "",
+  "categoria": ""
+}
+```
+
+Note que alguns campos não foram encontrados e foram deixados como strings vazias. Se precisar de mais informações ou ajustes, estou à disposição!

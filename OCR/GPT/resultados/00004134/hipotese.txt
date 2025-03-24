@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "RISK TORREALBA ARETUZZA",
+  "CPF": "352.639.442-33",
+  "filiação": "DREWS SIPRIANI COLI, CALANDRIN XASTRE HUAN NASCIMENTO",
+  "data de nascimento": "18/04/1960",
+  "primeira habilitação": "17/09/2016",
+  "validade": "30/01/1990",
+  "documento de identidade": "835734080",
+  "órgão emissor": "SJS",
+  "UF": "PR",
+  "número do registro": "02511578598",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número válido": "236401972"
+}
+```

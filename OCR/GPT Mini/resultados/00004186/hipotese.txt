@@ -1,0 +1,22 @@
+Aqui está o resultado do reconhecimento dos campos da imagem, organizado em formato JSON:
+
+```json
+{
+    "nome": "BINGRE PRATES SEIGO",
+    "cpf": "268.857.430-20",
+    "filiação": "TONACIO GHIROTTI ROND, IKEBE KELSON NORIYOS RODRIGUES",
+    "data_de_nascimento": "01/08/1951",
+    "primeira_habilitação": "01/04/1989",
+    "validade": "12/02/2016",
+    "documento_de_identidade": "767788564 SEJ",
+    "orgão_emissor": "MT",
+    "uf": "MT",
+    "número_do_registro": "05924168413",
+    "acc": "",
+    "permissão": "",
+    "categoria": "",
+    "número_válido": ""
+}
+```
+
+Caso precise de mais alguma informação ou alteração, é só avisar!

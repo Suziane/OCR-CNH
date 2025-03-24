@@ -1,0 +1,22 @@
+Aqui está a representação dos dados em formato JSON, conforme solicitado:
+
+```json
+{
+  "nome": "Mobi Martielo Pariz",
+  "CPF": "959.795.736-15",
+  "filiação": "Jatir Caspani Ca Vilhena Tamarozzi Barros",
+  "data_nascimento": "09/11/1975",
+  "primeira_habilitação": "28/09/1979",
+  "validade": "30/10/1985",
+  "documento_identidade": "115543219",
+  "órgão_emissor": "SDS",
+  "UF": "MA",
+  "número_do_registro": "01211997625",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "C",
+  "número_válido": "621734124"
+}
+``` 
+
+Se precisar de mais alguma coisa, estou à disposição!

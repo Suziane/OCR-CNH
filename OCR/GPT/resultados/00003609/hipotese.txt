@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "LAURELLI LENNON CASSETTARI",
+  "CPF": "244.265.735-05",
+  "filiação": "BALEBUENA DRIELI OLTE, BERNARDELI NATHALIA FOZ GOMES",
+  "data de nascimento": "23/02/1986",
+  "primeira habilitação": "05/01/2013",
+  "validade": "17/10/1950",
+  "documento de identidade": "600025688",
+  "órgão emissor": "SESP",
+  "UF": "MG",
+  "número do registro": "28703942048",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número válido": "862427110"
+}
+```

@@ -1,0 +1,21 @@
+Aqui está o JSON com os campos reconhecidos:
+
+```json
+{
+  "nome": "DEUTNER MENICI PARON",
+  "cpf": "308.396.334-32",
+  "filiação": "PATARO FABIANE YBARRA; LAURENTINO LELIC JOICE",
+  "data_nascimento": "13/05/2009",
+  "primeira_habilitação": "05/05/1979",
+  "validade": "26/07/1972",
+  "documento_identidade": "728753431",
+  "orgão_emissor": "SDS",
+  "uf": "PI",
+  "número_registro": "12947683370",
+  "acc": "",
+  "permissão": "B",
+  "categoria": ""
+}
+```
+
+Caso haja outros campos que não foram reconhecidos, eles permanecem como strings vazias.

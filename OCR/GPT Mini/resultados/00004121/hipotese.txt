@@ -1,0 +1,22 @@
+Aqui está o resultado em formato JSON, baseado nas informações da imagem:
+
+```json
+{
+    "nome": "LUIZNEY MICHELLY JEZQUEL",
+    "CPF": "402.805.865-15",
+    "filiação": "ARTAGOTITA EIJI MAURE",
+    "data_de_nascimento": "28/11/1976",
+    "primeira_habilitação": "05/06/1991",
+    "validade": "09/06/1985",
+    "documento_de_identidade": "346402554",
+    "órgão_emissor": "POM",
+    "UF": "",
+    "número_do_registro": "00062323327",
+    "ACC": "",
+    "permissão": "C",
+    "categoria": "",
+    "número_válido": "76090228"
+}
+```
+
+Caso algum campo não tenha sido encontrado ou esteja ausente, o valor correspondente foi atribuído como uma string vazia ('').

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "TOGNON MOSCON BATTAGELLO",
+  "cpf": "949.558.820-05",
+  "filiação": "CALETI GERALDI SEVERIN CAMPOS\nOH KEIM IDAILSON MONTEIRO",
+  "data_nascimento": "20/08/1958",
+  "primeira_habilitação": "02/1990",
+  "validade": "16/07/1991",
+  "documento_identidade": "930266641",
+  "órgão_emissor": "SDS",
+  "uf": "RS",
+  "número_registro": "56151426744",
+  "acc": "",
+  "permissão": "",
+  "categoria": "E",
+  "número_válido": ""
+}
+```

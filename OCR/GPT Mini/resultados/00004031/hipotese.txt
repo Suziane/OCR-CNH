@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "GARBUI SCARSI ZEPPONE",
+  "CPF": "800.581.197-79",
+  "filiação": "GERVAZIO TAKANO HAMED DA COSTA KETNA RAVI YASBEK",
+  "data_de_nascimento": "15/04/1967",
+  "primeira_habilitação": "13/11/1957",
+  "validade": "08/12/1975",
+  "documento_de_identidade": "043905833",
+  "orgão_emissor": "POF",
+  "UF": "PR",
+  "número_do_registro": "60958837035",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número_válido": "554731234"
+}
+```

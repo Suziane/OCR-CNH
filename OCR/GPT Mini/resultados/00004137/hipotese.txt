@@ -1,0 +1,20 @@
+Aqui está o resultado em formato JSON com os campos requisitados:
+
+```json
+{
+  "nome": "BETANCOR AWAGAKUBO STORCH",
+  "cpf": "945.439.324-39",
+  "filiação": "FADIA FEITEIRO GEHRINGE PIZAROLO GILMOUR KA CAVALCANTI",
+  "data_nascimento": "13/08/1977",
+  "primeira_habilitação": "",
+  "validade": "18/07/2016",
+  "documento_identidade": "317302619",
+  "órgão_emissor": "SP/CI",
+  "uf": "MG",
+  "número_registro": "19216996661",
+  "acc": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número_válido": "491232208"
+}
+```

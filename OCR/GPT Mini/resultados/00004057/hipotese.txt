@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "BENEDITA RITA HARUKI",
+  "cpf": "919.747.131-30",
+  "filiacao": "ECHAVARRIA CODATO KHATER\nBONGIOVANNI TIEZZI CALDEIRA",
+  "data_nascimento": "24/07/1982",
+  "primeira_habilitacao": "28/10/1952",
+  "validade": "19/12/2005",
+  "documento_identidade": "1529212035",
+  "orgao_emissor": "PCM",
+  "uf": "PA",
+  "numero_registro": "335188492277",
+  "acc": "A",
+  "permissao": "",
+  "categoria": "",
+  "numero_valido": "7584966757"
+}
+```

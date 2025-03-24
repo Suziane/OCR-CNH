@@ -1,0 +1,17 @@
+```json
+{
+    "nome": "GILTÁDIA PEIXOTTO P",
+    "CPF": "975.166.393-89",
+    "filiação": "MELISSA FRASSETT KAMONSEKI FORMENT MARTINS",
+    "data_nascimento": "26/11/1955",
+    "primeira_habilitação": "09/02/2002",
+    "validade": "06/01/2005",
+    "documento_identidade": "542000921",
+    "orgão_emissor": "SES",
+    "UF": "GO",
+    "número_do_registro": "46314153227",
+    "ACC": "",
+    "permissão": "A",
+    "categoria": ""
+}
+```

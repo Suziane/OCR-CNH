@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "DANNO JUTGLA KURATI",
+    "CPF": "670.294.251-62",
+    "filiação": "LAGE KARASSAWA SH FERNANDES AHUALLE MONTREZOR FALCO SOUZA",
+    "data de nascimento": "25/07/1972",
+    "primeira habilitação": "22/03/1986",
+    "validade": "07/05/1972",
+    "documento de identidade": "701028233",
+    "órgão emissor": "SJS",
+    "UF": "RS",
+    "número do registro": "58017435094",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "",
+    "número válido": "293207244"
+}
+```

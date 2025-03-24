@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "MARCOLA ROSSETI DEDEMO",
+  "CPF": "019.052.763-38",
+  "filiação": "PICAVET DEGENZAJN ALMEIDA, TAMBORM KAMEOKA MEY",
+  "data de nascimento": "27/04/1965",
+  "primeira habilitação": "20/07/1985",
+  "validade": "27/07/1987",
+  "documento de identidade": "419737480",
+  "órgão emissor": "SSP",
+  "UF": "PR",
+  "número do registro": "21961733752",
+  "ACC": "",
+  "permissão": "PERMISSÃO",
+  "categoria": "C",
+  "número válido": "138412653"
+}
+```

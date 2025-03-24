@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "Ozilak Otacilio Menegario",
+  "CPF": "675.859.221-91",
+  "filiação": "Marinalva Petelincar V Rodrigues, Salvaít Jubran Jordon Alves",
+  "data de nascimento": "08/01/1972",
+  "primeira habilitação": "27/05/1968",
+  "validade": "17/11/1974",
+  "documento de identidade": "806450125",
+  "órgão emissor": "POM",
+  "UF": "MG",
+  "número do registro": "37688077498",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número válido": "699823834"
+}
+```

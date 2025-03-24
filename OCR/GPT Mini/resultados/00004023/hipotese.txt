@@ -1,0 +1,21 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos da imagem:
+
+```json
+{
+    "nome": "CARDIM NIMES MOMMENOHIN",
+    "CPF": "G64.222.450-76",
+    "filiação": "CHEFEGAT LATO PACHET SILVA, RACHETLIS KASAMA ER SOARES",
+    "data_nascimento": "30/07/1990",
+    "primeira_habilitação": "20/08/1963",
+    "validade": "31/05/1981",
+    "documento_identidade": "",
+    "órgão_emissor": "MG",
+    "UF": "MG",
+    "número_do_registro": "33368942029",
+    "ACC": "",
+    "permissão": "D",
+    "categoria": ""
+}
+```
+
+Os campos que não foram encontrados foram preenchidos com uma string vazia.

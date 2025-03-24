@@ -1,0 +1,22 @@
+Aqui está o resultado do reconhecimento dos campos da imagem no formato JSON:
+
+```json
+{
+  "nome": "BRONIESZKI BERGER ARCHA",
+  "CPF": "993.188.311-10",
+  "filiação": "LORDLLO TACIN PLE RODRIGUES CAVALMORETTI LORIGGIO",
+  "data_nascimento": "18/02/2014",
+  "primeira_habilitação": "29/05/1959",
+  "validade": "21/01/1980",
+  "documento_identidade": "633413045 POF TO",
+  "órgão_emissor": "",
+  "UF": "",
+  "número_do_registro": "39524925276",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número_válido": "466423389"
+}
+```
+
+Note que alguns campos estão vazios, pois não foram encontrados na imagem analisada.

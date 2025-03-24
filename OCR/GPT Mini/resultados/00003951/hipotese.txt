@@ -1,0 +1,17 @@
+```json
+{
+  "nome": "ALECIO MIDORE VITTI",
+  "cpf": "001.272.398-39",
+  "filiação": "CURTI JARZINSKI SISD RICHTOFEN ANHESINI FANT BARROS",
+  "data_nascimento": "15/01/2012",
+  "primeira_habilitação": "29/11/1987",
+  "validade": "09/06/1963",
+  "documento_identidade": "644296343",
+  "órgão_emissor": "SJS",
+  "uf": "RS",
+  "número_registro": "5956522986",
+  "ACC": "E",
+  "permissão": "",
+  "categoria": ""
+}
+```

@@ -1,0 +1,21 @@
+Aqui está o resultado dos campos reconhecidos organizados em formato JSON:
+
+```json
+{
+  "nome": "MALTEZ JARMENDIA NA",
+  "CPF": "143.223.123-57",
+  "filiação": "SPRINGER ALEIXO; FUTAGAWA BOVI MIR CAVALCANTI",
+  "data_nascimento": "30/01/1969",
+  "primeira_habilitação": "15/11/1987",
+  "validade": "19/11/1995",
+  "documento_identidade": "766167463",
+  "órgão_emissor": "SPTC",
+  "UF": "SP",
+  "número_registro": "81259846643",
+  "ACC": "",
+  "permissão": "B",
+  "categoria": ""
+}
+```
+
+Caso precise de mais alguma informação ou ajuste, é só avisar!

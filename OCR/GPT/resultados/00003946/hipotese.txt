@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "OFELIA ASSENSO SATURNINO",
+  "CPF": "228.115.208-13",
+  "filiação": "NAIDHIG GENIO YONATHAN, STELLO KAWASSAKI SOARES",
+  "data de nascimento": "31/12/1990",
+  "primeira habilitação": "12/01/1994",
+  "validade": "27/08/2020",
+  "documento de identidade": "58111709",
+  "órgão emissor": "SPTC",
+  "UF": "RS",
+  "número do registro": "22492776633",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número válido": "732705662"
+}
+```

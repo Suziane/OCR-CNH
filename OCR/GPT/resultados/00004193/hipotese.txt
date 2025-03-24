@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "GURIADELI HANASILO MOI",
+  "cpf": "900.659.102-57",
+  "filiacao": "MITTE LUPIANHAS CE RIBEIRO, BERTONCELLO ROUSE KUL",
+  "data_de_nascimento": "03/11/1976",
+  "primeira_habilitacao": "29/01/1963",
+  "validade": "30/09/1962",
+  "documento_de_identidade": "470526907",
+  "orgao_emissor": "SPTC",
+  "uf": "RR",
+  "numero_do_registro": "69595872076",
+  "acc": "",
+  "permissao": "",
+  "categoria": "E",
+  "numero_valido": "057868450"
+}
+```

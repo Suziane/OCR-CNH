@@ -1,0 +1,22 @@
+Aqui está o resultado organizado em formato JSON com base nos campos solicitados:
+
+```json
+{
+    "nome": "SCHUNCK BOVIACI ESPERANDIO",
+    "CPF": "267.207.179-95",
+    "filiação": "MOLINARI KAMEZY JO CARVALHO",
+    "data de nascimento": "23/07/1963",
+    "primeira habilitação": "15/04/1989",
+    "validade": "03/01/1994",
+    "documento de identidade": "360862203 SDS MG",
+    "órgão emissor": "",
+    "UF": "",
+    "número do registro": "296969396",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "",
+    "número válido": "267.207.179-95"
+}
+```
+
+Caso tenha mais alguma solicitação ou se precisar de alterações, fico à disposição!

@@ -1,0 +1,23 @@
+Aqui está o resultado extraído da imagem em formato JSON:
+
+```json
+{
+  "nome": "WEST SINGER CAMARNEIRO",
+  "cpf": "845.655.756-04",
+  "filiação": "KAAWAR BERTACCHI SHU MENDES CORDEIROS BARSETELI G",
+  "data_de_nascimento": "25/11/1956",
+  "primeira_habilitação": "",
+  "validade": "13/07/1955",
+  "documento_de_identidade": "609046780 SESP PA",
+  "órgão_emissor": "",
+  "uf": "",
+  "número_do_registro": "29843940835",
+  "data_de_registro": "",
+  "acc": "",
+  "permissão": "",
+  "categoria": "E",
+  "número_válido": "9779099640"
+}
+```
+
+Caso precise de mais alguma coisa, fique à vontade para pedir!

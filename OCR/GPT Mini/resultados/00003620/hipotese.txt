@@ -1,0 +1,22 @@
+Aqui está o reconhecimento dos campos solicitados, organizado em um arquivo JSON:
+
+```json
+{
+  "nome": "MAJURI MILLS STRUTZEL",
+  "CPF": "714.619.624-04",
+  "filiação": "IZBICKI GIGIOLI MALUTA\nFUZER VOSS CESTARO",
+  "data_de_nascimento": "01/03/1951",
+  "primeira_habilitação": "15/08/1991",
+  "validade": "26/08/1960",
+  "documento_identidade": "570345923",
+  "órgão_emissor": "SSP",
+  "UF": "CE",
+  "número_do_registro": "27997232638",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número_válido": "224705309"
+}
+```
+
+Caso você precise de mais alguma informação, estou à disposição!

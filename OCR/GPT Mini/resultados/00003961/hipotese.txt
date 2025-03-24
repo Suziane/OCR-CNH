@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "SEVILHA ODIR CAMPOLINA",
+    "CPF": "889.249.628-09",
+    "filiação": "CAJAZEIRA MALACR MENDES BROLEZZI PAPUCCI FIOR OLIVEIRA",
+    "data_de_nascimento": "02/01/1959",
+    "primeira_habilitação": "11/08/1964",
+    "validade": "4042490",
+    "documento_de_identidade": "305084275 SSP PR",
+    "organização_emissor": "SSP PR",
+    "UF": "",
+    "número_do_registro": "35717765861",
+    "data_de_nascimento_2": "",
+    "ACC": "",
+    "permissão": "AB",
+    "categoria": ""
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "JENIFER SCHLITHLER KARIMAN",
+  "CPF": "539.801.903-15",
+  "filiação": "WILL VICENTINE SH, DA COSTA, WERGLES KAWAUCHI, DA MATA",
+  "data de nascimento": "12/11/1980",
+  "primeira habilitação": "30/09/2001",
+  "validade": "31/05/1952",
+  "documento de identidade": "674593333",
+  "órgão emissor": "SEJ",
+  "UF": "BA",
+  "número do registro": "43800686040",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "E",
+  "número válido": "689337321"
+}
+```

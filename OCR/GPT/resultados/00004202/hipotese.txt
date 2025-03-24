@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "JACYANA HILDE GABOLLA",
+  "CPF": "285.022.769-21",
+  "filiação": "CAUDURO AKKERMAN MOHERDAUI, MASSAO LAIS MELLO REZENDE",
+  "data de nascimento": "14/03/1968",
+  "primeira habilitação": "",
+  "validade": "03/11/1954",
+  "documento de identidade": "542052659",
+  "órgão emissor": "SSP",
+  "UF": "RJ",
+  "número do registro": "62903953607",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número válido": "912656875"
+}
+```

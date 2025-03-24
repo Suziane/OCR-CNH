@@ -1,0 +1,22 @@
+```json
+{
+  "nome": "JUNIOR AMORIN DIN",
+  "CPF": "471.041.227-88",
+  "filiação": [
+    "JOMAR FAVERSANI ADAD",
+    "GESSE CANASSA KAZUNO",
+    "CALDEIRA"
+  ],
+  "data de nascimento": "30/10/2013",
+  "primeira habilitação": "15/09/2015",
+  "validade": "26/08/1994",
+  "documento de identidade": "386924114",
+  "órgão emissor": "SSP",
+  "UF": "RS",
+  "número do registro": "72667497420",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número válido": "075809514"
+}
+```

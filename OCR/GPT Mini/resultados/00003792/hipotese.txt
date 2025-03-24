@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "TANURI GALON ZEILA",
+  "cpf": "488.134.306-80",
+  "filiacao": "BUONICONTI BATHOL VIANA, KOMODA LAURENTIIS JAQUIER CARVALHC",
+  "data_nascimento": "25/11/2003",
+  "primeira_habilitacao": "04/04/2003",
+  "validade": "12/03/1993",
+  "documento_identidade": "65021909C",
+  "orgao_emissor": "SDS",
+  "uf": "MG",
+  "numero_registro": "50268286330",
+  "acc": "",
+  "permissao": "",
+  "categoria": "B",
+  "numero_valido": ""
+}
+```

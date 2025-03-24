@@ -1,0 +1,22 @@
+Aqui está o resultado estruturado em formato JSON com base nos campos que você mencionou e os dados reconhecidos na imagem:
+
+```json
+{
+  "nome": "EVALDO IMIRIM CASTIGLIONI",
+  "CPF": "385.204.666-13",
+  "filiação": "SCISCI ALBOLEA RAIN COSTA, SHIGUEHIRO VELLEGO DAO",
+  "data_de_nascimento": "09/09/2006",
+  "primeira_habilitação": "16/02/1999",
+  "validade": "01/03/1955",
+  "documento_de_identidade": "672.398.486",
+  "órgão_emissor": "92770669",
+  "UF": "",
+  "número_do_registro": "",
+  "ACC": "",
+  "permissão": "PERMISSÃO",
+  "categoria": "D",
+  "número_válido": ""
+}
+```
+
+Esse formato se encaixa na estrutura solicitada, com campos que não foram encontrados sendo representados como strings vazias.

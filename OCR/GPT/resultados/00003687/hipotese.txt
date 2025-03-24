@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "KURIHARA SERODIO VERGINE",
+  "CPF": "485.080.050-59",
+  "filiação": "ANGRISANO BEGUELDO BUE",
+  "data de nascimento": "28/05/1964",
+  "primeira habilitação": "11/01/1985",
+  "validade": "",
+  "documento de identidade": "137040271",
+  "órgão emissor": "SESP",
+  "UF": "MA",
+  "número do registro": "18529595239",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número válido": "20738779"
+}
+```

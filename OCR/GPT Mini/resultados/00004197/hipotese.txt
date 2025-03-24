@@ -1,0 +1,21 @@
+Aqui está o resultado da extração de dados da imagem, organizado em um arquivo JSON:
+
+```json
+{
+  "nome": "MAININE NANO BOUCAULT",
+  "cpf": "806.737.173-30",
+  "filiação": "FRANCCO MUSLIN VIU / GERA PALMISANO GU MARTINS",
+  "data_de_nascimento": "11/01/1962",
+  "primeira_habilitação": "12/06/1982",
+  "validade": "24/07/1979",
+  "documento_identidade": "769990115",
+  "órgão_emissor": "SSP",
+  "UF": "SP",
+  "número_do_registro": "79339061131",
+  "acc": "",
+  "permissão": "E",
+  "categoria": ""
+}
+```
+
+Note que alguns campos foram atribuídos como strings vazias onde a informação não estava disponível.

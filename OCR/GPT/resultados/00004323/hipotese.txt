@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "NOCEITI CHIMENE FRASAO",
+    "CPF": "551.977.699-76",
+    "filiação": "MEINSCHMIEDT JR PESKIRA HOSIASSON RODNEY ANGELICA MENDES",
+    "data_de_nascimento": "22/09/1973",
+    "primeira_habilitação": "",
+    "validade": "29/03/2013",
+    "documento_de_identidade": "771841899",
+    "órgão_emissor": "PC/MA",
+    "UF": "MA",
+    "número_do_registro": "9883061157",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "AB",
+    "número_válido": "8595283"
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "DAMIATI DELACHIAVE AL",
+  "CPF": "252.679.214-24",
+  "filiação": "FORNEIRO POLIC, MOARIA MASAMI DUCKUR LIMA",
+  "data de nascimento": "24/10/2004",
+  "primeira habilitação": "26/07/2016",
+  "validade": "18/01/1991",
+  "documento de identidade": "035639576",
+  "órgão emissor": "SDS",
+  "UF": "MG",
+  "número do registro": "60951268706",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "C",
+  "número válido": "486275624"
+}
+```

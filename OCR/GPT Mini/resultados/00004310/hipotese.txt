@@ -1,0 +1,21 @@
+Aqui está o resultado da extração dos campos solicitados em formato JSON:
+
+```json
+{
+    "nome": "CURIANTI EIMORI BARROLO",
+    "CPF": "925.164.648-19",
+    "afiliação": "CADIDE LOMENSO ROJAS",
+    "data_de_nascimento": "04/10/2011",
+    "primeira_habilitação": "03/12/1984",
+    "validade": "07/07/2019",
+    "documento_de_identidade": "623569840",
+    "órgão_emissor": "SDS",
+    "UF": "MA",
+    "número_do_registro": "22023824240",
+    "ACC": "D",
+    "permissão": "",
+    "categoria": ""
+}
+```
+
+Caso haja campos não reconhecidos, os valores foram atribuídos como strings vazias, conforme solicitado.

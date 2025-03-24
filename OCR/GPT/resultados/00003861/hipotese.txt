@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "PARAHYBA TURCHIARI PESOTI",
+  "CPF": "395.402.955-65",
+  "filiação": "SUNAITIS VERSEGHJ ANDRI, BIBIANA MENEGALE MANZINI SILVA",
+  "data de nascimento": "30/07/1990",
+  "primeira habilitação": "30/04/2017",
+  "validade": "29/08/2004",
+  "documento de identidade": "853651607",
+  "órgão emissor": "SESP",
+  "UF": "BA",
+  "número do registro": "47012384766",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número válido": "521223770"
+}
+```

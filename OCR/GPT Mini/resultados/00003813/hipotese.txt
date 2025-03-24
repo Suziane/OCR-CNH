@@ -1,0 +1,23 @@
+Aqui está o reconhecimento dos campos da imagem em formato JSON:
+
+```json
+{
+    "nome": "BONISSI ALEXANDRIA DULCE",
+    "CPF": "026.349.958-28",
+    "filiação": "GIARDINO MARTINATI MAU; ORBEA ENEDINO CONCHETI CARVALHO",
+    "data_de_nascimento": "25/01/1990",
+    "primeira_habilitação": "29/06/1974",
+    "validade": "26/07/1990",
+    "documento_de_identidade": "080023267 ESP RS",
+    "órgão_emissor": "",
+    "UF": "",
+    "número_do_registro": "10946668264",
+    "data_de_nascimento_repetida": "",
+    "ACC": "",
+    "permissão": "B",
+    "categoria": "",
+    "número_válido": "99629428"
+}
+```
+
+Os campos foram organizados conforme solicitado. Caso algum campo não tenha sido encontrado, ele foi preenchido como uma string vazia.

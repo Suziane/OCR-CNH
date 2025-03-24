@@ -1,0 +1,17 @@
+```json
+{
+  "nome": "PALUDETTO SALMASO IACONELLI",
+  "cpf": "376.124.099-68",
+  "filiacao": "TJANDRAATMADJA BENO PENHALV",
+  "data_nascimento": "04/03/2001",
+  "primeira_habilitacao": "02/05/2008",
+  "validade": "",
+  "documento_identidade": "336122044",
+  "orgao_emissor": "PCF",
+  "uf": "GO",
+  "numero_registro": "66203921149",
+  "acc": "",
+  "permissao": "B",
+  "categoria": ""
+}
+```

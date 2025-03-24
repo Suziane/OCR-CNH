@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "SAVICH BURAGOSQUE BOULHOSA",
+  "cpf": "768.820.928-50",
+  "filiacao": "SCANDIUZZI BORNSCHEIN BA, BANZATO MASSONI FR TEIXEIRA",
+  "data_de_nascimento": "26/06/1964",
+  "primeira_habilitacao": "17/04/1989",
+  "validade": "11/11/1973",
+  "documento_de_identidade": "138375331",
+  "orgao_emissor": "SJS",
+  "uf": "MG",
+  "numero_do_registro": "43631173907",
+  "acc": "",
+  "permissao": "",
+  "categoria": "C",
+  "numero_valido": "883308592"
+}
+```

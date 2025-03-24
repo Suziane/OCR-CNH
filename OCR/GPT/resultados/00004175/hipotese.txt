@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "LILYAN BORTOLOTTI CARDUCCI",
+    "cpf": "669.948.252-13",
+    "filiacao": "ROSALVO CHRISTINA DESTRE TIEKO CASSIARI BACAY DA CRUZ",
+    "data_nascimento": "13/07/1993",
+    "primeira_habilitacao": "12/09/2013",
+    "validade": "04/08/2019",
+    "documento_identidade": "517534851",
+    "orgao_emissor": "SSP",
+    "uf": "MG",
+    "numero_registro": "96877796786",
+    "acc": "",
+    "permissao": "",
+    "categoria": "AB",
+    "numero_valido": "280779302"
+}
+```

@@ -1,0 +1,21 @@
+Aqui está o resultado do reconhecimento dos campos solicitados em formato JSON:
+
+```json
+{
+  "nome": "JORGETO FELICISSIMO BORTOLOT",
+  "cpf": "038.714.829-94",
+  "filiação": "KORKISCHKO FINZI FLOR\nRESTILE SADAO ASSIS RIBEIRO",
+  "data_nascimento": "14/12/2003",
+  "primeira_habilitação": "19/04/1984",
+  "validade": "28/10/2017",
+  "documento_identidade": "449696895 PCM CE",
+  "orgão_emissor": "",
+  "uf": "",
+  "número_registro": "79139458081",
+  "acc": "",
+  "permissão": "A",
+  "categoria": ""
+}
+```
+
+Caso haja algum campo que não tenha sido encontrado, o valor está como uma string vazia.

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "PARRA FORATTO POIATTI",
+  "CPF": "028.485.629-00",
+  "filiação": "LUDI ISHIDA AIBARA NASCIMENTO, MICHELLETTI KUSHIMA FALCHET ARAGAO",
+  "data de nascimento": "25/04/1977",
+  "primeira habilitação": "30/12/2010",
+  "validade": "22/02/1965",
+  "documento de identidade": "735586172",
+  "órgão emissor": "SSP",
+  "UF": "SC",
+  "número do registro": "41462045955",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "C",
+  "número válido": "575196750"
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "NALDI BACARJI CAVALCANTI",
+  "CPF": "361.915.780-40",
+  "filiação": "PERRELLA MENENDEZ JETR ARAUJO TORRAO CREPALDI PULCINELLI VIEIRA",
+  "data de nascimento": "12/03/2009",
+  "primeira habilitação": "23/01/1996",
+  "validade": "14/02/2004",
+  "documento de identidade": "077313637",
+  "órgão emissor": "SDS",
+  "UF": "GO",
+  "número do registro": "26187825175",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número válido": "249125004"
+}
+```

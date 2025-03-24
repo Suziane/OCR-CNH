@@ -1,0 +1,22 @@
+Aqui está o resultado do reconhecimento dos campos solicitados, organizado em formato JSON:
+
+```json
+{
+    "nome": "PORTELLA NAKAZATO CHACAROLLI",
+    "cpf": "338.685.738-87",
+    "filiação": "SCARASSATTI FORCIONI MACRI",
+    "data_nascimento": "16/09/2014",
+    "primeira_habilitação": "03/05/1956",
+    "validade": "02/08/2004",
+    "documento_identidade": "178502856",
+    "órgão_emissor": "SJS",
+    "UF": "BA",
+    "número_do_registro": "05587632759",
+    "data_nascimento_repetida": "16/09/2014",
+    "acc": "",
+    "permissão": "C",
+    "categoria": ""
+}
+```
+
+Sinta-se à vontade para me avisar se precisar de mais alguma informação!

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "CAPARICA PIZZATO GILBERTI",
+  "CPF": "668.233.554-76",
+  "filiação": "WALDNER WIERMANN FON, AILLON GAGLIARDI D",
+  "data_de_nascimento": "10/05/2004",
+  "primeira_habilitação": "12/07/1985",
+  "validade": "",
+  "documento_de_identidade": "087401320",
+  "órgão_emissor": "SNJ",
+  "UF": "PA",
+  "número_do_registro": "662299666671",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "E",
+  "número_válido": "568501777"
+}
+```

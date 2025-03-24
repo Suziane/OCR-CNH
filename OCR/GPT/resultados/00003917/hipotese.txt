@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "MARDEN REGE KOLOVKO",
+  "CPF": "699.185.107-81",
+  "filiação": "ISHIY PETTA PERCHE, GOMES, LONGMAN NORTE PAOLONE",
+  "data de nascimento": "10/10/1961",
+  "primeira habilitação": "10/10/1986",
+  "validade": "01/02/1961",
+  "documento de identidade": "779473796",
+  "órgão emissor": "PCM",
+  "UF": "SC",
+  "número do registro": "34754565798",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número válido": "6653350577"
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "TONNETTI JULYANE RUZA",
+    "CPF": "557.005.215-12",
+    "filiação": "KUCHKARIAN ROTCER LUCIEN, BIZZOCCHI DAIANE FICK RODRIGUES",
+    "data de nascimento": "20/03/1954",
+    "primeira habilitação": "23/01/1964",
+    "validade": "02/03/1960",
+    "documento de identidade": "101770200",
+    "órgão emissor": "SSP",
+    "UF": "MG",
+    "número do registro": "4401451371:6",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "C",
+    "número válido": "444688043"
+}
+```

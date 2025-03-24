@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "PEZZO JADER AMANDAE",
+    "cpf": "331.265.452-11",
+    "filiação": "RAINHO MARAMBIO SHITINO RODRIGUES; PULTRINT GRACIANGELA VUJIC MOURA",
+    "data_nascimento": "06/10/1977",
+    "primeira_habilitação": "",
+    "validade": "14/11/1995",
+    "documento_identidade": "5490818211",
+    "órgão_emissor": "SSS",
+    "uf": "AM",
+    "número_registro": "366563800808",
+    "acc": "",
+    "permissão": "",
+    "categoria": "AB",
+    "número_válido": ""
+}
+```

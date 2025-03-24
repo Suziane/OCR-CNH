@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "MAINE QUAIO TAYLA",
+    "CPF": "188.769.264-96",
+    "filiação": "FRANCISCONI CARISA MARTINS, RIALMA TARSILIO GRIESI",
+    "data_de_nascimento": "25/03/1987",
+    "primeira_habilitação": "16/08/1971",
+    "validade": "31/01/2002",
+    "documento_de_identidade": "747479227",
+    "órgão_emissor": "CE",
+    "UF": "CE",
+    "número_do_registro": "51536229936",
+    "ACC": "",
+    "permissão": "PERMISSÃO",
+    "categoria": "A",
+    "número_válido": ""
+}
+```

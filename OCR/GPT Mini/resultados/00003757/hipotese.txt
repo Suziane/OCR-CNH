@@ -1,0 +1,22 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos e seus respectivos valores:
+
+```json
+{
+  "nome": "CARLETO QUIRANTE YEON",
+  "CPF": "293.298.526-45",
+  "filiação": "DUCATTI PICCHETT MANEIRA SOARES\nNARDONI MARIZILDA HOMA REZENDE",
+  "data_de_nascimento": "16/07/2011",
+  "primeira_habilitação": "24/07/1971",
+  "validade": "22/10/1999",
+  "documento_de_identidade": "19052100",
+  "órgão_emissor": "SNJ",
+  "UF": "PE",
+  "número_do_registro": "44072310742",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "C",
+  "número_válido": ""
+}
+```
+
+Os campos disponíveis foram preenchidos com os dados reconhecidos, e campos ausentes foram deixados como strings vazias.

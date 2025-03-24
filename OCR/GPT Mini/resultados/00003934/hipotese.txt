@@ -1,0 +1,22 @@
+Aqui está o resultado organizado em formato JSON com os campos reconhecidos:
+
+```json
+{
+  "nome": "Wazaru Adan Mecca",
+  "CPF": "575.675.368-03",
+  "filiação": "SANTOS FONGARO ISTILLI IV MORAES",
+  "data_de_nascimento": "12/07/1984",
+  "primeira_habilitação": "27/10/1950",
+  "validade": "11/03/1974",
+  "documento_de_identidade": "239821912",
+  "órgão_emissor": "SP",
+  "UF": "SP",
+  "número_do_registro": "7506834084",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "E",
+  "número_válido": ""
+}
+```
+
+Os campos que não foram encontrados foram deixados como strings vazias.

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "JUASE JYOU SHIMAZU",
+  "CPF": "534.365.143-73",
+  "filiação": "BIJUGAN ANASTACIO CAR, MANDA BALPARDA KRATK REJENDE",
+  "data de nascimento": "09/12/1974",
+  "primeira habilitação": "",
+  "validade": "20/03/2000",
+  "documento de identidade": "104736173",
+  "órgão emissor": "POM",
+  "UF": "PT",
+  "número do registro": "",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "E",
+  "número válido": "9787516500"
+}
+```

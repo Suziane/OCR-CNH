@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "HILDEBERTO SESTE FURLANETTI",
+    "cpf": "476.572.059-46",
+    "filiacao": "EGLESON PALOSCHI RUGGIE RIBEIRO\nBEZINELLI HISI CETRULO MENDES",
+    "data_nascimento": "09/07/1999",
+    "primeira_habilitacao": "15/04/1957",
+    "validade": "01/11/1963",
+    "documento_identidade": "008024467 SPTC MT",
+    "orgao_emissor": "SPTC",
+    "uf": "MT",
+    "numero_registro": "74586807175",
+    "acc": "AB",
+    "permissao": "", 
+    "categoria": "",
+    "numero_valido": "623204360"
+}
+```

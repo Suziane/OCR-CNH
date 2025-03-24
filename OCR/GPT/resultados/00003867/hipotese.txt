@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "FLORENTINO YACUBIAN SENTEIO",
+  "CPF": "325.170.377-36",
+  "filiação": "QUITERIO SHIROUZU E MARTINS PEDRETTI VELAME WAKABAYASH MOURA",
+  "data_nascimento": "07/03/1995",
+  "primeira_habilitação": "28/05/1992",
+  "validade": "11/09/1985",
+  "documento_identidade": "503625981",
+  "órgão_emissor": "SES",
+  "UF": "MG",
+  "número_registro": "23095143264",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número_válido": "567932963"
+}
+```

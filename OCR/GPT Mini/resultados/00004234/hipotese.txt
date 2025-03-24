@@ -1,0 +1,21 @@
+Aqui está o resultado do reconhecimento dos campos da imagem em formato JSON:
+
+```json
+{
+    "nome": "POLISEL IDINO AHMAD",
+    "cpf": "542.380.018-85",
+    "filiação": "DAILA LIBORIC BALEIRO/ BONUGLI GIULIANO PAZZ FARIAS",
+    "data_nascimento": "19/11/1964",
+    "primeira_habilitação": "14/03/1994",
+    "validade": "29/03/1952",
+    "documento_identidade": "664647157",
+    "orgão_emissor": "SSP",
+    "uf": "RS",
+    "número_registro": "732781046649",
+    "acc": "E",
+    "permissão": "",
+    "categoria": ""
+}
+```
+
+Os campos "permissão" e "categoria" não foram encontrados, por isso estão definidos como strings vazias.

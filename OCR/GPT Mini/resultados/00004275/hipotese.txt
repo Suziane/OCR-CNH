@@ -1,0 +1,22 @@
+Baseando-me na imagem fornecida, aqui está o arquivo JSON com os campos reconhecidos:
+
+```json
+{
+  "nome": "PICCHETTI FANNY AGUSTIN",
+  "CPF": "130.904.052-45",
+  "filiação": "DALEL WALTRICK SILVE, ROSEMARY HELEN RITTA RIBEIRO",
+  "data de nascimento": "27/01/1951",
+  "primeira habilitação": "08/03/2017",
+  "validade": "04/04/1975",
+  "documento de identidade": "305943470",
+  "órgão emissor": "MINAS GERAIS",
+  "UF": "MG",
+  "número do registro": "4689565631",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "",
+  "número válido": ""
+}
+```
+
+Note que alguns campos não estavam presentes na imagem original e foram deixados como strings vazias.

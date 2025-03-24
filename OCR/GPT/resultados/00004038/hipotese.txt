@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "FILETO RUBIM SAOTOME",
+    "cpf": "163.997.220-04",
+    "filiacao": "TIE LEUSIN DERENCIO, MARIELLA AVANSI NORONH CARVALHO",
+    "data_nascimento": "16/05/2015",
+    "primeira_habilitacao": "02/02/1994",
+    "validade": "28/10/1966",
+    "documento_identidade": "325739171",
+    "orgao_emissor": "SPTC",
+    "uf": "MG",
+    "numero_registro": "32902867105",
+    "acc": "",
+    "permissao": "",
+    "categoria": "C",
+    "numero_valido": "595261215"
+}
+```

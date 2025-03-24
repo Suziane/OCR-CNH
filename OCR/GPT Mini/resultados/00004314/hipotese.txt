@@ -1,0 +1,21 @@
+Aqui está o resultado organizado em um arquivo JSON com os campos reconhecidos da imagem:
+
+```json
+{
+    "nome": "SERAPHIM GALLUZZI BONINI",
+    "cpf": "263.128.200-09",
+    "filiação": "LEONILDO ALBIERO ARNUS COSTA\nSHINODA VINAGREIRO MAL OLIVEIRA",
+    "data_nascimento": "22/08/1983",
+    "primeira_habilitação": "05/09/2018",
+    "validade": "23/04/1960",
+    "documento_identidade": "920677368",
+    "orgão_emissor": "SESP CE",
+    "uf": "PE",
+    "número_registro": "01632557054",
+    "ACC": "",
+    "permissão": "AB",
+    "categoria": ""
+}
+```
+
+Caso precise de mais alguma informação ou ajuste, fique à vontade para pedir!

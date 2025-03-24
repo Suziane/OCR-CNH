@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "OTO LUCOVEIC ALELUJA",
+    "cpf": "312.352.620-81",
+    "filiação": "ETSUKO HELGIS BRESCANSKI PINTO TOZI JANEQUINE TAMASHIRO",
+    "data_de_nascimento": "04/12/1963",
+    "primeira_habilitação": "17/05/2004",
+    "validade": "31/10/1978",
+    "documento_de_identidade": "17579503683",
+    "órgão_emissor": "SESP",
+    "UF": "GO",
+    "número_do_registro": "",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "D",
+    "número_válido": ""
+}
+```

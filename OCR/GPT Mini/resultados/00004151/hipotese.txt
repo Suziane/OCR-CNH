@@ -1,0 +1,22 @@
+Aqui está o resultado organizado em formato JSON com os dados reconhecidos:
+
+```json
+{
+  "nome": "CAMPANELLI NAGAMATSU SCHIESSL",
+  "CPF": "012.790.126-41",
+  "filiação": "JOSIFRAN MELANY PESSOA DA MATA SLOMPO WANDER GILM CAMPOS",
+  "data_nascimento": "24/09/1986",
+  "primeira_habilitação": "04/10/1953",
+  "validade": "27/02/1957",
+  "documento_identidade": "706861899",
+  "orgão_emissor": "SJS",
+  "UF": "GO",
+  "número_registro": "873935200094",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número_válido": "570776894"
+}
+``` 
+
+Caso algum campo não tenha sido reconhecido, o valor correspondente foi deixado como uma string vazia.

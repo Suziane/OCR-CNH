@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "MEZZALIRA DEVITO DWEK",
+  "CPF": "335.251.531-04",
+  "filiação": "UEKI RUZENE GIANGIACOMO PIRES, NADAISE WOSNIAK NAWA",
+  "data de nascimento": "15/06/1978",
+  "primeira habilitação": "12/11/1966",
+  "validade": "11/10/1987",
+  "documento de identidade": "715667183",
+  "órgão emissor": "SES",
+  "UF": "ES",
+  "número do registro": "69281135498",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "E",
+  "número válido": "170384487"
+}
+```

@@ -1,0 +1,22 @@
+Aqui está o reconhecimento dos campos da imagem, organizado em formato JSON:
+
+```json
+{
+  "nome": "CARLETO QUIRANTE YEON",
+  "cpf": "293.298.526-45",
+  "filiação": "DUCATTI PICCHETT MANEIRA SOARES\nNARDONI MARIZILDA HOMA REZENDE",
+  "data_nascimento": "16/07/2011",
+  "primeira_habilitação": "22/10/1999",
+  "validade": "24/07/1971",
+  "documento_identidade": "190521004",
+  "órgão_emissor": "SNJ",
+  "uf": "PE",
+  "número_do_registro": "44072310742",
+  "acc": "",
+  "permissão": "",
+  "categoria": "C",
+  "número_válido": "321402592"
+}
+```
+
+Se precisar de mais alguma coisa, é só avisar!

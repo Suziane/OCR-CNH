@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "FUKIWAKI KATO CRICCIOLI",
+  "CPF": "168.192.132-90",
+  "filiação": "RAGE TAKABASHI CARDIN",
+  "data de nascimento": "13/12/1979",
+  "primeira habilitação": "",
+  "validade": "25/10/1958",
+  "documento de identidade": "678108815",
+  "órgão emissor": "SSP",
+  "UF": "PR",
+  "número do registro": "721698500",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "",
+  "número válido": "453210081"
+}
+```

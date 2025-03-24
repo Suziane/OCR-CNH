@@ -1,0 +1,21 @@
+Aqui está o resultado em formato JSON com os dados reconhecidos:
+
+```json
+{
+    "nome": "ESAU KOPEL THEODOROVITZ",
+    "cpf": "107.521.902-70",
+    "filiacao": "FINOTTO ELIZELAINE AERREE CARVALHO, DANDOLO FRIGORI PROTA RODRIGUES",
+    "data_nascimento": "13/06/1971",
+    "primeira_habilitacao": "03/04/1980",
+    "validade": "22/09/1980",
+    "documento_identidade": "317944067 POM MG",
+    "orgao_emissor": "POM",
+    "uf": "MG",
+    "numero_registro": "25980242803",
+    "acc": "",
+    "permissao": "A",
+    "categoria": ""
+}
+``` 
+
+Se precisar de mais alguma coisa, estou à disposição!

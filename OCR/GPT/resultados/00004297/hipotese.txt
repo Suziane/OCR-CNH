@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "GARSON BELLIZA YUKIYOSH",
+  "CPF": "814.768.589-00",
+  "filiação": "WELITON SAVAZONT IRAMIN MARTINS, KOKITSU BRUNETI CEDRAN",
+  "data de nascimento": "05/03/1968",
+  "primeira habilitação": "22/12/2009",
+  "validade": "24/01/1975",
+  "documento de identidade": "437109869",
+  "órgão emissor": "SEJ",
+  "UF": "PR",
+  "número do registro": "12813253554",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "E",
+  "número válido": "431224064"
+}
+```

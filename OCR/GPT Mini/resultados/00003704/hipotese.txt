@@ -1,0 +1,22 @@
+Aqui está a estrutura JSON com os campos organizados:
+
+```json
+{
+  "nome": "DANIELLE KECIMYLLA TOURINH",
+  "cpf": "192.559.942-63",
+  "filiação": "NARAHASHI MATARAZZO WARTH SANTOS, JUTIZA SHINGAI CIRULI FERREITA",
+  "data_de_nascimento": "27/04/1956",
+  "primeira_habilitação": "21/11/1978",
+  "validade": "29/01/1993",
+  "documento_de_identidade": "657051949",
+  "órgão_emissor": "SNJ",
+  "uf": "MS",
+  "número_do_registro": "5715625595",
+  "acc": "",
+  "permissão": "",
+  "categoria": "B",
+  "número_válido": "704206392"
+}
+```
+
+Os valores foram preenchidos com base na imagem fornecida. Se algum campo não pôde ser reconhecido, usei uma string vazia como solicitado.

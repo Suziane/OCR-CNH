@@ -1,0 +1,21 @@
+```json
+{
+  "nome": "JERONYMO MANAMI SCURACHIO",
+  "CPF": "220.818.780-62",
+  "filiação": [
+    "CRIVELARO ADOLPHO TIETZE",
+    "LASEVICIUS VENTICINQUE R ARAUJO"
+  ],
+  "data de nascimento": "13/02/2003",
+  "primeira habilitação": "26/05/1956",
+  "validade": "01/03/1968",
+  "documento de identidade": "756192456",
+  "órgão emissor": "SES",
+  "UF": "AM",
+  "número do registro": "84948172582",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número válido": "118238160"
+}
+```

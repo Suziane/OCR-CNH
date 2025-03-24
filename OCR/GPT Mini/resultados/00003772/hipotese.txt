@@ -1,0 +1,21 @@
+Aqui está o resultado em formato JSON, conforme solicitado:
+
+```json
+{
+  "nome": "BATTAGELLO BERALDINELLE BUSSO",
+  "CPF": "701.627.311-32",
+  "filiação": "RAGASSI SUEDKUM GENTIL, SERAFINI GALLENT RIZZI DA COSTA",
+  "data_nascimento": "06/08/2015",
+  "primeira_habilitação": "16/04/2017",
+  "validade": "13/06/2019",
+  "documento_identidade": "411644579 SES MT",
+  "órgão_emissor": "SES",
+  "UF": "MT",
+  "número_registro": "29968083850",
+  "ACC": "",
+  "permissão": "C",
+  "categoria": ""
+}
+```
+
+Os campos que não foram encontrados foram deixados como strings vazias.

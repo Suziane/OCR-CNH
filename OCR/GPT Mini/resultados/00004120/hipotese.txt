@@ -1,0 +1,21 @@
+Aqui está o resultado organizado em formato JSON com os campos reconhecidos:
+
+```json
+{
+  "nome": "EDGARD MATTA BERTTI",
+  "CPF": "586.905.842-26",
+  "filiação": "FURLONI CASTILHO ABA BARBOSA\nALLIP COLLADO MELATTO",
+  "data_de_nascimento": "26/10/1980",
+  "primeira_habilitação": "03/10/2012",
+  "validade": "02/01/2018",
+  "documento_de_identidade": "621308602",
+  "órgão_emissor": "POF",
+  "UF": "SC",
+  "número_do_registro": "59289090356",
+  "ACC": "A",
+  "permissão": "",
+  "categoria": ""
+}
+```
+
+Caso haja mais campos ou informações, sinta-se à vontade para pedir!

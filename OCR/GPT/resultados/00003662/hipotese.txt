@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "MAINNNE NANO BOUCAULT",
+    "cpf": "806.737.173-30",
+    "filiacao": "FRANCCO MUSLIN VIU, GERA PALMISANO GU MARTINS",
+    "data_de_nascimento": "11/01/1962",
+    "primeira_habilitacao": "12/06/1982",
+    "validade": "24/07/1979",
+    "documento_de_identidade": "769906115",
+    "orgao_emissor": "SSP",
+    "uf": "SP",
+    "numero_do_registro": "79339061131",
+    "acc": "",
+    "permissao": "",
+    "categoria": "E",
+    "numero_valido": "128017483"
+}
+```

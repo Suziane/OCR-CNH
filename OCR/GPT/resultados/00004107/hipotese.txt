@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "CHUERI CERASI JHONATHAN",
+    "CPF": "553.445.471-70",
+    "filiação": "MADALENA SALVIN MENDES YAKUSHIJIN COLETA ABRAMOVI RODRIGUES",
+    "data de nascimento": "22/07/2008",
+    "primeira habilitação": "16/03/2001",
+    "validade": "19/08/1965",
+    "documento de identidade": "051241171",
+    "órgão emissor": "SEJ",
+    "UF": "MG",
+    "número do registro": "43450407657",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "D",
+    "número válido": "4475373"
+}
+```

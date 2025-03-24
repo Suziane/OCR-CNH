@@ -1,0 +1,22 @@
+Aqui está o reconhecimento dos campos solicitados, organizados em formato JSON:
+
+```json
+{
+    "nome": "LARATTA TOGASHI ADOLPHO",
+    "CPF": "147.774.338-38",
+    "filiação": "HORTAL MAJOLINI IMAGAWA, RINCK BRAGATO MILOS MARTINS",
+    "data_nascimento": "20/10/2013",
+    "primeira_habilitação": "17/02/1987",
+    "validade": "20/11/1990",
+    "documento_identidade": "8474630375",
+    "orgão_emissor": "SJS",
+    "UF": "SC",
+    "número_do_registro": "39582767359",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "E",
+    "número_válido": ""
+}
+``` 
+
+Caso precise de mais alterações ou informações, por favor, avise!

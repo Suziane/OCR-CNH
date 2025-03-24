@@ -1,0 +1,22 @@
+Aqui está o resultado do reconhecimento em formato JSON:
+
+```json
+{
+    "nome": "MERES NOBUHIRO DUART",
+    "cpf": "263.325.424-11",
+    "filiacao": "GIANVECHIO RA\nPADRAO JORDANA FRASSON FERREIRA",
+    "data_nascimento": "18/11/1986",
+    "primeira_habilitacao": "03/12/1985",
+    "validade": "15/11/1975",
+    "documento_identidade": "750966439",
+    "orgao_emissor": "SJS",
+    "uf": "BA",
+    "numero_registro": "01040248152",
+    "acc": "",
+    "permissao": "A",
+    "categoria": "",
+    "numero_valido": "265757658"
+}
+``` 
+
+Caso precise de mais alguma informação, é só avisar!

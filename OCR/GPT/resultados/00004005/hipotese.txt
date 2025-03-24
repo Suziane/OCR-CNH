@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "CAPELLARO GIZELE ANAHY",
+  "cpf": "706.195.980-00",
+  "filiacao": "SCUTA VIDOTO LUDOVI, FACCIONE URBANO KETIDI",
+  "data_de_nascimento": "27/06/1994",
+  "primeira_habilitacao": "16/07/1981",
+  "validade": "11/09/1971",
+  "documento_de_identidade": "843176076",
+  "orgao_emissor": "SESP",
+  "uf": "SP",
+  "numero_do_registro": "35297842118",
+  "acc": "",
+  "permissao": "",
+  "categoria": "C",
+  "numero_valido": "392745853"
+}
+```

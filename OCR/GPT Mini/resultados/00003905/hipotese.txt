@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "VARRONT ROSMERI RETT",
+  "CPF": "30284339637",
+  "filiação": "IKETE MARCHI ALMEIROS COSTA",
+  "data de nascimento": "02/07/1997",
+  "primeira habilitação": "14/04/1984",
+  "validade": "18/02/1963",
+  "documento de identidade": "053161196",
+  "órgão emissor": "SP",
+  "UF": "BA",
+  "número do registro": "E30 330 774-39",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número válido": ""
+}
+```

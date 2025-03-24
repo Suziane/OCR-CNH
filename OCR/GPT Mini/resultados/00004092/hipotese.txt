@@ -1,0 +1,22 @@
+Aqui está o resultado da extração dos campos em formato JSON:
+
+```json
+{
+  "nome": "MACHLINE SU GAZZETTA",
+  "cpf": "333.442.752-83",
+  "filiação": "TURTURA TAJIMA BALEIRO",
+  "data_nascimento": "16/01/2015",
+  "primeira_habilitação": "02/07/1965",
+  "validade": "08/07/1962",
+  "documento_identidade": "971054010",
+  "orgão_emissor": "POM",
+  "uf": "AM",
+  "número_registro": "13794173249",
+  "acc": "",
+  "permissão": "D",
+  "categoria": "",
+  "número_válido": "790301049"
+}
+``` 
+
+Caso precise de mais ajustes, é só avisar!

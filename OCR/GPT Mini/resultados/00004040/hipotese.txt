@@ -1,0 +1,21 @@
+Aqui está o resultado organizado em formato JSON com os campos reconhecidos da imagem:
+
+```json
+{
+    "nome": "PAGLIARINI GALASSO DU",
+    "cpf": "685.564.813-45",
+    "filiação": "VETRONE ZON FIORINI\nSPLENDORE HUANG TSCHAN VIANA",
+    "data_de_nascimento": "10/05/1980",
+    "primeira_habilitação": "10/10/1976",
+    "validade": "07/12/2015",
+    "documento_de_identidade": "524698491",
+    "órgão_emissor": "SPTC",
+    "uf": "SC",
+    "número_do_registro": "89423716459",
+    "acc": "",
+    "permissão": "AB",
+    "categoria": ""
+}
+```
+
+Aqui, todos os campos foram preenchidos de acordo com as informações visíveis na imagem. Os campos não encontrados foram atribuídos como strings vazias.

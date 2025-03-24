@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "KOUCHI JABBUR SERAPI",
+  "cpf": "236.099.950-70",
+  "filiacao": "ITHIRO SELOS JENG SOUZA, VALDIVANIA THALLER",
+  "data_nascimento": "14/04/1962",
+  "primeira_habilitacao": "04/08/1993",
+  "validade": "08/01/1976",
+  "documento_identidade": "276408927",
+  "orgao_emissor": "SES",
+  "uf": "BA",
+  "numero_registro": "10989102156",
+  "acc": "",
+  "permissao": "",
+  "categoria": "C",
+  "numero_valido": "277030232"
+}
+```

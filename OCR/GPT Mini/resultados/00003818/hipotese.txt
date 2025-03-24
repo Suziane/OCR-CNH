@@ -1,0 +1,17 @@
+```json
+{
+    "nome": "JENIFER SCHLITHLER RARIMAN",
+    "CPF": "539.801.903-15",
+    "filiação": "WILL VICENTINE SH DA COSTA WERGLES KAWAUCHE DA MATA",
+    "data_de_nascimento": "12/11/1980",
+    "primeira_habilitação": "30/09/2001",
+    "validade": "31/05/1952",
+    "documento_de_identidade": "074593333 SEJ BA",
+    "órgão_emissor": "",
+    "UF": "",
+    "número_do_registro": "43800686040",
+    "ACC": "",
+    "permissão": "E",
+    "categoria": ""
+}
+```

@@ -1,0 +1,22 @@
+Aqui está o resultado em formato JSON com os dados reconhecidos da imagem:
+
+```json
+{
+  "nome": "CANOVAS MOREIRA COMENAL",
+  "CPF": "251.033.924-01",
+  "filiação": "SHELY NAVIA SHIE DA LUZ\nGROILA ISABEL EDNELSO",
+  "data_de_nascimento": "27/04/1985",
+  "primeira_habilitação": "17/05/2017",
+  "validade": "08/06/2011",
+  "documento_de_identidade": "76900490 SEJ CE",
+  "orgão_emissor": "SEJ",
+  "UF": "CE",
+  "número_do_registro": "04305575866",
+  "ACC": "",
+  "permissão": "C",
+  "categoria": "",
+  "número_válido": "209073090"
+}
+```
+
+Os campos que não foram encontrados estão marcados com strings vazias.

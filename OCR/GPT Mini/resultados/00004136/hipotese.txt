@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "NETZ CERVAN SALMISTRARO",
+    "cpf": "270.623.883-60",
+    "filiação": "FIGUTI BRUSCHINI GUERRERA, TEJIN DRUZIANI CHI CARDOSO",
+    "data_de_nascimento": "06/11/1972",
+    "primeira_habilitação": "",
+    "validade": "16/11/2009",
+    "documento_de_identidade": "157302264",
+    "órgão_emissor": "SES",
+    "UF": "MG",
+    "número_do_registro": "28967883114",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "E",
+    "número_válido": "922215014"
+}
+```

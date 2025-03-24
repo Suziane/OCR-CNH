@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "ECNIN ARNELLAS SETURAL",
+  "CPF": "850.930.491-23",
+  "filiação": "IACONELLI FREDRYK FPA DA CUNHA SCHAFFER TEUBISLETE CARDOSO",
+  "data_nascimento": "11/05/1986",
+  "primeira_habilitação": "09/10/1987",
+  "validade": "29/10/1971",
+  "documento_identidade": "492035751",
+  "órgão_emissor": "SPTC",
+  "UF": "SP",
+  "número_registro": "63522308124",
+  "ACC": " ",
+  "permissão": " ",
+  "categoria": "A",
+  "número_válido": "812725830"
+}
+```

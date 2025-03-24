@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "ZAMBRINI MARSAO MURAT",
+  "CPF": "714.939.951-70",
+  "filiação": "PIGNATTA POSSATO KALYBAT GATSIOS RENZETTI BAQU RODRIGUES",
+  "data_de_nascimento": "31/10/1965",
+  "primeira_habilitação": "13/02/1979",
+  "validade": "16/03/1990",
+  "documento_de_identidade": "797355789",
+  "órgão_emissor": "SPTC",
+  "UF": "RS",
+  "número_do_registro": "41106295722",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "",
+  "número_válido": "357916760"
+}
+```

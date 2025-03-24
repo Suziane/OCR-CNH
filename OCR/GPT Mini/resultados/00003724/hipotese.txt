@@ -1,0 +1,21 @@
+Aqui está o resultado do reconhecimento dos campos contidos na imagem, organizado em formato JSON:
+
+```json
+{
+  "nome": "EMYR SIROBABA RUIS",
+  "CPF": "264.198.914-00",
+  "filiação": "SCARIN BOZZINI GOTTARDI; CORBINI FUZITA BASSAN FERNANDES",
+  "data_de_nascimento": "18/09/2015",
+  "primeira_habilitação": "14/11/2016",
+  "validade": "21/10/1959",
+  "documento_de_identidade": "267496813",
+  "órgão_emissor": "POF",
+  "UF": "MG",
+  "número_do_registro": "095618303508",
+  "ACC": "",
+  "permissão": "",
+  "categoria": ""
+}
+```
+
+Caso precise de mais ajuda, é só avisar!

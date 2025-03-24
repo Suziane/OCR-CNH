@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "BORGINI LISEBO TOPLIARI",
+  "CPF": "373.099.553-62",
+  "filiação": "MARI JANAINA HABI, ALVES, MACARIO TSUMORI RACY, MOURA",
+  "data de nascimento": "10/03/1999",
+  "primeira habilitação": "20/12/2002",
+  "validade": "09/08/2011",
+  "documento de identidade": "169648006",
+  "órgão emissor": "SEJ",
+  "UF": "SC",
+  "número do registro": "3121969289",
+  "ACC": "não",
+  "permissão": "não",
+  "categoria": "B",
+  "número válido": "9302713766"
+}
+```

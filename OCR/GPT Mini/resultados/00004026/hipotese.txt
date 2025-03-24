@@ -1,0 +1,19 @@
+Aqui está o resultado em formato JSON:
+
+```json
+{
+  "nome": "FACUNTE BERTHOLIM JACOIA",
+  "cpf": "128.302.235-43",
+  "filiação": "WEEL SETANNI MAKIY CARDOSO PETROZIELLO INGA AS RAMOS",
+  "data_nascimento": "28/02/1951",
+  "primeira_habilitação": "07/2007",
+  "validade": "27/12/1996",
+  "documento_identidade": "0363225132",
+  "orgão_emissor": "SPTC",
+  "UF": "MG",
+  "número_do_registro": "44480355542",
+  "ACC": "",
+  "permissão": "AB",
+  "número_válido": ""
+}
+```

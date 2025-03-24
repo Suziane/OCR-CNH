@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "ESTACIO HABERKORN ASAKAWA",
+  "cpf": "223.916.574-04",
+  "filiacao": "SIPRIANI ZORDAN FANG\nPEREIRA\nMICHAELIS MacCHETTI\nDA COSTA",
+  "data_de_nascimento": "24/02/1992",
+  "primeira_habilitacao": "02/12/1982",
+  "validade": "01/12/2020",
+  "documento_de_identidade": "932528636",
+  "orgao_emissor": "SNJ",
+  "uf": "SP",
+  "numero_do_registro": "02332665183",
+  "acc": "",
+  "permissao": "",
+  "categoria": "D",
+  "numero_valido": "043706068"
+}
+```

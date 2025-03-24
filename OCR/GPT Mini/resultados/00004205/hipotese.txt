@@ -1,0 +1,22 @@
+Aqui está o JSON com os campos reconhecidos da imagem fornecida:
+
+```json
+{
+    "nome": "BALDY ARMIGLIATO ANTONIAZI",
+    "CPF": "159.249.321-17",
+    "filiação": "CLETO DALMASCHIO DIO MENDES GRANDOLPHO JANNUZZ SOUZA",
+    "data_de_nascimento": "20/04/1991",
+    "primeira_habilitação": "02/09/1997",
+    "validade": "08/03/1969",
+    "documento_de_identidade": "153529291",
+    "órgão_emissor": "SJS",
+    "UF": "PB",
+    "número_do_registro": "03520611591",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "C",
+    "número_válido": ""
+}
+```
+
+Se precisar de mais alguma coisa, é só avisar!

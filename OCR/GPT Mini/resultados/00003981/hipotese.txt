@@ -1,0 +1,21 @@
+Aqui está o resultado do reconhecimento dos campos no formato JSON:
+
+```json
+{
+    "nome": "PLACITTE SEABRA DEXHE",
+    "CPF": "598.702.436-65",
+    "filiação": "HIROCHI SAULE CANALLI REZENDE",
+    "data_de_nascimento": "15/12/1954",
+    "primeira_habilitação": "09/05/1984",
+    "validade": "02/08/1950",
+    "documento_de_identidade": "175424433",
+    "órgão_emissor": "SPTC MG",
+    "UF": "",
+    "número_do_registro": "56504889120",
+    "ACC": "",
+    "permissão": "D",
+    "categoria": ""
+}
+```
+
+Os campos que não foram encontrados contêm valores vazios.

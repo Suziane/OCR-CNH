@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "CAMPANELLI NAGAMATSU SCHIESSL",
+  "cpf": "012.790.126-41",
+  "filiacao": "JOSIFRAN MELANY PESSOA DA MATA SLOMPO WANDER GILM CAMPOS",
+  "data_de_nascimento": "24/09/1986",
+  "primeira_habilitacao": "04/10/1953",
+  "validade": "27/02/1957",
+  "documento_de_identidade": "706861899",
+  "orgao_emissor": "SJS",
+  "uf": "GO",
+  "numero_do_registro": "87393520094",
+  "acc": "",
+  "permissao": "",
+  "categoria": "B",
+  "numero_valido": "570776894"
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "MORITZ HULSHOF ADEMAR",
+  "cpf": "469.112.647-31",
+  "filiacao": "SCOMPARINI GIOVANA VIDA; LENER KAMIMOTO KOJI",
+  "data_nascimento": "27/04/1989",
+  "primeira_habilitacao": "13/10/1992",
+  "validade": "10/07/1985",
+  "documento_identidade": "324014600",
+  "orgao_emissor": "SESP",
+  "UF": "RS",
+  "numero_registro": "113953870005",
+  "ACC": "",
+  "permissao": "",
+  "categoria": "AB",
+  "numero_valido": "859905670"
+}
+```

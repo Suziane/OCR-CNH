@@ -1,0 +1,23 @@
+Aqui está o resultado organizado em formato JSON, com os campos reconhecidos do documento:
+
+```json
+{
+    "nome": "BINGRE PRATES SEJIO",
+    "cpf": "268.857.430-20",
+    "filiação": "TONACIO GHIROTTI ROND",
+    "data_de_nascimento": "01/08/1951",
+    "primeira_habilitação": "",
+    "validade": "12/02/2016",
+    "documento_de_identidade": "767788564 SEJ MT",
+    "órgão_emissor": "",
+    "UF": "",
+    "número_do_registro": "",
+    "data_de_nascimento_2": "01/08/1951",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "",
+    "número_válido": ""
+}
+```
+
+Os campos que não foram encontrados no documento têm valores vazios.

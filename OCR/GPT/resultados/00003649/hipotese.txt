@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "BARISON MALVICINO GALLUCCI",
+  "cpf": "627.441.961-69",
+  "filiacao": "BERNARDUS PAR DA ROSA ZULATO GRUBERT CAVALCANTI",
+  "data_nascimento": "21/08/1997",
+  "primeira_habilitacao": "11/07/1954",
+  "validade": "05/06/1983",
+  "documento_identidade": "583485453",
+  "orgao_emissor": "SSP",
+  "uf": "RS",
+  "numero_registro": "61189171446",
+  "acc": "",
+  "permissao": "",
+  "categoria": "B",
+  "numero_valido": "632735124"
+}
+```

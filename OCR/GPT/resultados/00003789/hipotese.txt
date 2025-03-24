@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "ZERBINI SCARTOZZONI MENEGHINI",
+  "CPF": "435.371.048-63",
+  "filiação": "UHRIG MONTES SATOW, SQUARIZE ERNANI WATARU",
+  "data_nascimento": "11/04/1995",
+  "primeira_habilitação": "11/07/2006",
+  "validade": "29/03/1981",
+  "documento_identidade": "931686039",
+  "órgão_emissor": "SNJ",
+  "UF": "MA",
+  "número_do_registro": "22553526598",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "E",
+  "número_válido": "815297405"
+}
+```

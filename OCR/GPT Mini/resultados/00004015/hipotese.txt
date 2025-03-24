@@ -1,0 +1,21 @@
+Aqui está o reconhecimento dos campos solicitados organizados em um arquivo JSON:
+
+```json
+{
+    "nome": "HELMAN CHUSKI TRILLO",
+    "CPF": "026.449.942-68",
+    "filiação": "FERRANTI MARCELO MAYKON",
+    "data de nascimento": "29/01/2010",
+    "primeira habilitação": "20/12/2009",
+    "validade": "20/12/2018",
+    "documento de identidade": "329587923 SJS MA",
+    "órgão emissor": "",
+    "UF": "",
+    "número do registro": "8392900539",
+    "ACC": "",
+    "permissão": "E",
+    "categoria": ""
+}
+```
+
+Os campos que não foram encontrados estão com valores vazios ('').

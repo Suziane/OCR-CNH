@@ -1,0 +1,21 @@
+Aqui está o resultado organizado em formato JSON, com os campos solicitados:
+
+```json
+{
+    "nome": "NASCIEL YUSSUKI BELOTI",
+    "cpf": "643.305.100-65",
+    "filiação": "FRY ABATE RICCIARDI SOUZA\nIWAZAKI MAZZIOTTI ROSEMARY ALMEIDA",
+    "data_nascimento": "03/04/2015",
+    "primeira_habilitação": "01/06/1989",
+    "validade": "04/04/1969",
+    "documento_identidade": "133928524",
+    "orgão_emissor": "SEJ",
+    "uf": "CE",
+    "número_do_registro": "203102780895",
+    "acc": "",
+    "permissão": "AB",
+    "categoria": ""
+}
+```
+
+Se precisar de mais assistência, é só avisar!

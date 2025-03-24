@@ -1,0 +1,22 @@
+Vou organizar os dados reconhecidos da imagem em um formato JSON conforme solicitado:
+
+```json
+{
+    "nome": "MACHLINE SU GAZZETTA",
+    "cpf": "333.442.752-83",
+    "filiação": "TURTURA TAZIMA BALEIHEIRO",
+    "data_nascimento": "16/01/2015",
+    "primeira_habilitação": "02/07/1965",
+    "validade": "08/07/1962",
+    "documento_identidade": "971.054.010",
+    "órgão_emissor": "POM",
+    "UF": "AM",
+    "número_registro": "13794173249",
+    "ACC": "",
+    "permissão": "D",
+    "categoria": "D",
+    "número_válido": ""
+}
+```
+
+Caso algum campo não tenha sido reconhecido corretamente, os valores foram atribuídos como strings vazias conforme solicitado.

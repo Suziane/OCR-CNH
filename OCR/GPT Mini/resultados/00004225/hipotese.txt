@@ -1,0 +1,22 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos a partir da imagem fornecida:
+
+```json
+{
+    "nome": "HOWELL TOKUTSUNE KRUSE",
+    "cpf": "491.912.984-07",
+    "filiação": "CORDLIA MIELNIK SCHNAIBEL DA CUNHA ALCONCHER MERMEJO K DUARTE",
+    "data_nascimento": "28/04/2020",
+    "primeira_habilitação": "12/10/1999",
+    "validade": "22/12/2003",
+    "documento_identidade": "75111302",
+    "orgão_emissor": "SEJ",
+    "uf": "BA",
+    "número_do_registro": "42000341961",
+    "acc": "",
+    "permissão": "",
+    "categoria": "D",
+    "número_válido": ""
+}
+```
+
+Os campos "ACC", "permissão" e "número_válido" não foram encontrados, portanto, estão como strings vazias.

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "WEST SINGER CAMARNEIRO",
+  "cpf": "845.655.756-04",
+  "filiacao": "KAAWAR BERTACCHI SHU MENDES, CORDEIROS BARSCELI G",
+  "data_nascimento": "25/11/1956",
+  "primeira_habilitacao": "20/12/2019",
+  "validade": "13/07/1955",
+  "documento_identidade": "609046780",
+  "orgao_emissor": "SESP",
+  "uf": "PA",
+  "numero_registro": "29843940835",
+  "acc": "",
+  "permissao": "",
+  "categoria": "E",
+  "numero_valido": "977909640"
+}
+```

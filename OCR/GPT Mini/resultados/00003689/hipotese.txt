@@ -1,0 +1,21 @@
+Aqui está o resultado do reconhecimento dos campos solicitados, organizado em formato JSON:
+
+```json
+{
+  "nome": "SANTO STUART ARCO",
+  "CPF": "178.407.081-53",
+  "filiação": "IMORI SARAVALLE ZAMARI VIEIRA BRONZATI GRIZZO NA CAMPOS",
+  "data de nascimento": "29/05/1992",
+  "primeira habilitação": "15/04/1955",
+  "validade": "27/12/1997",
+  "documento de identidade": "886612299",
+  "orgão emissor": "SSP",
+  "UF": "CE",
+  "número do registro": "24223855156",
+  "ACC": "",
+  "permissão": "",
+  "categoria": ""
+}
+``` 
+
+Se precisar de mais alguma coisa, é só avisar!

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "BERTALAN RONCHINI FUNADA",
+  "CPF": "598.317.517-36",
+  "filiação": "BONAMIN MAXIMILIANO MAATZ SILVEIRA ENOKIBARA BEIRA GHI SOUZA",
+  "data de nascimento": "02/06/2005",
+  "doc. identidade": "495038386",
+  "org. emissor": "SES",
+  "UF": "MG",
+  "número do registro": "09128898666",
+  "validade": "17/11/1971",
+  "primeira habilitação": "26/04/2002",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "C",
+  "número válido": "516356992"
+}
+```

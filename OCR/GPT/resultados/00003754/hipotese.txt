@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "THAIZI LYS SHIMOJO",
+    "CPF": "802.077.530-75",
+    "filiação": "IWASE BARTOLOMEU BARUFALD, RUFOLO TONGNOLE IN RODRIGUES",
+    "data de nascimento": "20/02/1965",
+    "primeira habilitação": "11/10/1969",
+    "validade": "28/03/1989",
+    "documento de identidade": "988859403",
+    "órgão emissor": "SSP",
+    "UF": "MG",
+    "número do registro": "87022218991",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "E",
+    "número válido": "796533780"
+}
+```

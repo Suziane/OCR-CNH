@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "JOFFILY RAICORDSKY B",
+  "CPF": "499.600.317-92",
+  "filiação": "DRUZZILI STIEP LEISTER, WALDOW ANGOTTI COVAS",
+  "data_de_nascimento": "27/10/1990",
+  "primeira_habilitação": "16/11/1954",
+  "validade": "19/04/2016",
+  "documento_de_identidade": "365226749",
+  "órgão_emissor": "SESP",
+  "UF": "SC",
+  "número_do_registro": "32484572680",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número_válido": "063829595"
+}
+```

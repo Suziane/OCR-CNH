@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "RASIA EDILENE DALTOZO",
+  "cpf": "572.386.937-04",
+  "filiacao": "MOTTIN ANRAKU WOSNIK / TURRA BERCHIELLI SALZANO",
+  "data_nascimento": "27/08/2012",
+  "primeira_habilitacao": "04/01/1996",
+  "validade": "20/07/2005",
+  "documento_identidade": "409450832",
+  "orgao_emissor": "SSP",
+  "uf": "PE",
+  "numero_registro": "24005679704",
+  "acc": "",
+  "permissao": "",
+  "categoria": "A",
+  "numero_valido": "865587076"
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "ESAU KOPEL THEODOROVITZ",
+  "CPF": "107.521.902-70",
+  "filiação": "FINOTTO ELIZELAINE AEREE CARVALHO, DANDOLO FRIGORI PROTA RODRIGUES",
+  "data de nascimento": "13/06/1971",
+  "primeira habilitação": "03/04/1980",
+  "validade": "22/09/1980",
+  "documento de identidade": "317944067",
+  "órgão emissor": "POM",
+  "UF": "MG",
+  "número do registro": "25980242803",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número válido": "752931409"
+}
+```

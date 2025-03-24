@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "EMYR SIROBABA RUIS",
+  "CPF": "264.198.914-00",
+  "filiação": "SCARIN BOZZINI GOTTARDI, CORBINI FUZITA BASSAN",
+  "data de nascimento": "18/09/2015",
+  "primeira habilitação": "14/11/2016",
+  "validade": "21/10/1959",
+  "documento de identidade": "267496813",
+  "órgão emissor": "POF",
+  "UF": "MG",
+  "número do registro": "09561803508",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "",
+  "número válido": "197039978"
+}
+```

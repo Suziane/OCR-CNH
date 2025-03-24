@@ -1,0 +1,17 @@
+```json
+{
+    "nome": "BASSIN ULTREMARE CASPEL",
+    "CPF": "327.774.544-93",
+    "filiação": "RONCAGLIA FRANCESCHINI RETTMANN PINAZZA MAR",
+    "data_de_nascimento": "21/02/1998",
+    "primeira_habilitação": "04/04/1951",
+    "validade": "21/01/1991",
+    "documento_de_identidade": "521091342",
+    "órgão_emissor": "SEJ",
+    "UF": "GO",
+    "número_do_registro": "69294576789",
+    "ACC": "",
+    "permissão": "AB",
+    "categoria": ""
+}
+```

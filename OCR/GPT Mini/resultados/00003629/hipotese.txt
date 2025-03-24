@@ -1,0 +1,21 @@
+Aqui está o resultado em formato JSON com base nas informações extraídas da imagem:
+
+```json
+{
+  "nome": "FRANCHA VERGUEIRO BUCCHI",
+  "CPF": "357.012.367-73",
+  "filiação": "BOTTEON SERVILHA HUB, CHRISTY BUGELLI SUYAMI DUARTE",
+  "data_de_nascimento": "12/04/1977",
+  "primeira_habilitação": "16/10/1962",
+  "validade": "20/06/2005",
+  "documento_de_identidade": "632222785",
+  "órgão_emissor": "SDS",
+  "UF": "PR",
+  "número_do_registro": "82587310684",
+  "ACC": "",
+  "permissão": "B",
+  "categoria": ""
+}
+```
+
+Os campos em branco foram preenchidos com strings vazias, conforme solicitado. Se precisar de mais alguma informação, é só avisar!

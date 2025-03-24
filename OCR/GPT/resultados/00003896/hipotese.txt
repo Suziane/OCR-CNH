@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "CASSIO BONSAGLIA STANICIA",
+  "CPF": "295.382.179-18",
+  "filiação": "FRECH NISHITANI REGADOS, ARTEMIS SIDNEA YAMARA ALVES",
+  "data de nascimento": "05/06/1989",
+  "primeira habilitação": "21/11/2013",
+  "validade": "30/03/1954",
+  "documento de identidade": "651887094",
+  "órgão emissor": "SSP",
+  "UF": "PB",
+  "número do registro": "95991117539",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "D",
+  "número válido": "746545029"
+}
+```

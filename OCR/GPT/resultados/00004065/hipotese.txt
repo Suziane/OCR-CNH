@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "KAWADA ELVIO PETROLI",
+  "CPF": "004.743.033-81",
+  "filiação": "HIRSCHHEIMER WANSCH, GUBITOSO COVELLO LUCI",
+  "data de nascimento": "27/01/1951",
+  "primeira habilitação": "25/06/1976",
+  "validade": "24/10/1963",
+  "documento de identidade": "890662927",
+  "órgão emissor": "SSP",
+  "UF": "CE",
+  "número do registro": "55438556704",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "C",
+  "número válido": "622823160"
+}
+```

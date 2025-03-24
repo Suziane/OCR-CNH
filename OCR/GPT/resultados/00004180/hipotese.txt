@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "NORMANHA HUMANTSCHUK PREFI",
+  "CPF": "730.188.933-01",
+  "filiação": "TCHIZLI FUZIY C ARAUJO, HAJALA JADE KLEINHAPPEL COSTA",
+  "data de nascimento": "31/07/2017",
+  "primeira habilitação": "17/10/1966",
+  "validade": "30/09/1968",
+  "documento de identidade": "502415186",
+  "órgão emissor": "SESP",
+  "UF": "SP",
+  "número do registro": "03748820310",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "ACC",
+  "número válido": "3793797"
+}
+```

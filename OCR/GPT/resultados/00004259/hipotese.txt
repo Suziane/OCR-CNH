@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "NICCIOLI TUFAILE KUW",
+  "CPF": "982.360.412-63",
+  "filiação": "LEYMI RAUBER CAPOZZ MORAES, KIYOHIRO SONNINI PICC VIEIRA",
+  "data_de_nascimento": "14/02/1971",
+  "primeira_habilitação": "25/05/1952",
+  "validade": "02/03/2003",
+  "documento_de_identidade": "273067990",
+  "órgão_emissor": "SSP",
+  "UF": "MG",
+  "número_do_registro": "69260771416",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número_válido": "839589154"
+}
+```

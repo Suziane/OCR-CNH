@@ -1,0 +1,22 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos da imagem:
+
+```json
+{
+    "nome": "SALU HORIE MATTE",
+    "cpf": "845.354.894-32",
+    "filiação": "PAULLELI JARDINI DANES CARVALHO, MOLINA VALDEMAR CLA NOGUEIRA",
+    "data_nascimento": "30/12/1959",
+    "primeira_habilitação": "15/06/2010",
+    "validade": "30/04/2016",
+    "documento_identidade": "876220650",
+    "órgão_emissor": "SDS",
+    "uf": "MG",
+    "número_registro": "83458269419",
+    "acc": "",
+    "permissão": "",
+    "categoria": "AB",
+    "número_válido": "306773940"
+}
+```
+
+Se precisar de mais alguma coisa, estou à disposição!

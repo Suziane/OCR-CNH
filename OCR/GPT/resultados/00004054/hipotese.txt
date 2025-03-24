@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "GUANABARA KANATANI AMIR",
+  "cpf": "652.443.493-50",
+  "filiacao": "ROZANI KAWACHI COPPOLA SOARES DJANIKIAN DORIGON G CARVALHO",
+  "data_nascimento": "04/07/1986",
+  "primeira_habilitacao": "18/10/1961",
+  "validade": "31/12/1952",
+  "documento_identidade": "71431732",
+  "orgao_emissor": "SESP",
+  "uf": "MG",
+  "numero_registro": "58576374458",
+  "acc": "",
+  "permissao": "",
+  "categoria": "C",
+  "numero_valido": "678060734"
+}
+```

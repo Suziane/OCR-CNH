@@ -1,0 +1,20 @@
+Aqui está o resultado em formato JSON, conforme solicitado:
+
+```json
+{
+    "nome": "PARADELLA GUIMARÃES BESSON",
+    "CPF": "874.380.403-99",
+    "filiação": "PASCHOALINO DELFINO MARGA; SERRAMBANA IGOR SALES",
+    "data_nascimento": "04/01/2019",
+    "primeira_habilitação": "07/08/1976",
+    "validade": "26/11/2006",
+    "documento_identidade": "047776468",
+    "órgão_emissor": "SEJ",
+    "UF": "GO",
+    "número_registro": "51283847678",
+    "ACC": "",
+    "permissão": "A",
+    "categoria": "",
+    "número_válido": "490628820"
+}
+```

@@ -1,0 +1,22 @@
+Aqui está o resultado organizado em formato JSON, conforme solicitado:
+
+```json
+{
+    "nome": "MAYCKOL ZAREBSKI GOIA",
+    "cpf": "359.409.377-80",
+    "filiação": "LETTIERE CHIYODA SEUNG MAZEU CONSTANCIO BA",
+    "data_de_nascimento": "16/04/1959",
+    "primeira_habilitação": "07/07/1982",
+    "validade": "20/05/1967",
+    "documento_de_identidade": "399246241",
+    "órgão_emissor": "SSP",
+    "uf": "MA",
+    "número_do_registro": "26007679003",
+    "acc": "",
+    "permissão": "",
+    "categoria": "D",
+    "número_válido": "782027424"
+}
+``` 
+
+Os campos que não foram encontrados foram deixados como strings vazias conforme indicado.

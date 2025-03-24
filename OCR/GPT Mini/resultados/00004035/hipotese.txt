@@ -1,0 +1,21 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos a partir da imagem:
+
+```json
+{
+  "nome": "FRANGO NOH ROSIANE",
+  "cpf": "095.127.287-02",
+  "filiacao": "RIVITTI MAGALOTTI VA RAMOS; PAOLIELLO JOLY BELUTI",
+  "data_de_nascimento": "06/03/1959",
+  "primeira_habilitacao": "13/06/1967",
+  "validade": "19/10/1967",
+  "documento_de_identidade": "722433332",
+  "orgao_emissor": "SPTC",
+  "uf": "GO",
+  "numero_do_registro": "951614457773",
+  "acc": "A",
+  "permissao": "",
+  "categoria": ""
+}
+```
+
+Se precisar de mais alguma coisa, é só avisar!

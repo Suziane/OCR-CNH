@@ -1,0 +1,22 @@
+Aqui está o reconhecimento dos campos presentes na imagem, organizados em formato JSON:
+
+```json
+{
+    "nome": "REGENTHAL GONSORA SIGNORI",
+    "cpf": "623.959.488-67",
+    "filiação": "GALILELLO BACCO BONIM RIBEIRO, CANEZIM TAKEUCHI POCCI RODRIGUES",
+    "data_nascimento": "11/02/2002",
+    "primeira_habilitação": "04/10/1969",
+    "validade": "06/05/2019",
+    "documento_identidade": "723980726",
+    "orgão_emissor": "SEJ",
+    "uf": "MG",
+    "número_registro": "41158685093",
+    "acc": "",
+    "permissão": "C",
+    "categoria": "",
+    "número_válido": "465085461"
+}
+``` 
+
+Se precisar de mais informações, estou à disposição!

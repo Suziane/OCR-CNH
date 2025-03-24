@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "MACHINE SU GAZZETTA",
+  "CPF": "333.442.752-83",
+  "filiação": "TURTURA TAZIMA BALEIRO, DIVINA SALICIO COLOGNA",
+  "data de nascimento": "16/01/2015",
+  "primeira habilitação": "02/07/1965",
+  "validade": "08/07/1962",
+  "documento de identidade": "971054010",
+  "órgão emissor": "POM",
+  "UF": "AM",
+  "número do registro": "13794173249",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "D",
+  "número válido": "790301049"
+}
+```

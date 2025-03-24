@@ -1,0 +1,22 @@
+Aqui está o resultado organizado em formato JSON com os campos solicitados:
+
+```json
+{
+  "nome": "ARARIPE SCIESSERE ELISTON",
+  "CPF": "553.563.958-33",
+  "filiação": "FOELKEL CAVASSA MASAGAO CARNAVAL CREDO UNG CARDOSO",
+  "data_nascimento": "26/07/1955",
+  "primeira_habilitação": "30/07/2006",
+  "validade": "03/02/1960",
+  "documento_de_identidade": "835323420",
+  "órgão_emissor": "SJS",
+  "UF": "PR",
+  "número_do_registro": "56279027690",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número_válido": "1418307171"
+}
+```
+
+Se precisar de mais alguma coisa, é só avisar!

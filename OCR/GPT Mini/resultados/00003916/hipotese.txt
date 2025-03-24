@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "TALITHA CONTE PIERRE",
+    "cpf": "562.911.886-27",
+    "filiação": "GARISTO SASAOKA MARIANO\nANAUTI JUREMEIRA SOUZA",
+    "data_nascimento": "27/03/2006",
+    "primeira_habilitação": "21/11/2011",
+    "validade": "03/04/1964",
+    "documento_identidade": "094504126",
+    "orgao_emissor": "GO",
+    "uf": "GO",
+    "numero_registro": "04801379558",
+    "acc": "",
+    "permissao": "",
+    "categoria": "A",
+    "numero_valido": ""
+}
+```

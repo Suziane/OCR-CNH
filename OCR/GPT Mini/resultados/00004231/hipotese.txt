@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "CUTINHOLA MOSCOLINI SCARELLI",
+    "cpf": "764.234.982-37",
+    "filiação": "HELEN SACCHETTO PAPILE NOVAES, ADELLA TAKIYA SHIMOMURA GOMES",
+    "data_nascimento": "16/12/1980",
+    "primeira_habilitação": "18/07/1980",
+    "validade": "30/09/1995",
+    "documento_identidade": "010945027",
+    "órgão_emissor": "SJS",
+    "UF": "BA",
+    "número_registro": "70673864934",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "C",
+    "número_válido": "397522391"
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "CARDIM MEIXS MCMENNOHH",
+    "CPF": "664.222.450-76",
+    "filiação": "CHERESAAT LIAO FACETI SILVA, RACHELETIS KASAMA ER SOARES",
+    "data de nascimento": "30/07/1990",
+    "primeira habilitação": "",
+    "validade": "20/08/1963",
+    "documento de identidade": "6952365",
+    "órgão emissor": "SSP",
+    "UF": "MG",
+    "número do registro": "33368945209",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "D",
+    "número válido": "307932476"
+}
+```

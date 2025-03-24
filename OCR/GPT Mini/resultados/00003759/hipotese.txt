@@ -1,0 +1,22 @@
+Aqui está o resultado do reconhecimento dos campos em formato JSON, com os dados extraídos da imagem:
+
+```json
+{
+  "nome": "CARLETO QUIRANTE YEON",
+  "cpf": "293.298.526-45",
+  "filiação": "DUCATTI PICCHETTI MANEIRA SOARES, NARDONI MARIZILDA HOMA REZENDE",
+  "data_de_nascimento": "16/07/2011",
+  "primeira_habilitação": "22/10/1999",
+  "validade": "24/07/1971",
+  "documento_de_identidade": "190521004",
+  "orgão_emissor": "SNJ",
+  "uf": "PE",
+  "número_do_registro": "44072310742",
+  "acc": "",
+  "permissão": "C",
+  "categoria": "",
+  "número_válido": "321402592"
+}
+```
+
+Caso haja algum campo que não foi identificado, o valor correspondente é uma string vazia.

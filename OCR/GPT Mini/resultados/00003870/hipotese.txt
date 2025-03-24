@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "HEBELER MENEZES MOTEZUKI",
+    "cpf": "607.682.907-91",
+    "filiação": "MALERBI IRAN LUSMAR, MIRACI GIAMATEI HAM CARDOSO",
+    "data_nascimento": "07/05/1966",
+    "primeira_habilitação": "14/09/1952",
+    "validade": "19/04/2001",
+    "documento_identidade": "422110671",
+    "orgão_emissor": "POM",
+    "uf": "MG",
+    "número_registro": "40449162368",
+    "acc": "",
+    "permissão": "",
+    "categoria": "D",
+    "número_válido": "826272702"
+}
+```

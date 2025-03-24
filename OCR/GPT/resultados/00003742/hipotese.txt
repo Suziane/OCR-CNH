@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "Mezi Singer Camarneiro",
+  "CPF": "843.655.756-04",
+  "filiação": "Kaamar Bertiacchi Shu Mendes, Corretiros Barsgelli C",
+  "data_de_nascimento": "23/11/1955",
+  "primeira_habilitação": "",
+  "validade": "22/12/2019",
+  "documento_de_identidade": "",
+  "órgão_emissor": "SESP",
+  "UF": "PA",
+  "número_do_registro": "29232940385",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "E",
+  "número_válido": "977309640"
+}
+```

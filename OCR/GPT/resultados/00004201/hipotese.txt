@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "EUN YREIZUMI PALARETTI",
+    "CPF": "733.824.911-33",
+    "filiação": "HERZILIO DIOIDI MORVO\nHAMED CAPELLIA LIVIA RODRIGUES",
+    "data de nascimento": "27/05/1990",
+    "primeira habilitação": "05/03/2001",
+    "validade": "14/04/1958",
+    "documento de identidade": "119485327",
+    "órgão emissor": "SPTC",
+    "UF": "AL",
+    "número do registro": "74465715384",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "E",
+    "número válido": "580794595"
+}
+```

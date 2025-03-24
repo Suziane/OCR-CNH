@@ -1,0 +1,23 @@
+Aqui está o JSON com os campos reconhecidos da imagem:
+
+```json
+{
+    "nome": "BOZOLA MITSUYAMA AFELAR",
+    "CPF": "880.875.478-29",
+    "filiação": "FOTORAN UZUELI LEVENST SILVA NOVI MERETTI BARBELLI SOARES",
+    "data_de_nascimento": "13/09/1962",
+    "primeira_habilitação": "",
+    "validade": "",
+    "documento_de_identidade": "051975041 SESP BA",
+    "órgão_emissor": "",
+    "UF": "",
+    "número_do_registro": "2403430885",
+    "data_de_nascimento_duplicada": "",
+    "ACC": "A",
+    "permissão": "",
+    "categoria": "",
+    "número_válido": "597214506"
+}
+```
+
+Se precisar de mais alguma coisa, não hesite!

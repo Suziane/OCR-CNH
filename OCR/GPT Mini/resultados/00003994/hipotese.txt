@@ -1,0 +1,17 @@
+```json
+{
+    "nome": "CELIANE STRUCKEL GAMMADELIA",
+    "CPF": "526.899.129-96",
+    "filiação": "HELITO ARMANI ARISTHEIA; PUPPO BOYANOSKI MIGLIORE",
+    "data_nascimento": "07/03/1957",
+    "primeira_habilitação": "14/11/1961",
+    "validade": "14/11/1995",
+    "documento_de_identidade": "594335198",
+    "órgão_emissor": "SJS",
+    "UF": "BA",
+    "número_do_registro": "10158601509",
+    "ACC": "",
+    "permissão": "D",
+    "categoria": ""
+}
+```

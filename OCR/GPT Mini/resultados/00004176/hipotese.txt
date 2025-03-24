@@ -1,0 +1,21 @@
+Aqui está o reconhecimento dos campos a partir da imagem fornecida, organizado em formato JSON:
+
+```json
+{
+    "nome": "CAPELLARO GIZELE ANAHY",
+    "cpf": "706.195.980-00",
+    "filiação": "SCUTA VIDOTO LUDOVI FACCIONE URBANO KEIDI",
+    "data_nascimento": "27/06/1994",
+    "primeira_habilitação": "16/07/1981",
+    "validade": "11/09/1971",
+    "documento_identidade": "843176076",
+    "órgão_emissor": "SESP",
+    "uf": "SP",
+    "número_registro": "352979842118",
+    "acc": "",
+    "permissão": "C",
+    "categoria": ""
+}
+```
+
+Caso algum campo não tenha sido encontrado, foi atribuído o valor como uma string vazia.

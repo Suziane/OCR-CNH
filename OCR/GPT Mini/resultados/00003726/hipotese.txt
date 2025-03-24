@@ -1,0 +1,21 @@
+Aqui está a organização dos dados encontrados na imagem no formato JSON:
+
+```json
+{
+    "nome": "HAMUD CEDISMONDI VELLUTINI",
+    "CPF": "054.994.805-83",
+    "filiação": "BARRETTO KANO ESDRAS, AIELO APPEZZETO SCA MARTINS",
+    "data_de_nascimento": "27/01/1986",
+    "primeira_habilitação": "01/12/1967",
+    "validade": "31/08/1957",
+    "documento_de_identidade": "040263587",
+    "orgão_emissor": "SNJ",
+    "UF": "MA",
+    "número_do_registro": "14432961865",
+    "ACC": "",
+    "permissão": "AB",
+    "número_válido": ""
+}
+```
+
+Caso tenha mais alguma solicitação ou dúvida, fique à vontade para perguntar!

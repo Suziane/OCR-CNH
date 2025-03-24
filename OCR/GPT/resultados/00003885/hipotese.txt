@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "CONTATO MADRID ACCIARI",
+  "CPF": "335.009.478-32",
+  "filiação": "SINNHOFER NOEREMBERG, PETRARCA CHRISTIANO PIRES",
+  "data de nascimento": "25/06/2017",
+  "primeira habilitação": "13/02/1978",
+  "validade": "20/05/1980",
+  "documento de identidade": "664665105",
+  "órgão emissor": "POF",
+  "UF": "MG",
+  "número do registro": "32924879647",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "",
+  "número válido": "016551788"
+}
+```

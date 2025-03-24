@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "CAPELLARO MADEIRA BICYK",
+  "cpf": "795.991.802-32",
+  "filiacao": "CHIBIM MITIYUE COQUE / TOJI NEVENKA FORATTIN ROCHA",
+  "data_nascimento": "25/12/1995",
+  "primeira_habilitacao": "17/01/1976",
+  "validade": "02/02/2009",
+  "documento_identidade": "721248123",
+  "orgao_emissor": "SESP",
+  "uf": "PB",
+  "numero_registro": "31822181521",
+  "acc": "",
+  "permissao": "",
+  "categoria": "D",
+  "numero_valido": "326636535"
+}
+```

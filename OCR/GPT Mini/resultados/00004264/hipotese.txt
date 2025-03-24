@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "BOSZCOWSKI HIBARI NORE",
+    "cpf": "134.394.869-07",
+    "filiação": "BRANCALION TRISTAN INSE MENDES; ASTONI GALLEGO MASUYOSHI TEIXEIRA",
+    "data_nascimento": "10/03/2013",
+    "primeira_habilitação": "25/12/1952",
+    "validade": "23/06/1986",
+    "documento_identidade": "117991065 POM SP",
+    "órgão_emissor": "",
+    "uf": "",
+    "número_registro": "234401036387",
+    "acc": "",
+    "permissão": "",
+    "categoria": "C",
+    "número_válido": ""
+}
+```

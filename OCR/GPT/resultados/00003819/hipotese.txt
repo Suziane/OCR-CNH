@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "CELIANE STRUCKEL GAMMARDELIA",
+  "CPF": "526.899.129-96",
+  "filiação": "HELITO ARMANI ARISTHEIA",
+  "data de nascimento": "07/03/1957",
+  "primeira habilitação": "14/11/1961",
+  "validade": "14/11/1995",
+  "documento de identidade": "594351984",
+  "órgão emissor": "SJS",
+  "UF": "BA",
+  "número do registro": "10158601509",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "D",
+  "número válido": "265277673"
+}
+```

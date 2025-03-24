@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "MELODOCA THEREZINHA LONGO",
+    "CPF": "528.130.350-33",
+    "filiação": "GIRSELY MIAGNA ASSAD JESUS, CABALLO MARQUESINI LINGI FARIAS",
+    "data_de_nascimento": "10/04/2007",
+    "primeira_habilitação": "22/03/2020",
+    "validade": "19/08/2002",
+    "documento_de_identidade": "6742183430",
+    "órgão_emissor": "SP",
+    "UF": "PR",
+    "número_do_registro": "17442644139",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "",
+    "número_válido": ""
+}
+```

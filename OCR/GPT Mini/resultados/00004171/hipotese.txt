@@ -1,0 +1,17 @@
+```json
+{
+  "nome": "BAIO VAN NÄJM",
+  "CPF": "821.535.558-76",
+  "filiação": "MIRAYA KOBIKAKI REDONDO MELO\nSCABORA LANGERHORST GR DA ROSA",
+  "data_de_nascimento": "22/05/2002",
+  "primeira_habilitação": "25/03/1997",
+  "validade": "15/03/1999",
+  "documento_de_identidade": "688805048",
+  "órgão_emissor": "SPTC MG",
+  "UF": "PE",
+  "número_do_registro": "09500614839",
+  "ACC": "",
+  "permissão": "E",
+  "categoria": ""
+}
+```

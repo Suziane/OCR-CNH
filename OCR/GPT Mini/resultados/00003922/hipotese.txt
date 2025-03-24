@@ -1,0 +1,22 @@
+Aqui está o reconhecimento dos campos solicitados organizados em um arquivo JSON:
+
+```json
+{
+  "nome": "TAKETOMI BRUNETTE MA",
+  "CPF": "073.583.489-34",
+  "filiação": "TSUCHIE NATASKA CRU MORAES, BOABACI LUANDA RUBIAN SOARES",
+  "data_nascimento": "14/10/1996",
+  "primeira_habilitação": "06/09/1955",
+  "validade": "17/03/1963",
+  "documento_identidade": "177124398",
+  "órgão_emissor": "SDS",
+  "UF": "PA",
+  "número_do_registro": "17284403259",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "",
+  "número_válido": "34897106"
+}
+```
+
+As chaves correspondem aos campos requisitados e os valores foram extraídos da imagem. Campos não encontrados foram deixados como strings vazias.

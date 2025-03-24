@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "JERONIMO MANAMI SCURACHIO",
+  "cpf": "220.818.780-62",
+  "filiacao": "CRIVELARO ADOLPHO TIETZE\nLASEVICIUS VENTINCINQUE R ARAUJO",
+  "data_nascimento": "13/02/2003",
+  "primeira_habilitacao": "26/05/195",
+  "validade": "01/03/1968",
+  "documento_identidade": "756192456 SES AM",
+  "orgao_emissor": "SES",
+  "uf": "AM",
+  "numero_registro": "84948172582",
+  "acc": "",
+  "permissao": "",
+  "categoria": "B",
+  "numero_valido": "118238160"
+}
+```

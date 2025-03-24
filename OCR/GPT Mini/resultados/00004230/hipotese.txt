@@ -1,0 +1,21 @@
+Aqui está o resultado do reconhecimento dos campos solicitados, organizado em um formato JSON:
+
+```json
+{
+  "nome": "GASPARELLO CRUZATTI SCHROTER",
+  "cpf": "276.944.871-43",
+  "filiação": "MODESTIA GUERTA BAIÃO MOREIRA\nGUARACHI LASSEN MADEL DIAS",
+  "data_de_nascimento": "13/12/1998",
+  "primeira_habilitação": "20/11/1988",
+  "validade": "18/01/1957",
+  "documento_de_identidade": "367035819",
+  "órgão_emissor": "SNJ",
+  "uf": "SP",
+  "número_do_registro": "46532258422",
+  "acc": "",
+  "permissão": "AB",
+  "categoria": ""
+}
+```
+
+Se precisar de mais alguma informação, é só avisar!

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "FREDERICE FACCHINI NILSSO",
+  "cpf": "188.043.007-01",
+  "filiacao": "TACIA KICHISE BROCK, NAHAS ANDRELLO BORA",
+  "data_de_nascimento": "22/11/1981",
+  "primeira_habilitacao": "30/11/2017",
+  "validade": "14/04/1957",
+  "documento_de_identidade": "170733634",
+  "orgao_emissor": "POM",
+  "uf": "MG",
+  "numero_do_registro": "03367667489",
+  "acc": "",
+  "permissao": "",
+  "categoria": "B",
+  "numero_valido": "349433693"
+}
+```

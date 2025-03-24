@@ -1,0 +1,22 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos:
+
+```json
+{
+    "nome": "PAGIME VENANZI CASERI",
+    "cpf": "631.368.226-25",
+    "filiação": "KOSHIMIZU PHILOT CARL RODRIGUES\nSTROEDER TIEMANN BRIG SOUZA",
+    "data_nascimento": "08/06/2012",
+    "primeira_habilitação": "26/11/1965",
+    "validade": "21/01/2007",
+    "documento_identidade": "0907988461",
+    "órgão_emissor": "POF",
+    "UF": "MG",
+    "número_do_registro": "63364655868",
+    "acc": "",
+    "permissão": "",
+    "categoria": "A",
+    "número_válido": "724856530"
+}
+```
+
+Os campos que não puderam ser reconhecidos foram deixados como strings vazias.

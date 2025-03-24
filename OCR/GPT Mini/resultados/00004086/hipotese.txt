@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "KOPTE KONO KOHAN",
+  "cpf": "022.801.521-93",
+  "filiacao": "ZALLA PENAZZO ANACLETO REZENDE DUMAS KOLLAR HARAMI MOURA",
+  "data_nascimento": "25/07/1983",
+  "primeira_habilitacao": "19/08/1963",
+  "validade": "22/11/2002",
+  "documento_identidade": "465831758",
+  "orgao_emissor": "SPTC",
+  "uf": "PI",
+  "numero_registro": "86709354885",
+  "acc": "",
+  "permissao": "",
+  "categoria": "C",
+  "numero_valido": "407985630"
+}
+```

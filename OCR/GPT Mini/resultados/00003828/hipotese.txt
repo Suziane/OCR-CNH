@@ -1,0 +1,21 @@
+Aqui está o resultado do reconhecimento dos campos em formato JSON:
+
+```json
+{
+  "nome": "MIFANO POSTAL CAMPINHO",
+  "cpf": "334.338.640-41",
+  "filiação": "ADAN PELICART ABENUR RODRIGUES",
+  "data_de_nascimento": "17/10/2017",
+  "primeira_habilitação": "23/08/2012",
+  "validade": "30/01/2019",
+  "documento_de_identidade": "460091688",
+  "órgão_emissor": "PJF",
+  "uf": "",
+  "número_do_registro": "931005959190",
+  "acc": "B",
+  "permissão": "",
+  "categoria": ""
+}
+```
+
+Caso algum campo não tenha sido encontrado, foi atribuído o valor de string vazia como solicitado.

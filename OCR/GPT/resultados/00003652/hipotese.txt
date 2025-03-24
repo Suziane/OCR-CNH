@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "CARMELOS YU NACAHACHE",
+  "CPF": "608.262.962-45",
+  "filiação": "ANAYA HARACHATI ALMODALEM, SABONARO SAKAGUTI OELS",
+  "data de nascimento": "23/03/1965",
+  "primeira habilitação": "19/06/1981",
+  "validade": "03/08/1994",
+  "documento de identidade": "7777890315",
+  "órgão emissor": "SES",
+  "UF": "PR",
+  "número do registro": "983670208",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número válido": "983670208"
+}
+```

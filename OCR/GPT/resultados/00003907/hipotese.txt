@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "PULIDO LOSE REI",
+  "CPF": "225.830.534-82",
+  "filiação": "ALLEGRO ROSELAINE TRAV\nFRANZON PIMONT ISHIZAWA",
+  "data de nascimento": "09/02/1982",
+  "primeira habilitação": "21/12/1999",
+  "validade": "03/07/2001",
+  "documento de identidade": "33325996",
+  "órgão emissor": "POM",
+  "UF": "MG",
+  "número do registro": "63757032402",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número válido": "166918202"
+}
+```

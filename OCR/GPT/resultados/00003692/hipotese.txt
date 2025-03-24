@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "EITAN RAGGHIANTE CA",
+  "CPF": "528.027.983-83",
+  "filiação": "CAMBRA TAYNARA T DRIELLY BENATTI M DA LUZ",
+  "data de nascimento": "22/11/1996",
+  "primeira habilitação": "13/05/1989",
+  "validade": "14/04/1967",
+  "documento de identidade": "758912250",
+  "órgão emissor": "SPTC",
+  "UF": "TO",
+  "número do registro": "45634031646",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "D",
+  "número válido": "439082550"
+}
+```

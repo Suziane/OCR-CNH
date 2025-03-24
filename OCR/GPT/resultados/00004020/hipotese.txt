@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "CARLETTI CABETTE TANNUS",
+    "CPF": "521.783.648-29",
+    "filiação": "INFORZATO ELER MARCELOS, COMOTE AVELLAR FUA",
+    "data de nascimento": "01/09/1996",
+    "primeira habilitação": "24/08/1980",
+    "validade": "03/07/1950",
+    "documento de identidade": "843441665",
+    "órgão emissor": "SNJ",
+    "UF": "PR",
+    "número do registro": "55413947830",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "D",
+    "número válido": "565536484"
+}
+```

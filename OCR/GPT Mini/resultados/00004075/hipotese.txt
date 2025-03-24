@@ -1,0 +1,22 @@
+Aqui está o resultado organizado em um arquivo JSON com os campos solicitados:
+
+```json
+{
+  "nome": "SEVILHA ODIR CAMPOLINA",
+  "CPF": "883.249.628-09",
+  "filiação": "CAJAZEIRA MALACR MENDES",
+  "data_de_nascimento": "02/01/1959",
+  "primeira_habilitação": "17/08/1964",
+  "validade": "31/01/1975",
+  "documento_de_identidade": "404243960",
+  "órgão_emissor": "DETRAN/PR",
+  "UF": "PR",
+  "número_do_registro": "205064276",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "",
+  "número_válido": ""
+}
+```
+
+Os campos foram preenchidos com os dados reconhecidos, e os campos em que não foram encontrados dados receberam valor vazio.

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "BLAUD ZINI MOIOLI",
+  "cpf": "131.334.317-06",
+  "filiacao": "METOLINA VALADAS SORAG\nVERGNIASSI STEFAN SILVA",
+  "data_nascimento": "08/07/1997",
+  "primeira_habilitacao": "09/10/1960",
+  "validade": "21/12/1999",
+  "documento_identidade": "045229600",
+  "orgao_emissor": "SPTC",
+  "uf": "RR",
+  "numero_registro": "47335258686",
+  "acc": "",
+  "permissao": "",
+  "categoria": "AB",
+  "numero_valido": "067055242"
+}
+```

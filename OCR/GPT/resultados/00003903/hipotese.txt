@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "HELMAN CHUERI TRILLO",
+  "CPF": "986.449.048-68",
+  "filiação": "FERRANTI MARCELO MAYKON / RENNA BICZYK SALERNO ROCHA",
+  "data_nascimento": "29/01/2010",
+  "pela_primeira_habilitação": "29/10/2009",
+  "validade": "20/12/2018",
+  "documento_identidade": "329587523",
+  "órgão_emissor": "SJS",
+  "UF": "MA",
+  "número_registro": "41831986297",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "F",
+  "número_válido": "839200539"
+}
+```

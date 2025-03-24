@@ -1,0 +1,21 @@
+Aqui está o reconhecimento dos campos solicitados a partir da imagem fornecida, organizados em um formato JSON:
+
+```json
+{
+    "nome": "DULGA GERMER LOUREÇO",
+    "cpf": "867.035.048-30",
+    "filiação": "UMETA YOKODA SHINITI, FRAN MURAMOTO LÊNCO DA COSTA",
+    "data_de_nascimento": "04/05/1954",
+    "primeira_habilitação": "17/08/1971",
+    "validade": "10/05/2015",
+    "documento_de_identidade": "243396058",
+    "órgão_emissor": "SEJ",
+    "uf": "PR",
+    "número_do_registro": "566700809967",
+    "acc": "",
+    "permissão": "D",
+    "número_válido": "388196338"
+}
+``` 
+
+Se precisar de mais assistência, estou à disposição!

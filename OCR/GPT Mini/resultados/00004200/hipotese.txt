@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "OZILAK OTACILIO MENEGARIO",
+  "CPF": "675.859.221-91",
+  "filiação": "MARINALVA PETELINCAR V RODRIGUES, SALVAIT JUBRAN JORDON ALVES",
+  "data_nascimento": "08/01/1972",
+  "primeira_habilitação": "27/05/1968",
+  "validade": "17/11/1974",
+  "documento_identidade": "806450125 POM MG",
+  "orgão_emissor": "POM",
+  "UF": "MG",
+  "número_registro": "37688077498",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número_válido": "699823834"
+}
+```

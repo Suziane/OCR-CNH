@@ -1,0 +1,22 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos:
+
+```json
+{
+  "nome": "BLESIO MINEHIRA JARROUG",
+  "cpf": "199.565.524-45",
+  "filiação": "PISTELLI JACOB ASSENSO; BAUSELLS KAVAMURA LUV MELO",
+  "data_nascimento": "28/11/1992",
+  "primeira_habilitação": "10/03/1983",
+  "validade": "19/07/1960",
+  "documento_identidade": "730860565",
+  "órgão_emissor": "SDS",
+  "uf": "PA",
+  "número_do_registro": "52274028200",
+  "acc": "",
+  "permissão": "",
+  "categoria": "C",
+  "número_válido": "656932308"
+}
+``` 
+
+Caso precise de mais informações ou ajustes, é só avisar!

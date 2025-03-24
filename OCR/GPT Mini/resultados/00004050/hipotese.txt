@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "TAMI CUKIER DUBOWISCHY",
+  "CPF": "174.005.873-90",
+  "filiação": "WEISS RHYS GLAUBER CARDOSO, CIOFF JOABE CANHADA FERNANDES",
+  "data_de_nascimento": "27/02/2015",
+  "primeira_habilitação": "17/01/2012",
+  "validade": "20/06/1974",
+  "documento_de_identidade": "755129258 SES SP",
+  "órgão_emissor": "SES",
+  "UF": "SP",
+  "número_do_registro": "433920777813",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "",
+  "número_válido": ""
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "LABRONICI AYAKA FREDDY",
+    "CPF": "920.600.713-10",
+    "filiação": "GOBEL EMRANI PANARIELL MENDES, DALMO SLOBODOTICOV JEF DA ROSA",
+    "data de nascimento": "07/08/1964",
+    "primeira habilitação": "",
+    "validade": "24/04/1954",
+    "documento de identidade": "852552841",
+    "órgão emissor": "SESP",
+    "UF": "PE",
+    "número do registro": "76795264893",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "E",
+    "número válido": "225512028"
+}
+```

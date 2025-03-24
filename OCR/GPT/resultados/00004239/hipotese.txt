@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "LUCINARI UKCUS TAKAHAGI",
+    "CPF": "917.050.798-81",
+    "filiação": "LUGLI AUD ARCANJO TUKIAMA TAKASHI SE",
+    "data de nascimento": "25/01/1960",
+    "primeira habilitação": "10/03/1973",
+    "validade": "16/09/1999",
+    "documento de identidade": "168465796",
+    "órgão emissor": "SJS",
+    "UF": "RS",
+    "número do registro": "69137960185",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "B",
+    "número válido": "307849219"
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "EDGARD MATTA BERTTI",
+  "CPF": "586.905.842-26",
+  "filiação": "FURLONI CASTILHO ABA BARBOSA ALLIP COLLADO MELATTO",
+  "data de nascimento": "26/10/1980",
+  "primeira habilitação": "02/01/2018",
+  "validade": "03/10/2012",
+  "documento de identidade": "621308602",
+  "órgão emissor": "POF",
+  "UF": "SC",
+  "número do registro": "59289090356",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número válido": "646981591"
+}
+```

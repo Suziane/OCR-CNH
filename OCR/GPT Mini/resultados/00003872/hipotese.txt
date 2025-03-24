@@ -1,0 +1,21 @@
+Aqui está o reconhecimento dos campos solicitados, organizados em um formato JSON:
+
+```json
+{
+    "nome": "NICCIOLI TUEFAILE KUW",
+    "CPF": "982.360.412-63",
+    "filiação": "LEYMI RAUBER CAPOZZ MORAES, KIYOHIRO SONNINI PICC VIEIRA",
+    "data_nascimento": "14/02/1971",
+    "primeira_habilitação": "02/03/2003",
+    "validade": "25/05/1952",
+    "documento_identidade": "273.067.990",
+    "órgão_emissor": "SSP",
+    "UF": "MG",
+    "número_registro": "69260771416",
+    "ACC": "",
+    "permissão": "AB",
+    "número_válido": ""
+}
+```
+
+Se precisar de mais alguma coisa, é só avisar!

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "PORTELLA NAKAZATO CHACAROLLI",
+  "CPF": "338.685.738-87",
+  "filiação": "SCARASSATTI FORCIONI MACRI",
+  "data_de_nascimento": "16/09/2014",
+  "primeira_habilitação": "03/05/1956",
+  "validade": "02/08/2004",
+  "documento_de_identidade": "178502856",
+  "órgão_emissor": "SJS",
+  "UF": "BA",
+  "número_do_registro": "05587632759",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "C",
+  "número_válido": "278036551"
+}
+```

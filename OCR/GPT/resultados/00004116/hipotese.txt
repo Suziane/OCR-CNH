@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "BELLINI BELLOMI CARPANESES",
+    "CPF": "850.971.881-44",
+    "filiação": "MARCHESI RIGUERA NEKRYCZ CAPELARI FALCIN RANVA SOUZA",
+    "data de nascimento": "20/06/1970",
+    "primeira habilitação": "17/05/1983",
+    "validade": "01/05/1965",
+    "documento de identidade": "251582197",
+    "órgão emissor": "SEJ",
+    "UF": "PR",
+    "número do registro": "3592854131",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "AB",
+    "número válido": "694114455"
+}
+```

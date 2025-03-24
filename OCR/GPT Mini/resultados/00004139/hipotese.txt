@@ -1,0 +1,21 @@
+Aqui está o JSON organizado com os dados reconhecidos:
+
+```json
+{
+  "nome": "RIBAS VAZ LEITE",
+  "cpf": "291.962.454-76",
+  "filiação": "OLADIO REJUEL VILEMAR\nBRISOLARI KARYNA T DUARTE",
+  "data_nascimento": "21/09/1958",
+  "primeira_habilitação": "21/12/1952",
+  "validade": "30/08/1957",
+  "documento_identidade": "328655090",
+  "orgão_emissor": "SEJ",
+  "uf": "AL",
+  "número_registro": "72542003479",
+  "accent": "B",
+  "permissão": "",
+  "categoria": ""
+}
+``` 
+
+Caso necessite de mais informações ou alterações, é só avisar!

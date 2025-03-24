@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "Gasparello Cruzetti Schroter",
+    "CPF": "276.944.871-43",
+    "filiação": "Modestia Guerta Baiao Moreira, Guarachi Lassen Madel Dias",
+    "data de nascimento": "19/01/1957",
+    "primeira habilitação": "13/12/1998",
+    "validade": "20/12/1998",
+    "documento de identidade": "367035819",
+    "órgão emissor": "SNJ",
+    "UF": "SP",
+    "número do registro": "6532253422",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "AB",
+    "número válido": "725872853"
+}
+```

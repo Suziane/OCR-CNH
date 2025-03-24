@@ -1,0 +1,22 @@
+Aqui está o reconhecimento dos campos com base na imagem fornecida, organizado em um formato JSON:
+
+```json
+{
+  "nome": "TORELLI SISTI BAYEUX",
+  "CPF": "487.150.079-95",
+  "filiação": "MASSULA WOHN COGLIATTI PINTO\nZONA RINDEIKA YOSHIYE LIMA",
+  "data_nascimento": "28/03/1986",
+  "primeira_habilitação": "25/09/1998",
+  "validade": "06/04/1965",
+  "documento_identidade": "391352739 SEJ PE",
+  "órgão_emissor": "SEJ",
+  "UF": "PE",
+  "número_registro": "38540530961",
+  "ACC": "",
+  "permissão": "PERMISSÃO",
+  "categoria": "E",
+  "número_válido": "875662350"
+}
+```
+
+Caso tenha alguma outra necessidade ou ajuste, é só avisar!

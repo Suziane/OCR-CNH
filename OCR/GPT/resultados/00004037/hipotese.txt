@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "LACORTE MAZANTI PADRON",
+  "CPF": "567.300.848-12",
+  "filiação": "BOU UYANARA YANAGUITA PINTO, LINDA FEO HANEDA MENDES",
+  "data_nascimento": "12/09/1969",
+  "primeira_habilitação": "03/01/1992",
+  "validade": "22/11/1960",
+  "documento_identidade": "908541995",
+  "órgão_emissor": "SNJ",
+  "UF": "MG",
+  "número_registro": "04332074605",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "",
+  "número_válido": "687152427"
+}
+```

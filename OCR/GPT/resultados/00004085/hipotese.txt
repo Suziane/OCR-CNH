@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "BELIZE ZMUDIO THEODOROVSKI",
+    "CPF": "398.114.734-04",
+    "filiação": "GARBELLINI FACCO P MARTINS MARCOSSI NYCHOLAS SC CAVALCANTI",
+    "data de nascimento": "25/06/1996",
+    "primeira habilitação": "25/10/1980",
+    "validade": "19/07/1985",
+    "documento de identidade": "107998899",
+    "órgão emissor": "SEJ",
+    "UF": "SP",
+    "número do registro": "2216967093",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "B",
+    "número válido": "532612291"
+}
+```

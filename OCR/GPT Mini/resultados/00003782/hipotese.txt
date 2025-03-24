@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "VITHENA PONTUAL ROSELY",
+    "CPF": "503.471.289-04",
+    "filiação": "CIOTTO NUBERTO GHIR LOPES\nANSELMO KIOMY JESSIE RODRIGUES",
+    "data_nascimento": "28/08/1987",
+    "primeira_habilitação": "03/01/1965",
+    "validade": "19/10/1998",
+    "documento_de_identidade": "649955948",
+    "órgão_emissor": "SNJ",
+    "UF": "BA",
+    "número_do_registro": "42242467482",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "E",
+    "número_válido": "3078622241"
+}
+```

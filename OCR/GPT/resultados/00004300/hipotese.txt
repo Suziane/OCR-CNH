@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "CLERICI VEAUVY PANUCCI",
+  "CPF": "518.350.664-70",
+  "filiação": "ANAUE FILIPPI PRADA DA ROCHA NOFS HEGUEDUSCH LENITA MONTIRCO",
+  "data de nascimento": "16/09/1976",
+  "primeira habilitação": "23/10/1958",
+  "validade": "05/02/1975",
+  "documento de identidade": "051779006",
+  "órgão emissor": "POF",
+  "UF": "SP",
+  "número do registro": "32C52093106",
+  "ACC": "",
+  "permissão": "PERMISSÃO",
+  "categoria": "D",
+  "número válido": "64170773"
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "SERRA TSAI SAUSMIKAT",
+  "CPF": "969.601.478-32",
+  "filiação": "SECKLER DANUSA THENILE PIRES, OERTES OTAVIO GIANESELLA FREITAS",
+  "data de nascimento": "21/03/1998",
+  "primeira habilitação": "16/09/1988",
+  "validade": "11/12/2019",
+  "documento de identidade": "114848212",
+  "órgão emissor": "SES",
+  "UF": "MG",
+  "número do registro": "18360892816",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "D",
+  "número válido": "015959819"
+}
+```

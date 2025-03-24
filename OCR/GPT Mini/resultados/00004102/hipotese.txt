@@ -1,0 +1,21 @@
+Aqui está o reconhecimento dos campos solicitados, organizados em formato JSON:
+
+```json
+{
+    "nome": "OSHIMA REVI REWIN",
+    "cpf": "571.100.038-17",
+    "filiação": "JENNIFER BUSNELLO SIGNO",
+    "data_nascimento": "06/08/2001",
+    "primeira_habilitação": "28/11/1992",
+    "validade": "24/03/2014",
+    "documento_identidade": "434335642",
+    "orgão_emissor": "SES",
+    "uf": "MG",
+    "numero_do_registro": "90688839414",
+    "acc": "",
+    "permissão": "E",
+    "categoria": ""
+}
+``` 
+
+Caso precise de mais alguma informação ou ajuste, é só avisar!

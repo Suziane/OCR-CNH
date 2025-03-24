@@ -1,0 +1,22 @@
+Aqui está o resultado em formato JSON, com base nas informações disponíveis na imagem:
+
+```json
+{
+    "nome": "TARGAS PARAVANI GIUGLIO",
+    "cpf": "027.096.797-75",
+    "filiação": "MATIKA CIROMAR ABATE; DOTTAVIO ARICTA B NCUVAES",
+    "data_de_nascimento": "10/10/1983",
+    "primeira_habilitação": "",
+    "validade": "09/11/1970",
+    "documento_de_identidade": "",
+    "órgão_emissor": "",
+    "UF": "",
+    "número_do_registro": "22538832734",
+    "data_de_biometria": "",
+    "ACC": "E",
+    "permissão": "",
+    "categoria": ""
+}
+```
+
+Observe que alguns campos estão vazios, pois as informações não estavam disponíveis na imagem fornecida.

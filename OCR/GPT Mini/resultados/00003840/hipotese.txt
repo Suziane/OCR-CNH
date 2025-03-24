@@ -1,0 +1,21 @@
+Aqui está o reconhecimento dos campos solicitados organizados em um formato JSON:
+
+```json
+{
+  "nome": "CARRADITA SHY PARRAS",
+  "CPF": "086.524.786-27",
+  "filiação": "GLESON NEGRETTI CAMPOS, AWADE PAGLIARUSSI CEL CAVALCANTI",
+  "data_nascimento": "05/12/2018",
+  "primeira_habilitação": "30/08/1972",
+  "validade": "29/02/1964",
+  "documento_identidade": "324953422",
+  "orgão_emissor": "SES",
+  "UF": "RS",
+  "número_do_registro": "81375594343",
+  "ACC": "",
+  "permissão": "AB",
+  "categoria": ""
+}
+```
+
+Caso algum campo não tenha sido encontrado, o valor correspondente foi atribuído como uma string vazia.

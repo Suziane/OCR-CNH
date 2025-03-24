@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "ESOTICO LEPINE BUCH",
+  "CPF": "495.650.247-85",
+  "filiação": "GUARIENTE BOCCATTO SNEI SALES RODRYGO MENEGASSI PASSARO ROCHA",
+  "data de nascimento": "08/01/1976",
+  "primeira habilitação": "06/04/1980",
+  "validade": "04/06/1951",
+  "documento de identidade": "707482550",
+  "órgão emissor": "SSP",
+  "UF": "PR",
+  "número do registro": "25399201948",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número válido": "955837671"
+}
+```

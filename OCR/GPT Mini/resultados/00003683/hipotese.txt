@@ -1,0 +1,17 @@
+```json
+{
+    "nome": "VALENCIANO LAIZAH CIOBTA",
+    "CPF": "384.426.215-44",
+    "filiação": "TATIANE SON JOSEF, MOHALEM MESTABI MIYA SANTOS",
+    "data_nascimento": "08/07/1976",
+    "primeira_habilitação": "10/02/2007",
+    "validade": "23/04/2012",
+    "documento_de_identidade": "102969695",
+    "órgão_emissor": "SJS",
+    "UF": "GO",
+    "número_do_registro": "85491350579",
+    "ACC": "",
+    "permissão": "AB",
+    "categoria": ""
+}
+```

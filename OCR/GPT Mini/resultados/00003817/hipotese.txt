@@ -1,0 +1,22 @@
+Aqui está o reconhecimento dos campos da imagem em formato JSON:
+
+```json
+{
+    "nome": "TARGAS PARAVANI GIUGLIO",
+    "cpf": "097.096.797-75",
+    "filiação": "MATIKA CIROMAR ABATE, DOTTAVIO ARICIA B NOVAES",
+    "data_nascimento": "10/10/1983",
+    "primeira_habilitação": "09/11/1970",
+    "validade": "10/10/1983",
+    "documento_identidade": "410582633",
+    "órgão_emissor": "POM",
+    "uf": "BA",
+    "número_do_registro": "22538832734",
+    "acc": "",
+    "permissão": "",
+    "categoria": "E",
+    "número_válido": "137575747"
+}
+``` 
+
+Caso precise de mais alguma coisa, é só avisar!

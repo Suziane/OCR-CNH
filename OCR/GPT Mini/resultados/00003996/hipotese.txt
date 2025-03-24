@@ -1,0 +1,17 @@
+```json
+{
+    "nome": "BERNANDES PERCILIO MALUSA",
+    "CPF": "410.865.792-67",
+    "filiação": "ELEIA SELLMANN CIRINEU DIAS\nPRESSI FELDBERG PENG NOGUEIRA",
+    "data de nascimento": "20/11/2015",
+    "primeira habilitação": "14/08/1970",
+    "validade": "17/01/1962",
+    "documento de identidade": "678303356",
+    "órgão emissor": "SESP",
+    "UF": "PR",
+    "número do registro": "824432028266",
+    "ACC": "",
+    "permissão": "D",
+    "categoria": ""
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "ZUCCHELLI URION GIACON",
+    "CPF": "349.177.906-54",
+    "filiação": "ODERBRECHT BENEDICT MARC CAVALCANTI\nFAYAD JUNQUE BENEZ MENDES",
+    "data de nascimento": "11/06/1989",
+    "primeira habilitação": "",
+    "validade": "30/07/1995",
+    "documento de identidade": "6684949264",
+    "órgão emissor": "SEJ",
+    "UF": "PI",
+    "número do registro": "888535604617",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "C",
+    "número válido": "439598372"
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "CHARLESTON UILIAN BIAGGIONI",
+  "CPF": "881.118.240-92",
+  "filiação": "CHELIN ATSUSHI IRWING MELO, ZAGO BOCALON SAVIAN, PEIXOTO",
+  "data de nascimento": "05/08/2017",
+  "primeira habilitação": "15/08/1988",
+  "validade": "08/07/2017",
+  "documento de identidade": "549636332",
+  "órgão emissor": "SJS",
+  "UF": "BA",
+  "número do registro": "58254512896",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "C",
+  "número válido": "948645514"
+}
+```

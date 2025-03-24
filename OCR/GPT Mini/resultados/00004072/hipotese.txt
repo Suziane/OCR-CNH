@@ -1,0 +1,23 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos a partir da sua descrição:
+
+```json
+{
+    "nome": "CHUERI CERAIS JONATHAN",
+    "CPF": "553.443.471-70",
+    "filiação": "MADELENA SALVIM MINOES",
+    "data de nascimento": "22/07/2008",
+    "primeira habilitação": "",
+    "validade": "16/03/2001",
+    "documento de identidade": "051244171 - SEJ MR",
+    "órgão emissor": "",
+    "UF": "",
+    "número do registro": "447.539.73",
+    "data de nascimento (filiação)": "19/08/1955",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "",
+    "número válido": ""
+}
+```
+
+Note que alguns campos estão vazios, pois não foram encontrados na imagem fornecida.

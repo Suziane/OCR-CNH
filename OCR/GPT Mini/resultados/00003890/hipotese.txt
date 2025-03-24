@@ -1,0 +1,22 @@
+Aqui está o resultado do reconhecimento de campos em formato JSON com os dados extraídos:
+
+```json
+{
+    "nome": "ELENO SOLAI SHINJI",
+    "cpf": "950.774.829-69",
+    "filiação": "BERTAN DOROTHOTO SH; BRETTAS LINGUANOTTO V",
+    "data_nascimento": "12/05/2012",
+    "primeira_habilitação": "14/03/1984",
+    "validade": "12/04/1998",
+    "documento_identidade": "461131225",
+    "órgão_emissor": "SEJ",
+    "UF": "MG",
+    "número_registro": "848420234940",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "C",
+    "número_válido": "823020589"
+}
+``` 
+
+Os campos que não puderam ser reconhecidos foram deixados como strings vazias.

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "ADALGISO RISO MINUCCI",
+  "CPF": "644.069.717-00",
+  "filiação": "SCHMIDT RAMACCIOTTI TENENB BARROS, VANDA ANOUCH ISQUERDO DA MATA",
+  "data de nascimento": "21/12/2006",
+  "primeira habilitação": "29/12/1959",
+  "validade": "05/07/1986",
+  "documento de identidade": "567722363",
+  "órgão emissor": "SDS",
+  "UF": "PB",
+  "número do registro": "14925230551",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "D",
+  "número válido": "523060292"
+}
+```

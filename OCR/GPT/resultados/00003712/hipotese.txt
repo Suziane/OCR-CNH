@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "OREFICE NASTASJA HAREBIKO",
+    "CPF": "840.530.662-55",
+    "filiação": "MONGUILMOTT JACOTE BRI, CORDOVA CRISTANTE VLAMIR NOGUEIRA",
+    "data_de_nascimento": "07/04/2017",
+    "primeira_habilitação": "25/05/1970",
+    "validade": "05/04/1957",
+    "documento_de_identidade": "802218076",
+    "órgão_emissor": "PCM",
+    "UF": "RS",
+    "número_do_registro": "5043988622",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "C",
+    "número_válido": "761311236"
+}
+```

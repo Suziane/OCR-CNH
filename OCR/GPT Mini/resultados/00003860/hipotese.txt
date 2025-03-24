@@ -1,0 +1,22 @@
+Aqui está o reconhecimento dos campos solicitados a partir da imagem fornecida, organizado em formato JSON:
+
+```json
+{
+    "nome": "URRUTIA HAMER OSIMA",
+    "cpf": "248.678.869-71",
+    "filiação": "RA MARCHESAN PONCIO, SINDY MEORIN MEZZANO",
+    "data_nascimento": "10/09/1994",
+    "primeira_habilitação": "14/12/1951",
+    "validade": "12/09/2005",
+    "documento_identidade": "6811746080",
+    "órgão_emissor": "POF",
+    "uf": "CE",
+    "número_registro": "96205923738",
+    "acc": "",
+    "permissão": "",
+    "categoria": "C",
+    "número_válido": "874875871"
+}
+```
+
+Caso haja mais alguma informação ou ajuste necessário, estou à disposição!

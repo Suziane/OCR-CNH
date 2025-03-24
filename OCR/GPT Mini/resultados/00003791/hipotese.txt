@@ -1,0 +1,19 @@
+```json
+{
+    "nome": "POLICANO CUELI MAK",
+    "CPF": "564.284.501-27",
+    "filiação": "VASQUEZ AVELINO CARELLY",
+    "data_de_nascimento": "08/07/1962",
+    "primeira_habilitação": "04/06/1994",
+    "validade": "15/10/1984",
+    "documento_de_identidade": "750811997",
+    "órgão_emissor": "",
+    "UF": "",
+    "número_do_registro": "98663347748",
+    "data_de_nascimento_repetida": "08/07/1962",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "D",
+    "número_válido": ""
+}
+```

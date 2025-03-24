@@ -1,0 +1,21 @@
+```json
+{
+  "nome": "GRACIANGELA ADALTO FAARA",
+  "CPF": "753.634.575-55",
+  "filiação": [
+    "STAIBANO ANZUATEG",
+    "TAROUCO BETTINA ZISKIND MENDES"
+  ],
+  "data de nascimento": "30/11/1983",
+  "primeira habilitação": "17/11/2002",
+  "validade": "11/07/2017",
+  "documento de identidade": "787035427",
+  "órgão emissor": "SSP",
+  "UF": "SC",
+  "número do registro": "70148018048",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "D",
+  "número válido": "788351269"
+}
+```

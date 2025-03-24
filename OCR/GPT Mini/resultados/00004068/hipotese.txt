@@ -1,0 +1,21 @@
+Aqui está o resultado do reconhecimento dos campos com base na imagem fornecida, organizado em um arquivo JSON:
+
+```json
+{
+    "nome": "PAGIMES VENANZI CASERI",
+    "CPF": "631.368.226-25",
+    "filiação": "KOSHIMIZU PHILOT CARL RODRIGUES\nSTROEDER TIEMANN BRIG SOUZA",
+    "data_nascimento": "08/06/2012",
+    "primeira_habilitação": "26/11/1965",
+    "validade": "21/01/2007",
+    "documento_identidade": "090784461",
+    "órgão_emissor": "POF",
+    "UF": "MG",
+    "número_registro": "63364655868",
+    "ACC": "",
+    "permissão": "A",
+    "categoria": ""
+}
+```
+
+Se houver mais alguma coisa que você precise, estou à disposição!

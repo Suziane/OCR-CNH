@@ -1,0 +1,17 @@
+```json
+{
+  "nome": "ARAGUTE RADESCHI ESTIMO",
+  "CPF": "828.923.967-00",
+  "filiação": "VANYA APOLINARIO BERZIN MARTINS BICZYK HARUAKI HARADA DUARTE",
+  "data_de_nascimento": "10/12/1995",
+  "primeira_habilitação": "21/11/1993",
+  "validade": "10/05/1986",
+  "documento_de_identidade": "584342366",
+  "orgão_emissor": "SJS GO",
+  "UF": "PE",
+  "número_do_registro": "777306162",
+  "ACC": "",
+  "permissão": "",
+  "categoria": ""
+}
+```

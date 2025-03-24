@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "CEVIDANES ISSAKA YUCO",
+  "CPF": "163.602.502-17",
+  "filiação": "LOGAR MITTSUHIGU RIBEIRO, MARILDA ZAMARCO PEREDO BARROS",
+  "data de nascimento": "02/02/1980",
+  "primeira habilitação": "10/05/1963",
+  "validade": "16/09/1999",
+  "documento de identidade": "559903339",
+  "órgão emissor": "SES",
+  "UF": "PR",
+  "número do registro": "64933397874",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número válido": "09728688"
+}
+```

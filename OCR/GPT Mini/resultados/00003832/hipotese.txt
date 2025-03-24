@@ -1,0 +1,22 @@
+Aqui está o resultado em formato JSON, com base nos dados reconhecidos da imagem:
+
+```json
+{
+    "nome": "TALITHA CONTE PIERRE",
+    "cpf": "562.911.886-27",
+    "filiação": "GARISTO SASAOKA MARIANO\nANAUATI JUREMEIRA SOUZA",
+    "data_de_nascimento": "27/03/2006",
+    "primeira_habilitação": "21/11/2011",
+    "validade": "03/04/1964",
+    "documento_de_identidade": "094504126",
+    "órgão_emissor": "SDB",
+    "uf": "GO",
+    "número_do_registro": "04801379558",
+    "acc": "",
+    "permissão": "",
+    "categoria": "A",
+    "número_válido": ""
+}
+``` 
+
+Caso haja alguma necessidade de ajuste ou adição, sinta-se à vontade para informar!

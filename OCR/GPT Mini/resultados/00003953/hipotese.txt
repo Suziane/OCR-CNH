@@ -1,0 +1,23 @@
+Aqui está a organização dos dados reconhecidos no formato JSON:
+
+```json
+{
+  "nome": "LINDENMEYER HEUSER GISELI",
+  "CPF": "280.737.824-21",
+  "filiacao": "WIEGNER IRAIL PRICLADNITZKI DUARTE\nSKAJK0 SCHIFFERLI ARR NOGUEIRA",
+  "data_nascimento": "27/09/1957",
+  "primeira_habilitacao": "15/10/1935",
+  "validade": "02/02/2016",
+  "documento_identidade": "477975203 POF ES",
+  "orgao_emissor": "",
+  "UF": "",
+  "numero_registro": "19351053857",
+  "data_nascimento_rep": "27/09/1957",
+  "ACC": "",
+  "permissao": "",
+  "categoria": "",
+  "numero_valido": "579196202"
+}
+```
+
+Os campos que não puderam ser encontrados foram deixados como strings vazias.

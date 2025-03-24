@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "OTSUICHI PREGNOLATO",
+  "CPF": "506.350.030-74",
+  "filiação": "BARUFF VALMI SEVAH FREITAS, GIAVAROTTI BORRO TEMP ALVES",
+  "data de nascimento": "19/02/2007",
+  "primeira habilitação": "25/08/1982",
+  "validade": "24/08/1967",
+  "documento de identidade": "407347296",
+  "órgão emissor": "SPTC",
+  "UF": "SP",
+  "número do registro": "2734511180",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número válido": "626206764"
+}
+```

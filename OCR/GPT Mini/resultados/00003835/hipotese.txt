@@ -1,0 +1,21 @@
+Aqui está a estrutura JSON com os dados reconhecidos a partir da imagem:
+
+```json
+{
+  "nome": "MAINE QUAIO TAYLA",
+  "cpf": "188.769.264-96",
+  "filiação": "FRANCISCONI CARISA MARTINS, RIALMA TARSILIO GRIESI",
+  "data_nascimento": "25/03/1987",
+  "primeira_habilitação": "16/08/1971",
+  "validade": "31/01/2002",
+  "documento_identidade": "747479227",
+  "orgão_emissor": "SES",
+  "uf": "CE",
+  "número_registro": "51536229936",
+  "acc": "",
+  "permissão": "A",
+  "categoria": ""
+}
+```
+
+Caso precise de mais assistências ou alterações, é só avisar!

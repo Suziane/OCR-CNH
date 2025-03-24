@@ -1,0 +1,21 @@
+Aqui está o resultado em formato JSON, com os dados extraídos e organizados:
+
+```json
+{
+    "nome": "BERTOLAMI ANDRELEVICIUS",
+    "CPF": "210.834.914-66",
+    "filiação": "HEMERLY FABOZZI FERRAN SILVA",
+    "data_nascimento": "01/02/2001",
+    "primeira_habilitação": "21/06/1997",
+    "validade": "20/10/2014",
+    "documento_identidade": "625250185 SESP SC",
+    "órgão_emissor": "",
+    "UF": "",
+    "número_do_registro": "95765411627",
+    "ACC": "B",
+    "permissão": "",
+    "categoria": ""
+}
+``` 
+
+Note que alguns campos foram deixados vazios conforme solicitado, pois não estavam presentes na imagem.

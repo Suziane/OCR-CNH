@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "AARON DELANO REHEN",
+  "cpf": "570.317.823-17",
+  "filiação": "DELORENZO THEODOR ANSA\nSONODA MAZI AMADEO RAMOS",
+  "data_nascimento": "31/10/1967",
+  "primeira_habilitação": "20/06/2009",
+  "validade": "20/06/2009",
+  "documento_identidade": "174035810",
+  "órgão_emissor": "SPTC",
+  "uf": "FA",
+  "número_do_registro": "61203017168",
+  "acc": "",
+  "permissão": "E",
+  "categoria": "E",
+  "número_válido": "661172807"
+}
+```

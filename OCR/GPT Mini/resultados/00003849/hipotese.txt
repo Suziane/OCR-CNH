@@ -1,0 +1,17 @@
+```json
+{
+    "nome": "SDORE ENIR MONIWA",
+    "cpf": "665.235.000-98",
+    "filiação": "AVILEZ A GILBERT",
+    "data_nascimento": "25/06/1996",
+    "primeira_habilitação": "09/02/1957",
+    "validade": "04/12/1952",
+    "documento_identidade": "964904470",
+    "orgão_emissor": "POM",
+    "uf": "SC",
+    "número_registro": "23436131131",
+    "acc": "B",
+    "permissão": "",
+    "categoria": ""
+}
+```

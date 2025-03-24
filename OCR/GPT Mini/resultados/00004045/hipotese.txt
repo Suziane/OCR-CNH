@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "TERRUEL EVALDO DEMIATE",
+    "cpf": "237.297.287-17",
+    "filiacao": "FAZZANI CLEBERSON CASCONATO, MICHELINI MANTOVANINI BARROS",
+    "data_nascimento": "30/08/1968",
+    "primeira_habilitacao": "08/03/2008",
+    "validade": "22/05/1974",
+    "documento_identidade": "139752882",
+    "orgao_emissor": "POM",
+    "uf": "FR",
+    "numero_registro": "49413770903",
+    "acc": "",
+    "permissao": "",
+    "categoria": "E",
+    "numero_valido": "661613454"
+}
+```

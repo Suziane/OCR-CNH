@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "REGINTHA GONCORA SIGNORI",
+  "CPF": "523.952.428-67",
+  "filiação": "GALILEIO BECCO BONIN RIBEIRO, CANEZIM TAKEUCHI POCTI",
+  "data_nascimento": "11/02/2002",
+  "primeira_habilitação": "04/10/1969",
+  "validade": "06/05/2019",
+  "documento_identidade": "723980726",
+  "órgão_emissor": "SEJ",
+  "UF": "MG",
+  "número_registro": "41158685093",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "C",
+  "número_válido": "469595461"
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "DELLISA LEVI PUGGIN",
+  "cpf": "450.462.758-21",
+  "filiacao": "MUNE FERMI ANUNC, CAVALLAR KIRSCHBA SILVEIRA",
+  "data_nascimento": "22/01/1957",
+  "primeira_habilitacao": "28/04/1951",
+  "validade": "24/05/1985",
+  "documento_identidade": "445700993",
+  "orgao_emissor": "SPTC",
+  "uf": "MG",
+  "numero_registro": "11632011855",
+  "acc": "",
+  "permissao": "",
+  "categoria": "C",
+  "numero_valido": "112312368"
+}
+```

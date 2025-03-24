@@ -1,0 +1,19 @@
+Aqui está o resultado em formato JSON, conforme solicitado:
+
+```json
+{
+    "nome": "OYAMADA RETT AMIRE",
+    "CPF": "259.623.493-93",
+    "filiação": "PERPETUA LAURENT CARROZZA LAET WANLI LAPINHA",
+    "data_nascimento": "22/03/1992",
+    "primeira_habilitação": "16/09/1954",
+    "validade": "19/07/2013",
+    "documento_identidade": "603227260",
+    "orgão_emissor": "SSP",
+    "UF": "SP",
+    "número_registro": "06419908313",
+    "ACC": "",
+    "permissão": "D",
+    "categoria": ""
+}
+```

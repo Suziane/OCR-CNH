@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "ZOGHBI HERCHEUI KAISER",
+    "CPF": "389.350.804-03",
+    "filiação": "VIVANCO BOSSO FLORIO, MARTURANO CARACA A CASTRO",
+    "data_nascimento": "22/06/2005",
+    "primeira_habilitação": "04/01/1982",
+    "validade": "31/01/1966",
+    "documento_identidade": "700479793",
+    "órgão_emissor": "SDS",
+    "UF": "MA",
+    "número_registro": "35802037582",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "A",
+    "número_válido": "596259441"
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "GUERLENDA PAZIANI TAROUCO",
+  "CPF": "437.906.151-53",
+  "filiação": "PALOMO DJALMA PRENDALIA, SHIGAKI MIYATAKE SOUZA",
+  "data_nascimento": "04/04/1979",
+  "primeira_habilitação": "16/08/1972",
+  "validade": "02/11/1989",
+  "documento_identidade": "776846693",
+  "órgão_emissor": "SES",
+  "UF": "SC",
+  "número_registro": "06876561750",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número_válido": "777076658"
+}
+```

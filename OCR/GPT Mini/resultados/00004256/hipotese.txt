@@ -1,0 +1,21 @@
+Aqui está o JSON com os dados reconhecidos a partir da imagem fornecida:
+
+```json
+{
+  "nome": "MOTOIKE DIDIO ROCCA",
+  "CPF": "466.667.389-00",
+  "filiação": "CARNEZI KAWASHIMA BOLELI PETKOTO\nETHER POPADJUK SASA SALES",
+  "data_de_nascimento": "05/10/1981",
+  "primeira_habilitação": "14/01/1992",
+  "validade": "10/09/1984",
+  "documento_de_identidade": "225511447",
+  "órgão_emissor": "SEJ",
+  "UF": "PA",
+  "número_do_registro": "41368711487",
+  "ACC": "",
+  "permissão": "B",
+  "categoria": ""
+}
+```
+
+Note que alguns campos não foram encontrados e foram deixados como strings vazias. Se precisar de mais alguma coisa, é só avisar!

@@ -1,0 +1,23 @@
+Aqui está o resultado do reconhecimento dos campos em formato JSON:
+
+```json
+{
+    "nome": "LUCIANI UCKUS TAKAHAGI",
+    "CPF": "917.050.798-81",
+    "filiação": "LUGLI AUD ARCÂNJO",
+    "data_nascimento": "25/01/1960",
+    "primeira_habilitação": "",
+    "validade": "16/09/1999",
+    "documento_identidade": "1684685796",
+    "órgão_emissor": "SJS",
+    "UF": "RS",
+    "número_registro": "691379610185",
+    "data_nascimento_2": "25/01/1960",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "B",
+    "número_válido": ""
+}
+```
+
+Alguns campos não foram encontrados e foram atribuídos como strings vazias conforme solicitado.

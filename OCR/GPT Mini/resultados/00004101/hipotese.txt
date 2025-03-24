@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "ZAMUNER PENKO CUCIO",
+    "CPF": "725.893.946-67",
+    "filiação": "MENEGUELE LEONARA CA MORAES, TADEO BARABANOV ASSEI GOMES",
+    "data_nascimento": "20/10/1982",
+    "primeira_habilitação": "02/01/2007",
+    "validade": "16/08/2011",
+    "documento_identidade": "339726763",
+    "órgão_emissor": "SPTC",
+    "UF": "MT",
+    "número_do_registro": "63485490324",
+    "ACC": "B",
+    "permissão": "",
+    "categoria": "",
+    "número_válido": "884249691"
+}
+```

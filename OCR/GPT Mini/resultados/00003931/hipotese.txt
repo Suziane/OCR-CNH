@@ -1,0 +1,21 @@
+Aqui está o resultado do reconhecimento dos campos solicitados formatado em um arquivo JSON:
+
+```json
+{
+  "nome": "CARNELOS YU NAGAHACHI",
+  "CPF": "602.262.962-45",
+  "filiação": "ANAYA BARACHTI ALMOUALSEM, SABONARO SAKAGUTI CELS",
+  "data_de_nascimento": "23/03/1953",
+  "primeira_habilitação": "19/06/1985",
+  "validade": "03/08/1994",
+  "documento_de_identidade": "418951111",
+  "orgão_emissor": "SE",
+  "UF": "PR",
+  "número_do_registro": "777278260156",
+  "ACC": "",
+  "permissão": "B",
+  "número_válido": "98367 0208"
+}
+``` 
+
+Se precisar de mais alguma coisa, estou à disposição!

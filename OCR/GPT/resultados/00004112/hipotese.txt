@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "EVESDIANE PIRUZELI MAJOARI",
+  "CPF": "219.347.335-80",
+  "filiação": "JANSEN WERTH TOMIKO, IVASINA SAVASSA XUNRAS",
+  "data de nascimento": "05/06/1968",
+  "primeira habilitação": "01/10/1972",
+  "validade": "29/12/1996",
+  "documento de identidade": "306817184",
+  "órgão emissor": "SSP",
+  "UF": "MT",
+  "número do registro": "045898947-X",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número válido": "024921739"
+}
+```

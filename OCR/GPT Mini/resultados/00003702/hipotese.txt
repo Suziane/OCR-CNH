@@ -1,0 +1,22 @@
+Aqui está o reconhecimento dos campos solicitados, organizados em um arquivo JSON:
+
+```json
+{
+    "nome": "INNARELLI MYAMOTO LUCCESI",
+    "cpf": "355.732.648-16",
+    "filiacao": "DAGUT PAIS CORSET RODRIGUES, TERN SCHIMIT TO DA MOTA",
+    "data_nascimento": "03/11/1997",
+    "primeira_habilitacao": "08/09/2009",
+    "validade": "06/12/2014",
+    "documento_identidade": "847170668 SDS RJ",
+    "orgao_emissor": "SDS",
+    "uf": "RJ",
+    "numero_registro": "61401444666",
+    "acc": "",
+    "permissao": "A",
+    "categoria": "",
+    "numero_valido": "183376953"
+}
+```
+
+Se precisar de mais alguma informação, estou à disposição!

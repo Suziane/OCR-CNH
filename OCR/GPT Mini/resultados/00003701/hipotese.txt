@@ -1,0 +1,21 @@
+Aqui está o resultado formatado em JSON:
+
+```json
+{
+    "nome": "ROCHMAN TASSINARI BLAIN",
+    "CPF": "425.649.903-20",
+    "filiacao": "PASSERINI BARRAGAN CAPOVI, BONANCA ZAMARO NORONHA MENDES",
+    "data_nascimento": "13/07/1990",
+    "primeira_habilitacao": "13/06/1958",
+    "validade": "09/06/1964",
+    "documento_identidade": "044779410",
+    "orgao_emissor": "SESP",
+    "UF": "PA",
+    "numero_registro": "86922147351",
+    "ACC": "A",
+    "permissao": "",
+    "categoria": ""
+}
+```
+
+Caso precise de mais informações ou ajustes, fique à vontade para perguntar!

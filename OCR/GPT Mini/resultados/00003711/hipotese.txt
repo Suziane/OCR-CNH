@@ -1,0 +1,21 @@
+Aqui está o resultado em formato JSON com os dados reconhecidos:
+
+```json
+{
+    "nome": "DESJARDINS MAKOTO BOIANOSQ",
+    "cpf": "403.405.965-62",
+    "filiação": "GASPARÉ BONETTE WENDER; GIRSELEY KURAOKA CHAD GOMES",
+    "data_nascimento": "19/06/2006",
+    "primeira_habilitação": "27/05/1963",
+    "validade": "17/09/1958",
+    "documento_identidade": "308523374",
+    "orgão_emissor": "POM",
+    "uf": "MG",
+    "número_registro": "80660995554",
+    "acc": "",
+    "permissão": "B",
+    "categoria": ""
+}
+```
+
+Se precisar de mais alguma coisa, fique à vontade para perguntar!

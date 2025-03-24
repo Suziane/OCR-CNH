@@ -1,0 +1,17 @@
+```json
+{
+    "nome": "BONANI MUNERATTI TURCI",
+    "CPF": "263.347.234-90",
+    "filiação": "FUKARA BAPTISTINI MONA; VAZQUEZ ENI DONADON CAMPOS",
+    "data_de_nascimento": "22/11/1950",
+    "primeira_habilitação": "23/01/1960",
+    "validade": "26/08/1954",
+    "documento_de_identidade": "062736802",
+    "órgão_emissor": "SES",
+    "UF": "TO",
+    "número_do_registro": "677559938052",
+    "ACC": "",
+    "permissão": "AB",
+    "categoria": ""
+}
+```

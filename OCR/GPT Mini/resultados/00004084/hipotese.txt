@@ -1,0 +1,22 @@
+Aqui está o resultado em formato JSON, com os campos reconhecidos do documento:
+
+```json
+{
+  "nome": "WESTERMANN RABELO YATUHARA",
+  "CPF": "270.255.671-08",
+  "filiação": "PIANEZ CHRISTY TAKAAKI RUIVO MERCHED BUZZO MENDES",
+  "data_de_nascimento": "12/08/1964",
+  "primeira_habilitação": "22/06/1970",
+  "validade": "21/07/1971",
+  "documento_de_identidade": "192855603",
+  "órgão_emissor": "MG",
+  "UF": "SJS",
+  "número_do_registro": "41254113777",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "",
+  "número_válido": ""
+}
+```
+
+Se precisar de mais alguma coisa, é só avisar!

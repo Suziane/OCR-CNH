@@ -1,0 +1,21 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos a partir da imagem fornecida:
+
+```json
+{
+  "nome": "DANTON SANT'ANA SANVIDO",
+  "cpf": "434.429.372-05",
+  "filiacao": "KENNDY TAUBKIN SEBA\nBRIESE TURIBIO VOLTAI",
+  "data_nascimento": "31/07/1959",
+  "primeira_habilitacao": "30/04/1983",
+  "validade": "16/10/1962",
+  "documento_identidade": "8177.63314",
+  "orgao_emissor": "SES",
+  "uf": "RO",
+  "numero_registro": "68065532232",
+  "acc": "",
+  "permissao": "AB",
+  "categoria": ""
+}
+```
+
+Os campos que não foram encontrados foram deixados como strings vazias, conforme solicitado.

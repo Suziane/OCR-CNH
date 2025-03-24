@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "RENATTI IAGO MUGNELLA",
+  "CPF": "781.657.906-70",
+  "filiação": "CAZONATO EHERTI BAEDER MONTEIRO, VALLERINI MARCELL GRE RIBEIRO",
+  "data_nascimento": "29/02/1952",
+  "primeira_habilitação": "05/07/1989",
+  "validade": "07/08/2021",
+  "documento_identidade": "059379116",
+  "órgão_emissor": "POF",
+  "UF": "RS",
+  "número_do_registro": "741675761",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número_válido": "521182920"
+}
+```

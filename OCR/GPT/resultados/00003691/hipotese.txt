@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "BUGELLI HELVANY ZARDO",
+  "CPF": "440.936.104-01",
+  "filiação": "COCCHI LORNA GEISON ONEMAR LYRA BASSETTE ALMEIDA",
+  "data de nascimento": "06/06/1956",
+  "primeira habilitação": "13/02/1998",
+  "validade": "29/04/1961",
+  "documento de identidade": "215757366",
+  "órgão emissor": "SNJ",
+  "UF": "MG",
+  "número do registro": "26257445607",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número válido": "616940101"
+}
+```

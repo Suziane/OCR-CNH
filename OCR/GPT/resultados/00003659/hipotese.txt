@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "BEORDO FUZINATO LEMIKA",
+  "cpf": "200.914.419-86",
+  "filiação": "FINOTTI DELLIISA ESTEPH\nTORTORO LAURICELLA HIDEKA CAVALCANTI",
+  "data_de_nascimento": "25/10/1998",
+  "primeira_habilitação": "16/02/2009",
+  "validade": "13/08/1969",
+  "documento_de_identidade": "182357523",
+  "órgão_emissor": "SESP",
+  "UF": "PR",
+  "número_do_registro": "62102209162",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "C",
+  "número_válido": "656103720"
+}
+```

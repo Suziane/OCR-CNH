@@ -1,0 +1,22 @@
+Aqui está o resultado do reconhecimento dos campos solicitados, organizado em formato JSON:
+
+```json
+{
+  "nome": "SHANNAINA ARRIGHI ZUQUIM",
+  "CPF": "546.677.783-85",
+  "filiação": "FRANCERGIOS MARASRIM DA COSTA CAVELLANT RINCON BARIZON VIEIRA",
+  "data_de_nascimento": "31/07/1994",
+  "primeira_habilitação": "16/02/1955",
+  "validade": "04/04/2000",
+  "documento_de_identidade": "206035037",
+  "órgão_emissor": "SJS",
+  "UF": "MG",
+  "número_do_registro": "25666709414",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "",
+  "número_válido": ""
+}
+```
+
+Se precisar de mais alguma coisa, é só avisar!

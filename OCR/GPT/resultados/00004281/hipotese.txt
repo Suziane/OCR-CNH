@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "VERAS LIZIA DARIANA",
+  "cpf": "785.426.950-54",
+  "filiação": "CAUMO ZACCHI EDIL RAMOS\nSPINARDI LORDELLO BARUFFA FERREIRA",
+  "data de nascimento": "09/09/1999",
+  "primeira habilitação": "11/11/1957",
+  "validade": "19/04/1982",
+  "documento de identidade": "349287399",
+  "órgão emissor": "SESP",
+  "UF": "SC",
+  "número do registro": "91534781754",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AE",
+  "número válido": "61787440"
+}
+```

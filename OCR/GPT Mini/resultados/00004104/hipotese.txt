@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "RAUAN CHIARAMELLI PIEROZZI",
+    "CPF": "410.449.173-00",
+    "filiação": "RALISCH TAH CESE, NIVEA LINN HERMAN RODRIGUES",
+    "data_nascimento": "07/10/1985",
+    "primeira_habilitação": "30/05/1984",
+    "validade": "18/06/1961",
+    "documento_identidade": "3784625232 SNJ PB",
+    "órgão_emissor": "",
+    "UF": "",
+    "número_do_registro": "99210677503",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "D",
+    "número_válido": "555884215"
+}
+```

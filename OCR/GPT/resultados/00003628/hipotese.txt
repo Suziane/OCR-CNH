@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "MAJORE MOI KAGAOCHI",
+  "cpf": "288.454.728-25",
+  "filiacao": "EISENHARDT GOUVEIA KAVALCO MORAES FIORDELISIO CHIAVARETO J",
+  "data_de_nascimento": "24/08/1971",
+  "primeira_habilitacao": "31/07/1998",
+  "validade": "13/10/1962",
+  "documento_de_identidade": "292788976",
+  "orgao_emissor": "POF",
+  "uf": "RN",
+  "numero_do_registro": "69115506194",
+  "acc": "",
+  "permissao": "",
+  "categoria": "AB",
+  "numero_valido": "903571640"
+}
+```

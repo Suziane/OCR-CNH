@@ -1,0 +1,22 @@
+Aqui está o resultado formatado em JSON:
+
+```json
+{
+  "nome": "KOKUMAI PEDRAZOLLI KNORR",
+  "cpf": "92.266.956-44",
+  "filiação": "LISSIENE LAVIGNATTI VIALIV CONSOLIN BIANCHESSI G MOURA",
+  "data_nascimento": "24/01/1995",
+  "primeira_habilitação": "29/04/1976",
+  "validade": "10/01/2012",
+  "documento_identidade": "",
+  "orgão_emissor": "SJS",
+  "uf": "PE",
+  "número_registro": "45270057923",
+  "acc": "",
+  "permissão": "",
+  "categoria": "A",
+  "número_válido": ""
+}
+```
+
+Se precisar de mais alguma coisa, é só avisar!

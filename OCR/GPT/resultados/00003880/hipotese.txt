@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "SADNSUNE KATIPIAM CASCATO",
+  "CPF": "433.343.079-89",
+  "filiação": "ARIS MORSIEL NORGEN RODRIGUES / NELEI FUK MASSILIATI DA COSTA",
+  "data_de_nascimento": "25/01/2001",
+  "primeira_habilitação": "",
+  "validade": "03/08/2053",
+  "documento_de_identidade": "651209596",
+  "órgão_emissor": "POF",
+  "UF": "SC",
+  "número_do_registro": "6543357601",
+  "ACC": "",
+  "permissão": "22/07/959",
+  "categoria": "X",
+  "número_válido": "953795832"
+}
+```

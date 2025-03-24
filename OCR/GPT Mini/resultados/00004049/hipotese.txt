@@ -1,0 +1,21 @@
+Aqui está o resultado do reconhecimento dos campos solicitados, organizado em um arquivo JSON:
+
+```json
+{
+  "nome": "MOTOIKE DIDIO ROCCA",
+  "CPF": "466.667.389-00",
+  "filiação": "CARENNZI KAWASHIMA BOLELI PEIXOTO, ETHER POPADIUK SASA SALES",
+  "data_nascimento": "05/10/1981",
+  "primeira_habilitação": "10/03/1984",
+  "validade": "14/01/1992",
+  "documento_identidade": "225311447",
+  "órgão_emissor": "SEJ",
+  "UF": "PA",
+  "número_do_registro": "41368711487",
+  "ACC": "",
+  "permissão": "B",
+  "categoria": ""
+}
+``` 
+
+Se precisar de mais alguma coisa, é só avisar!

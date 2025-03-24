@@ -1,0 +1,22 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos da imagem:
+
+```json
+{
+  "nome": "ALDER TREPICHE KLINCEVICIUS",
+  "CPF": "253.268.431-37",
+  "filiação": "KEIZO ESSI LIZAS, CERVELINI IKUTA TAIKI",
+  "data_de_nascimento": "09/03/1987",
+  "primeira_habilitação": "26/02/1987",
+  "validade": "29/04/1982",
+  "documento_de_identidade": "755944665",
+  "orgão_emissor": "ES",
+  "UF": "",
+  "número_do_registro": "380031285858",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "D",
+  "número_válido": "103284553"
+}
+```
+
+Caso precise de mais alguma informação ou ajuste, estou à disposição!

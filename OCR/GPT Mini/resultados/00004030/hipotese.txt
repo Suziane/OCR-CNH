@@ -1,0 +1,22 @@
+Aqui está o resultado dos campos reconhecidos organizados em um arquivo JSON:
+
+```json
+{
+  "nome": "CEVIDANES ISSAKA YUCO",
+  "cpf": "163.602.502-17",
+  "filiação": "LOGAR MITSUSHIGU RIBEIRO, MARILDA ZAMARO PEREDO BARROS",
+  "data_nascimento": "02/02/1980",
+  "primeira_habilitação": "",
+  "validade": "16/09/1999",
+  "documento_identidade": "559903339 SES PR",
+  "orgão_emissor": "",
+  "uf": "",
+  "número_registro": "64933379874",
+  "acc": "",
+  "permissão": "",
+  "categoria": "",
+  "número_válido": "0972868"
+}
+```
+
+Se precisar de mais alguma coisa, é só avisar!

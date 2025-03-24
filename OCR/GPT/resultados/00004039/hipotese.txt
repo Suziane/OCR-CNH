@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "POTONYACZ PUSKAS CHIUMARELLI",
+  "CPF": "887.592.474-01",
+  "filiação": "MCROTA LAURY DAAMEN, BERTHOLO SCRAMIN MOS LOPES",
+  "data_de_nascimento": "04/07/1968",
+  "primeira_habilitação": "02/09/1982",
+  "validade": "08/10/1950",
+  "documento_de_identidade": "148388849",
+  "órgão_emissor": "POF",
+  "UF": "BA",
+  "número_do_registro": "37884782232",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número_válido": "43769384"
+}
+```

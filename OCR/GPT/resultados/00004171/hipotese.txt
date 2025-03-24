@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "BAIO VAN NAJM",
+  "CPF": "821.535.558-76",
+  "filiação": "MIRAYA KOBIRAKI REDONDO MELO, SCABORA LANGERHORST GR DA ROSA",
+  "data de nascimento": "22/05/2002",
+  "primeira habilitação": "15/03/1999",
+  "validade": "25/03/1997",
+  "documento de identidade": "688805048",
+  "órgão emissor": "SPTC",
+  "UF": "MG",
+  "número do registro": "0950614839",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "E",
+  "número válido": "219230370"
+}
+```

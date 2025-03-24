@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "COPPE RORIZ WASHIMI",
+  "cpf": "069.092.008-37",
+  "filiacao": "CRNKOVIC THAM KULLER SOARES NOCCIOLI CARROZZA BACE PEREIRA",
+  "data_nascimento": "19/10/1970",
+  "primeira_habilitacao": "13/01/2011",
+  "validade": "12/08/1980",
+  "documento_identidade": "958604216",
+  "orgao_emissor": "POM",
+  "uf": "SC",
+  "numero_registro": "29423362357",
+  "acc": "",
+  "permissao": "",
+  "categoria": "C",
+  "numero_valido": "695049544"
+}
+```

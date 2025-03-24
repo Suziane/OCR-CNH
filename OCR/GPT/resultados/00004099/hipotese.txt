@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "ASAKA SUETIT YNEMINE",
+  "CPF": "035.495.432-63",
+  "filiação": "CONESA STANISLAW CRU, BERNARDI KUROZAWA MINORU NUNES",
+  "data de nascimento": "13/01/1986",
+  "primeira habilitação": "23/02/2013",
+  "validade": "27/09/2010",
+  "documento de identidade": "181231761",
+  "órgão emissor": "POM",
+  "UF": "GO",
+  "número do registro": "32841887395",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número válido": "349126687"
+}
+```

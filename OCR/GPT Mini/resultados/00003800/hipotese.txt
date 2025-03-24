@@ -1,0 +1,22 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos:
+
+```json
+{
+  "nome": "REGENTHIL GONÇORA SIGNORI",
+  "CPF": "523.933.428-67",
+  "filiação": "GALELIO BECCO BONIM RIBEIRO, CAKEZIM TAKEUCHI POCCI",
+  "data_de_nascimento": "11/02/2002",
+  "primeira_habilitação": "",
+  "validade": "06/05/2019",
+  "documento_de_identidade": "723.980.726 SEJ MG",
+  "órgão_emissor": "",
+  "UF": "MG",
+  "número_do_registro": "41158685093",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "C",
+  "número_válido": ""
+}
+```
+
+Caso alguma informação adicional ou outro formato seja necessário, sinta-se à vontade para pedir!

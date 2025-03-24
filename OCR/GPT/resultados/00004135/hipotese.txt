@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "NZACAGAMI NARE SALVATIERRA",
+  "CPF": "367.688.189-37",
+  "filiação": "LOENERT BAROLI GONCAL, CRAVO SCHIFINO MAKCATI DAS NEVES",
+  "data de nascimento": "18/05/1978",
+  "primeira habilitação": "27/06/2009",
+  "validade": "25/10/1988",
+  "documento de identidade": "872025725",
+  "órgão emissor": "SESP",
+  "UF": "MG",
+  "número do registro": "95955136072",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "D",
+  "número válido": "316633366"
+}
+```

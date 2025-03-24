@@ -1,0 +1,23 @@
+Aqui está o reconhecimento dos campos solicitados em formato JSON:
+
+```json
+{
+    "nome": "LAURCX TROSTER GIAMPIERO",
+    "CPF": "649.994.149-00",
+    "filiação": "TWO CHIAPPETTI SANTI",
+    "data_de_nascimento": "27/02/1992",
+    "primeira_habilitação": "02/01/1986",
+    "validade": "08/08/2025",
+    "documento_de_identidade": "",
+    "órgão_emissor": "",
+    "UF": "",
+    "número_do_registro": "654991936",
+    "data_de_nascimento_duplicada": "27/02/1992",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "A",
+    "número_válido": ""
+}
+```
+
+Caso precise de algo mais, estou à disposição!

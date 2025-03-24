@@ -1,0 +1,21 @@
+Aqui está o resultado dos campos reconhecidos, organizado em formato JSON:
+
+```json
+{
+    "nome": "PICCHETTI FANNY AGUSTIN",
+    "cpf": "130.904.052-45",
+    "filiação": "DALEL WALTRICK SILVE, ROSEMARY HELEN RYTTA RIBEIRO",
+    "data_nascimento": "27/01/1951",
+    "primeira_habilitação": "04/04/1975",
+    "validade": "08/03/2017",
+    "documento_identidade": "330976072",
+    "órgão_emissor": "SJS",
+    "UF": "RS",
+    "número_do_registro": "468965565631",
+    "ACC": "",
+    "permissão": "B",
+    "categoria": ""
+}
+```
+
+Caso precise de mais informações ou ajustes, sinta-se à vontade para informar!

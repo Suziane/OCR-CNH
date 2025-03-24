@@ -1,0 +1,21 @@
+Aqui está o resultado formatado em JSON conforme solicitado:
+
+```json
+{
+  "nome": "CANOVAS MOREIRA COMENAL",
+  "cpf": "251.035.924-01",
+  "filiação": "SHELY NAVIA SHIE DA LUZ, GROLLA ISABEL EDNELSO",
+  "data_nascimento": "27/04/1985",
+  "primeira_habilitação": "17/05/2017",
+  "validade": "08/06/2011",
+  "documento_identidade": "769904980 SEJ CE",
+  "órgão_emissor": "SEJ",
+  "uf": "CE",
+  "número_registro": "04305575866",
+  "acc": "C",
+  "permissão": "",
+  "categoria": ""
+}
+``` 
+
+Caso tenha mais alguma dúvida ou necessidade, estou à disposição!

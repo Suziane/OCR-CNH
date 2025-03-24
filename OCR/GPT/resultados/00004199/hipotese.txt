@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "UGO CHRISTIAN BUSATTO",
+  "CPF": "091.829.335-96",
+  "filiação": "BECK BALESTEROS FUJIHARA VIANA CAMACHO SILCEIA SUEHIRO FARIAS",
+  "data de nascimento": "19/01/2005",
+  "primeira habilitação": "26/02/2000",
+  "validade": "06/10/1966",
+  "documento de identidade": "674448402",
+  "órgão emissor": "SPTC",
+  "UF": "BA",
+  "número do registro": "43366329646",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "D",
+  "número válido": "239523757"
+}
+```

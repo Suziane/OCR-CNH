@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "CARLETO QUIRANTE YEON",
+  "CPF": "293.298.526-45",
+  "filiação": "DUCATTI PICHETTI MANAIRA SOARES NARDONI MARIZILDA HOMA REZENDE",
+  "data de nascimento": "16/07/2011",
+  "primeira habilitação": "24/07/1971",
+  "validade": "22/10/1999",
+  "documento de identidade": "190521004",
+  "órgão emissor": "SNJ",
+  "UF": "PE",
+  "número do registro": "44072310742",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "C",
+  "número válido": "321402592"
+}
+```

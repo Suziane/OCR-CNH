@@ -1,0 +1,21 @@
+Aqui está o reconhecimento dos dados da imagem organizada no formato JSON:
+
+```json
+{
+  "nome": "JULES CONRAD TAMASUAKAS",
+  "cpf": "605.966.028-20",
+  "filiação": "MILTON ZHEN LIAMARA; YO BONETTI BARBON CARVALHO",
+  "data_de_nascimento": "21/03/1992",
+  "primeira_habilitação": "17/01/1991",
+  "validade": "11/08/1954",
+  "documento_de_identidade": "153110168",
+  "órgão_emissor": "SJS",
+  "uf": "MG",
+  "número_do_registro": "22028748763",
+  "acc": "",
+  "permissão": "E",
+  "categoria": ""
+}
+``` 
+
+Caso algum campo não tenha sido encontrado, ele foi preenchido com uma string vazia, conforme solicitado.

@@ -1,0 +1,22 @@
+Aqui está o resultado organizado em um formato JSON com os campos solicitados:
+
+```json
+{
+  "nome": "HERMENEGILDA VANCO MOCO",
+  "cpf": "312.879.148-10",
+  "filiacao": "SECAMILLI IZUKAWA MILITAO\nARACKAWA NICOLLE PAVONI",
+  "data_nascimento": "26/01/1954",
+  "primeira_habilitacao": "08/01/1954",
+  "validade": "03/05/2011",
+  "documento_identidade": "935806313",
+  "orgao_emissor": "SJS",
+  "uf": "PR",
+  "numero_registro": "31712717294",
+  "acc": "",
+  "permissao": "",
+  "categoria": "E",
+  "numero_valido": "813918067"
+}
+```
+
+Se precisar de mais ajuda, estou à disposição!

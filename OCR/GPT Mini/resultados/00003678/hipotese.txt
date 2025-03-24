@@ -1,0 +1,21 @@
+Aqui está o reconhecimento dos campos solicitados organizados em formato JSON:
+
+```json
+{
+    "nome": "DAMIATI DELACHIAVE AL",
+    "CPF": "252.679.214-24",
+    "filiação": "FORNEIRO POLIC",
+    "data_de_nascimento": "24/10/2004",
+    "primeira_habilitação": "26/07/2016",
+    "validade": "18/01/1991",
+    "documento_de_identidade": "035639576",
+    "órgão_emissor": "SDS",
+    "UF": "MG",
+    "número_do_registro": "60951268706",
+    "ACC": "",
+    "permissão": "C",
+    "categoria": ""
+}
+```
+
+Se precisar de mais alguma coisa, é só avisar!

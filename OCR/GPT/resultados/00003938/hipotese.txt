@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "ARINELLI RUBINHO NERY",
+    "CPF": "209.197.359-91",
+    "filiação": "OJIMA ASSALIN KAZI / LIS FAGAPAZ SOEL DA LUZ",
+    "data de nascimento": "04/03/1997",
+    "primeira habilitação": "10/01/1965",
+    "validade": "13/06/1962",
+    "documento de identidade": "401840896",
+    "órgão emissor": "SJS",
+    "UF": "BA",
+    "número do registro": "77675473742",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "A",
+    "número válido": "994781996"
+}
+```

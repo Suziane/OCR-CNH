@@ -1,0 +1,20 @@
+Aqui está o resultado em formato JSON, contendo os dados reconhecidos:
+
+```json
+{
+  "nome": "ZUCCHERELLI URION GIACON",
+  "CPF": "349.177.906-54",
+  "filiação": "ODEBRECHT BENEDECTI MARC CAVALCANTI FAYAD JUNQUE BENEZ MENDES",
+  "data_nascimento": "11/06/1989",
+  "primeira_habilitação": "30/07/1955",
+  "validade": "19/03/1992",
+  "documento_identidade": "668949624",
+  "órgão_emissor": "SEJ",
+  "UF": "PI",
+  "número_do_registro": "88853604617",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "C",
+  "número_válido": "439583872"
+}
+```

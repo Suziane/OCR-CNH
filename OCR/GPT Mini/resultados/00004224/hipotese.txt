@@ -1,0 +1,21 @@
+Aqui está o resultado organizado em formato JSON:
+
+```json
+{
+    "nome": "CAPELLARO MADEIRA BICZYK",
+    "cpf": "795.991.802-32",
+    "filiação": "CHIBIM MITIYUE COQUE\nTOJI NEVENKA FORATTIN ROCHA",
+    "data_nascimento": "25/12/1995",
+    "primeira_habilitação": "17/01/1976",
+    "validade": "02/02/2009",
+    "documento_identidade": "721248123",
+    "órgão_emissor": "SESP",
+    "uf": "PB",
+    "número_do_registro": "31822181521",
+    "acc": "",
+    "permissão": "D",
+    "categoria": ""
+}
+``` 
+
+Se precisar de mais alguma coisa, é só avisar!

@@ -1,0 +1,22 @@
+Aqui está o resultado formatado em JSON com os dados reconhecidos da imagem:
+
+```json
+{
+    "nome": "SABLICH LOURAS FACUNDINI",
+    "CPF": "504.336.084-47",
+    "filiação": "CHUO TORiyAMA GUALBERTO, JANINE OLIVIERI RAPHAE BARROS",
+    "data_nascimento": "16/02/2015",
+    "primeira_habilitação": "27/03/1953",
+    "validade": "12/04/1964",
+    "documento_identidade": "452465199",
+    "órgão_emissor": "SDS",
+    "UF": "AL",
+    "número_registro": "40289867018",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "D",
+    "número_válido": "540584977"
+}
+```
+
+Caso precise de mais informações ou ajustes, fique à vontade para perguntar!

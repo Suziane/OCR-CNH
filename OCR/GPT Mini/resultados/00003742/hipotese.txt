@@ -1,0 +1,22 @@
+Aqui está o resultado organizado em formato JSON, com base nas informações que você descreveu:
+
+```json
+{
+    "nome": "MEZI SINGER CAMPANEIRO",
+    "CPF": "849.655.756-04",
+    "filiação": "KAANAR BERTACCHI SHU MENDES",
+    "data_nascimento": "23/11/1955",
+    "primeira_habilitação": "13/07/1955",
+    "validade": "22/12/2019",
+    "documento_identidade": "",
+    "orgao_emissor": "SSP DA",
+    "UF": "",
+    "numero_registro": "29234940335",
+    "ACC": "",
+    "permissao": "",
+    "categoria": "E",
+    "numero_valido": ""
+}
+```
+
+Se precisar de mais alguma coisa, é só avisar!

@@ -1,0 +1,22 @@
+Aqui está o resultado em formato JSON com os dados reconhecidos:
+
+```json
+{
+    "nome": "TAQUEUTI LINARES CAMIL",
+    "cpf": "324.824.170-58",
+    "filiação": "GEVANILDO LARANJEIRO CASTRO RAZABONE TOLOI STROHH",
+    "data_nascimento": "26/10/1964",
+    "primeira_habilitação": "05/10/1980",
+    "validade": "01/09/1990",
+    "documento_identidade": "961634018 SNJ PI",
+    "órgão_emissor": "SNJ",
+    "uf": "PI",
+    "número_registro": "41620993208",
+    "acc": "AB",
+    "permissão": "",
+    "categoria": "",
+    "número_válido": ""
+}
+```
+
+Caso precise de mais informações ou alterações, estou à disposição!

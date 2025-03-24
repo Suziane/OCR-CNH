@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "ROCHMAN TASSINARI ELAIN",
+  "CPF": "425.649.903-20",
+  "filiação": "PASSERINI BARRAGAN CAPOVI BONANCA ZAMARO NORONHA MENDES",
+  "data de nascimento": "13/07/1990",
+  "primeira habilitação": "09/06/1964",
+  "validade": "13/06/1958",
+  "documento de identidade": "044779410",
+  "órgão emissor": "SESP",
+  "UF": "PA",
+  "número do registro": "86922147351",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número válido": "984939095"
+}
+```

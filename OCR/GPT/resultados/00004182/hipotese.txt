@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "ROSENBERG SCHIAVETTO MILHINA",
+  "CPF": "194.278.800-23",
+  "filiação": "MIRABILE VALDINEI BRACO, MITSUKA CASSIMIRA CAVALCANTI",
+  "data de nascimento": "24/12/1989",
+  "primeira habilitação": "28/11/1954",
+  "validade": "05/09/1960",
+  "documento de identidade": "609367420",
+  "órgão emissor": "POM",
+  "UF": "RN",
+  "número do registro": "74907991774",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número válido": "847685405"
+}
+```

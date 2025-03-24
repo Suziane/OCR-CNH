@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "BOCCA EVORA SOTER",
+  "CPF": "419.367.742-75",
+  "filiação": "CRIVELINI MONTANHA TAKAY, MINGUILI HERCI BIRÃES OLIVEIRA",
+  "data de nascimento": "11/01/1951",
+  "primeira habilitação": "21/09/1996",
+  "validade": "20/11/2001",
+  "documento de identidade": "662760165",
+  "órgão emissor": "SPTC",
+  "UF": "RJ",
+  "número do registro": "37614080137",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "C",
+  "número válido": "487159206"
+}
+```

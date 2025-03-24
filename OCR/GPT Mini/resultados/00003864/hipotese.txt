@@ -1,0 +1,21 @@
+Aqui está o resultado organizado em um formato JSON:
+
+```json
+{
+  "nome": "GUERLENDA PAZIANI TAROUCO",
+  "CPF": "437.906.151-53",
+  "filiação": "PALOMO DJALMA PRENDALIA\nSHIGAKI MIYATAKE SOUZA",
+  "data_nascimento": "04/04/1979",
+  "primeira_habilitação": "16/08/1972",
+  "validade": "02/11/1989",
+  "documento_identidade": "776846693",
+  "órgão_emissor": "SES",
+  "UF": "SC",
+  "número_do_registro": "06876561750",
+  "ACC": "",
+  "permissão": "AB",
+  "categoria": ""
+}
+``` 
+
+Se precisar de mais alguma coisa, é só avisar!

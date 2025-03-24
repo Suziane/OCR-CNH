@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "DUENAS CEZARINO YUKIE",
+  "CPF": "149.053.962-04",
+  "filiação": "BERTAGNOLI KORITTAKI GRAN, KUNITAKE BAPTISTELLA B",
+  "data de nascimento": "01/02/2007",
+  "primeira habilitação": "05/04/1995",
+  "validade": "01/04/1967",
+  "documento de identidade": "748312754",
+  "órgão emissor": "SDS",
+  "UF": "RS",
+  "número do registro": "39947019684",
+  "ACC": "A",
+  "permissão": "",
+  "categoria": "B",
+  "número válido": "154670489"
+}
+```

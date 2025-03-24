@@ -1,0 +1,23 @@
+Aqui está o resultado formatado em JSON com os campos reconhecidos da imagem, utilizando os valores fictícios mencionados:
+
+```json
+{
+    "nome": "LOZERM PAREZZIO PARESE",
+    "cpf": "992.584.828-83",
+    "filiação": "",
+    "data_nascimento": "23/07/1966",
+    "primeira_habilitação": "02/02/1983",
+    "validade": "",
+    "documento_identidade": "",
+    "orgão_emissor": "",
+    "uf": "",
+    "número_registro": "283796217",
+    "data_nascimento": "23/07/1966",
+    "acc": "",
+    "permissão": "",
+    "categoria": "",
+    "número_válido": ""
+}
+```
+
+Os campos que não foram encontrados foram deixados como strings vazias. Se precisar de mais alguma coisa, é só avisar!

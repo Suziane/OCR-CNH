@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "SCRICH MAZINI MORITSUNE",
+  "cpf": "366.818.196-99",
+  "filiação": "BRANCA REZEK ZOZ DA COSTA KATARI PARAHYBA KADOW LIMA",
+  "data_de_nascimento": "08/06/1969",
+  "primeira_habilitação": "26/06/1996",
+  "validade": "17/01/1966",
+  "documento_de_identidade": "226375973",
+  "órgão_emissor": "SJS",
+  "uf": "PB",
+  "número_do_registro": "04246832691",
+  "acc": "",
+  "permissão": "",
+  "categoria": "A",
+  "número_válido": "171189878"
+}
+```

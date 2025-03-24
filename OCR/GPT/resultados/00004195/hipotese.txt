@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "ZANOVELI BURMANN BLANC",
+  "CPF": "020.872.017-06",
+  "filiação": "WELLINGTON SHIMOMI JOSANE VALDASTRI BARA",
+  "data de nascimento": "04/11/2005",
+  "primeira habilitação": "26/07/2002",
+  "validade": "21/12/1984",
+  "documento de identidade": "858473860",
+  "órgão emissor": "SEJ",
+  "UF": "PA",
+  "número do registro": "24046550292",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número válido": "162045327"
+}
+```

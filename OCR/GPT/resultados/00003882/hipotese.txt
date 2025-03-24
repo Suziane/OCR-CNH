@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "TANURI GALON ZETILA",
+  "CPF": "488.134.306-80",
+  "filiação": "BUONICONTI BATHOL VIANA KOMODA LAURENTIIS JAQUIER CARVALHO",
+  "data_de_nascimento": "25/11/2003",
+  "primeira_habilitação": "12/03/1993",
+  "validade": "04/04/2003",
+  "documento_de_identidade": "50266286330",
+  "órgão_emissor": "SSP",
+  "UF": "MG",
+  "número_do_registro": "50266286330",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número_válido": "371946881"
+}
+```

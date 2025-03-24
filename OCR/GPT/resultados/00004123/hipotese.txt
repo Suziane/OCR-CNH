@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "CARNELOS YU NAGAHACHI",
+  "CPF": "602.262.962-45",
+  "filiação": "ANAYA BARACHATI ALMOFIALEM SABCNARO SAKGUTI OELS",
+  "data de nascimento": "23/03/1953",
+  "primeira habilitação": "03/08/1994",
+  "validade": "19/06/1985",
+  "documento de identidade": "419851111",
+  "órgão emissor": "SSP",
+  "UF": "PR",
+  "número do registro": "77727860156",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número válido": "983670208"
+}
+```

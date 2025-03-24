@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "Mobi Martielo Pariz",
+  "CPF": "959.795.736-15",
+  "filiação": "Jatir Caspani Ca, Vilhena Tamarozzi Barros",
+  "data de nascimento": "09/11/1975",
+  "primeira habilitação": "28/09/1979",
+  "validade": "30/10/1985",
+  "documento de identidade": "115543219",
+  "órgão emissor": "SDS",
+  "UF": "MA",
+  "número do registro": "01211997625",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "C",
+  "número válido": "621734124"
+}
+```

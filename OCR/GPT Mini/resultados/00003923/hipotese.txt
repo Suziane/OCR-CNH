@@ -1,0 +1,21 @@
+Aqui está o resultado organizado em formato JSON com os campos reconhecidos:
+
+```json
+{
+    "nome": "ALINNE MATTAZZO GIULIANNY",
+    "CPF": "859.208.275-72",
+    "filiação": "SARKISSIAN YUGI CASALI; LYUSSEI PIZORUSSO BORETTI",
+    "data de nascimento": "27/02/2012",
+    "primeira habilitação": "18/09/1986",
+    "validade": "30/10/1984",
+    "documento de identidade": "342523041",
+    "órgão emissor": "SJS",
+    "UF": "MG",
+    "número do registro": "883406506633",
+    "ACC": "",
+    "permissão": "AB",
+    "categoria": ""
+}
+```
+
+Se precisar de mais alguma informação ou de ajustes, fique à vontade para avisar!

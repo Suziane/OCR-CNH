@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "DELIBERADOR NAKAGAWA BORIM",
+  "CPF": "895.457.667-27",
+  "filiação": "ALEGRIA ZANGIROLAMI JATE, WIERMAN SANCHES PASSAVAZ GOMES",
+  "data de nascimento": "08/01/1984",
+  "primeira habilitação": "19/07/2009",
+  "validade": "07/06/1960",
+  "documento de identidade": "580213333",
+  "órgão emissor": "SNJ",
+  "UF": "RS",
+  "número do registro": "69067782450",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número válido": "105313288"
+}
+```

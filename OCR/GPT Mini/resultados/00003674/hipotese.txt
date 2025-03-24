@@ -1,0 +1,22 @@
+Aqui está a informação organizada em formato JSON, com os campos solicitados:
+
+```json
+{
+    "nome": "PATRONCINIO JANOLLI",
+    "cpf": "761.365.362-50",
+    "filiacao": "CHIH WILDEROM RE, JURANDYR GRAZIANI REZENDE",
+    "data_nascimento": "03/11/1995",
+    "primeira_habilitacao": "25/07/1958",
+    "validade": "03/10/1993",
+    "documento_identidade": "138023438",
+    "orgao_emissor": "SNJ",
+    "uf": "SC",
+    "numero_registro": "608936320282",
+    "acc": "",
+    "permissao": "",
+    "categoria": "E",
+    "numero_valido": "652697154"
+}
+```
+
+Os campos "acc" e "permissao" não foram encontrados, por isso estão como strings vazias.

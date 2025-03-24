@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "METOLINA DOTTO FRATEL",
+    "CPF": "944.024.117-93",
+    "filiação": "PULME QUEDAYR JARDEL CAMPOS MARGARETA ARTESE PU",
+    "data de nascimento": "28/10/1979",
+    "primeira habilitação": "06/11/1954",
+    "validade": "31/08/1983",
+    "documento de identidade": "215680601",
+    "órgão emissor": "SPTC",
+    "UF": "PB",
+    "número do registro": "52385291349",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "B",
+    "número válido": "633962192"
+}
+```

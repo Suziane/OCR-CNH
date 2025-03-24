@@ -1,0 +1,21 @@
+Com base nas informações fornecidas na imagem, o resultado em formato JSON seria o seguinte:
+
+```json
+{
+    "nome": "BOTTA PACCEZ MACEIRAS",
+    "cpf": "028.761.746-77",
+    "filiação": "KAZUMITSU SAMMARONE PROTA DUARTE BEIM GOIA MORETTE CAVALCANTI",
+    "data_nascimento": "16/09/2003",
+    "primeira_habilitação": "19/08/1981",
+    "validade": "20/11/2003",
+    "documento_identidade": "742346080",
+    "orgao_emissor": "POM",
+    "uf": "MG",
+    "numero_registro": "58035486124",
+    "acc": "",
+    "permissão": "A",
+    "categoria": ""
+}
+```
+
+Caso tenha outras solicitações ou precise de mais informações, fique à vontade para perguntar!

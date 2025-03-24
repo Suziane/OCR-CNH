@@ -1,0 +1,21 @@
+Aqui está o resultado organizado em formato JSON com os dados reconhecidos da imagem:
+
+```json
+{
+  "nome": "NAGATOMO DONATIELLO BENSE",
+  "cpf": "151.554.043-04",
+  "filiação": "MARQUISI LEMUEL PELISSO RIBEIRO, KAROLSKI TOYOKAWA ADELE MORAES",
+  "data_nascimento": "25/08/1981",
+  "primeira_habilitação": "12/10/1976",
+  "validade": "02/07/1992",
+  "documento_identidade": "702456925",
+  "orgão_emissor": "SJS",
+  "uf": "PA",
+  "número_registro": "94805008881",
+  "acc": "",
+  "permissão": "E",
+  "categoria": ""
+}
+``` 
+
+Caso precise de mais informações, sinta-se à vontade para perguntar!

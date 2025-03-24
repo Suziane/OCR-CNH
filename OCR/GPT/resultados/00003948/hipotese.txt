@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "CURIATI EIMORI BARROLO",
+  "CPF": "925.164.648-19",
+  "filiação": "CADIDE LOMENSO ROJAS, MARABESI SOBROZA T",
+  "data_nascimento": "03/12/1984",
+  "primeira_habilitação": "04/10/2011",
+  "validade": "07/07/2019",
+  "documento_identidade": "623569840",
+  "órgão_emissor": "SDS",
+  "UF": "MA",
+  "número_registro": "22023824240",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "D",
+  "número_válido": "580588143"
+}
+```

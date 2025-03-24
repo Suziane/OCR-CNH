@@ -1,0 +1,21 @@
+Aqui está o resultado da extração dos campos solicitados em formato JSON:
+
+```json
+{
+  "nome": "ASAKA SUETT YNEMINE",
+  "cpf": "035.495.432-63",
+  "filiação": "CONESA STANISLAW CRU, BERNARDI KUROZAWA MINORU NUNES",
+  "data_nascimento": "27/09/2010",
+  "primeira_habilitação": "23/02/2013",
+  "validade": "13/01/1986",
+  "documento_identidade": "181231761",
+  "órgão_emissor": "POM",
+  "uf": "GO",
+  "número_registro": "32841887395",
+  "acc": "B",
+  "permissão": "",
+  "número_válido": "3491266687"
+}
+```
+
+Caso algum campo não tenha sido encontrado na imagem, o valor é atribuído como uma string vazia.

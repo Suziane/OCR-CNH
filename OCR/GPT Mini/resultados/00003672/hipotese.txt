@@ -1,0 +1,17 @@
+```json
+{
+    "nome": "PLACITTE SEABRA DEXHE",
+    "cpf": "598.702.436-65",
+    "filiação": "HIROCHI SAULE CANALLI REZENDE\nFAELLI DULCIANE CAL",
+    "data_de_nascimento": "15/12/1954",
+    "primeira_habilitação": "09/05/1984",
+    "validade": "02/08/1950",
+    "documento_de_identidade": "175424433 SPTC MG",
+    "órgão_emissor": "SPTC MG",
+    "UF": "",
+    "número_do_registro": "56504889120",
+    "ACC": "",
+    "permissão": "D",
+    "categoria": ""
+}
+```

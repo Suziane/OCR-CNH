@@ -1,0 +1,17 @@
+```json
+{
+  "nome": "SACHETTO STEFAN SCIGLIANC",
+  "CPF": "309.682.380-41",
+  "filiação": "LEISTER SALLA MORCOS\nMISE PONTIN CAZERTA FERNANDES",
+  "data_nascimento": "11/11/1992",
+  "primeira_habilitação": "20/09/2015",
+  "validade": "30/11/1970",
+  "documento_identidade": "748641191",
+  "órgão_emissor": "PA",
+  "UF": "PA",
+  "número_do_registro": "58795003085",
+  "ACC": "",
+  "permissão": "A",
+  "categoria": ""
+}
+```

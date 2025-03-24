@@ -1,0 +1,22 @@
+Aqui está o resultado da extração em formato JSON, conforme solicitado:
+
+```json
+{
+    "nome": "OTSUICHI PREGNOLATO",
+    "CPF": "506.350.030-74",
+    "filiação": "BARUF VALMI SEVALH FREITAS\nGIAVAROTTI BORRO TEMP ALVES",
+    "data_de_nascimento": "19/02/2007",
+    "primeira_habilitação": "24/08/1967",
+    "validade": "25/08/1982",
+    "documento_de_identidade": "407347296",
+    "órgão_emissor": "SPTC",
+    "UF": "SP",
+    "número_do_registro": "27374511180",
+    "ACC": "",
+    "permissão": "AB",
+    "categoria": "",
+    "número_válido": "626206764"
+}
+```
+
+Caso precise de mais alguma informação, estarei à disposição!

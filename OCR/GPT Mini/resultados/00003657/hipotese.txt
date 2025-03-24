@@ -1,0 +1,21 @@
+Aqui está o resultado do reconhecimento dos campos da imagem em formato JSON:
+
+```json
+{
+    "nome": "ARNS MARGONATO ROMCY",
+    "cpf": "880.591.616-10",
+    "filiacao": "SANDBERG SHIMOMURA HER FREITAS, INARA VICCINI MARTORANI",
+    "data_nascimento": "19/01/1955",
+    "primeira_habilitacao": "24/07/1970",
+    "validade": "20/08/1986",
+    "documento_identidade": "956249425",
+    "orgao_emissor": "SES",
+    "uf": "BA",
+    "numero_registro": "35651109297",
+    "acc": "",
+    "permissao": "A",
+    "categoria": ""
+}
+```
+
+Se precisar de mais algo, é só avisar!

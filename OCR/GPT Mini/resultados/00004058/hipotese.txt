@@ -1,0 +1,17 @@
+```json
+{
+    "nome": "NAGATOMO DONATIELLO BENSE",
+    "CPF": "151.554.043-04",
+    "filiação": "MARQUESA LEMUEL PELISSO RIBEIRO, KAROLSKI TOYOKAWA ADELE MORAES",
+    "data_nascimento": "25/08/1981",
+    "primeira_habilitação": "12/10/1976",
+    "validade": "02/07/1992",
+    "documento_identidade": "702456925",
+    "órgão_emissor": "SJS",
+    "UF": "BA",
+    "número_do_registro": "94805008881",
+    "ACC": "",
+    "permissão": "E",
+    "categoria": ""
+}
+```

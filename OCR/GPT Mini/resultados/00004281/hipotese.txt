@@ -1,0 +1,21 @@
+Aqui está o resultado do reconhecimento dos campos solicitados, organizado em formato JSON:
+
+```json
+{
+  "nome": "VERAS LIZIA DARIANA",
+  "CPF": "785.426.950-54",
+  "filiação": "CAUMO ZACCHI EDIL RAMOS\nSPINARDI LORDELLO BARUFFA FERREIRA",
+  "data de nascimento": "09/09/1999",
+  "primeira habilitação": "11/11/1957",
+  "validade": "19/04/1982",
+  "documento de identidade": "3492878399",
+  "órgão emissor": "SESP",
+  "UF": "SC",
+  "número do registro": "91534781754",
+  "ACC": "",
+  "permissão": "",
+  "categoria": ""
+}
+```
+
+Caso precise de mais assistência, estou à disposição!

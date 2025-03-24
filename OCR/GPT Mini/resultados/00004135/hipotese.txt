@@ -1,0 +1,22 @@
+Aqui está o resultado do reconhecimento dos campos solicitados, organizado em formato JSON:
+
+```json
+{
+    "nome": "NZACAGAMI NARE SALVATIERRA",
+    "CPF": "367.688.189-37",
+    "filiação": "LOENERT BAROLI GONCAL",
+    "data_nascimento": "18/05/1978",
+    "primeira_habilitação": "25/10/1988",
+    "validade": "27/06/2009",
+    "documento_identidade": "872025725",
+    "órgão_emissor": "SESP",
+    "UF": "MG",
+    "número_do_registro": "95955136072",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "D",
+    "número_válido": "316633366"
+}
+```
+
+Se precisar de mais informações ou ajustes, estou à disposição!

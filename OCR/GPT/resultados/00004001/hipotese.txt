@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "ZANATC PATO FRE",
+  "CPF": "750.874.381-61",
+  "filiação": "TANIA YRIG BOTTOS, SCHWARTZMAN MISTRETTA",
+  "data de nascimento": "26/03/1952",
+  "primeira habilitação": "28/03/1993",
+  "validade": "21/02/2010",
+  "documento de identidade": "804851098",
+  "órgão emissor": "SNJ",
+  "UF": "RS",
+  "número do registro": "65787313235",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "E",
+  "número válido": "200063376"
+}
+```

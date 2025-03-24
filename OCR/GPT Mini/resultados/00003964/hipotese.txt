@@ -1,0 +1,22 @@
+Aqui está o resultado formatado em JSON com os campos reconhecidos a partir da imagem fornecida:
+
+```json
+{
+    "nome": "FATIBELLO KINOSHITA CAROLLINE",
+    "cpf": "804.209.871-50",
+    "filiação": "SHIMIDZU FAITHCOW BER MOURA, KURATANI SANDONATO C SILVA",
+    "data_nascimento": "30/04/1982",
+    "primeira_habilitação": "15/03/1983",
+    "validade": "07/06/2000",
+    "documento_identidade": "322021453",
+    "órgão_emissor": "MG",
+    "UF": "POM",
+    "número_do_registro": "06726876912",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "D",
+    "número_válido": "322052565"
+}
+```
+
+Observação: Campos que não puderam ser reconhecidos foram deixados como strings vazias.

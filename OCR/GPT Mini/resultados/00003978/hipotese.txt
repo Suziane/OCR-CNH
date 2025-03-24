@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "FAVA STEFANELI KAWAHARA",
+    "cpf": "765.226.745-56",
+    "filiação": "COLONELLO VALLE SIMPLI BARRETA TSUKAYAMA NI",
+    "data_nascimento": "09/05/2003",
+    "primeira_habilitação": "27/04/1974",
+    "validade": "02/05/1993",
+    "documento_identidade": "912761751",
+    "órgão_emissor": "SP",
+    "uf": "SP",
+    "número_registro": "245546000997",
+    "acc": "",
+    "permissão": "",
+    "categoria": "C",
+    "número_válido": ""
+}
+```

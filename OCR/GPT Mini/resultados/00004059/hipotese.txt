@@ -1,0 +1,21 @@
+Aqui está o resultado da extração dos campos que você solicitou em formato JSON:
+
+```json
+{
+    "nome": "NAKASSE BELLODI JUNQUEIRA",
+    "cpf": "172.687.787-67",
+    "filiação": "SHEYLA MERCER JORDANI, KENZI VETRONE FUZISHIMA",
+    "data_nascimento": "23/09/1994",
+    "primeira_habilitação": "15/10/1976",
+    "validade": "30/10/1980",
+    "documento_identidade": "056118648",
+    "órgão_emissor": "SPTC",
+    "UF": "PE",
+    "número_registro": "62959405027",
+    "ACC": "",
+    "permissão": "C",
+    "categoria": ""
+}
+```
+
+Se precisar de mais alguma coisa, é só avisar!

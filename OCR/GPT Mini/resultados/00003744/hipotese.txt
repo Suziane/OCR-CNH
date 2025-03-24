@@ -1,0 +1,22 @@
+Aqui está a representação em JSON com os campos reconhecidos:
+
+```json
+{
+    "nome": "CHAULPPE AGUILAR COZIN",
+    "CPF": "649.812.794-50",
+    "filiacao": "FACANHA KAGOHARA PEDRO, OBARA MARETTI CAROLINE RIBEIRO",
+    "data_nascimento": "07/04/1951",
+    "primeira_habilitacao": "17/02/2008",
+    "validade": "23/08/2010",
+    "documento_identidade": "857909963",
+    "orgao_emissor": "SESP",
+    "UF": "BA",
+    "numero_registro": "65393953730",
+    "ACC": "13",
+    "permissao": "",
+    "categoria": "",
+    "numero_valido": "396596232"
+}
+```
+
+Se precisar de mais alguma coisa, é só avisar!

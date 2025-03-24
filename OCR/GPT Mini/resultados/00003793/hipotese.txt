@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "BUGY FALCINI SONCINI",
+    "cpf": "613.163.507-20",
+    "filiação": "PAROLIN PARDELLI SEBER",
+    "data_nascimento": "02/08/1959",
+    "primeira_habilitação": "14/12/1985",
+    "validade": "29/08/1981",
+    "documento_identidade": "773544809",
+    "órgão_emissor": "SPTC",
+    "uf": "SC",
+    "número_registro": "77224028101",
+    "acc": "",
+    "permissão": "B",
+    "categoria": "",
+    "número_válido": "031427790"
+}
+```

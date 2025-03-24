@@ -1,0 +1,17 @@
+```json
+{
+    "nome": "PEROBELLI ESTEVO LASEVICIUS",
+    "CPF": "282.372.368-40",
+    "filiação": "CURCIO RIZIERIO FIL MARTINS CASERTA RIZZOLI COBIAK",
+    "data_nascimento": "10/09/1961",
+    "primeira_habilitação": "31/01/1966",
+    "validade": "05/10/1991",
+    "documento_identidade": "735185906 SSP SC",
+    "órgão_emissor": "SSP",
+    "UF": "SC",
+    "número_registro": "31941672612",
+    "ACC": "",
+    "permissão": "B",
+    "categoria": ""
+}
+```

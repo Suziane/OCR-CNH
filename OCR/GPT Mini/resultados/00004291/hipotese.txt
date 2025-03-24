@@ -1,0 +1,23 @@
+Aqui está o resultado da extração dos campos da imagem organizada em formato JSON:
+
+```json
+{
+    "nome": "SERIGATI KLAAS GETSCHKO",
+    "CPF": "739.926.462-70",
+    "filiação": "GENGHINI FACIO FUKUE VIANA ANDREAS GELSON COVA RIBEIRO",
+    "data_nascimento": "21/05/1960",
+    "primeira_habilitação": "",
+    "validade": "28/06/1973",
+    "documento_identidade": "432509819 SEJ PR",
+    "órgão_emissor": "",
+    "UF": "PR",
+    "número_do_registro": "276851414165",
+    "data_nascimento_2": "",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "",
+    "número_válido": ""
+}
+```
+
+Note que campos sem informação foram preenchidos com strings vazias.

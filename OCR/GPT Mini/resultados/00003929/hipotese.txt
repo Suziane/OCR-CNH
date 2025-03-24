@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "TORELLI SISTI BAYEUX",
+  "cpf": "457.150.079-95",
+  "filiação": "MASULA WOKI COGLIATI PINTO\nZONA RINDEIKA YOSHIYE LIMA",
+  "data_nascimento": "28/03/1986",
+  "primeira_habilitação": "25/09/1998",
+  "validade": "06/04/1965",
+  "documento_identidade": "391352729 SEJ PE",
+  "órgão_emissor": "DETRAN",
+  "UF": "PE",
+  "número_registro": "38540350961",
+  "acc": "",
+  "permissão": "PERMISSÃO",
+  "categoria": "E",
+  "número_válido": "8756662350"
+}
+```

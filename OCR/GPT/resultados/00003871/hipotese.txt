@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "IKEDO ISEJIMA CHUO",
+  "CPF": "851.386.690-36",
+  "filiação": "THAIANA TRAVAGLIA CARDEL MARTINS\nVOLNEI WARTH CIBOTO MELO",
+  "data de nascimento": "08/07/2006",
+  "primeira habilitação": "24/04/1992",
+  "validade": "30/09/1964",
+  "documento de identidade": "160593128",
+  "órgão emissor": "SDS",
+  "UF": "RS",
+  "número do registro": "93939341352",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "C",
+  "número válido": "301921099"
+}
+```

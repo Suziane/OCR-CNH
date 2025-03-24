@@ -1,0 +1,22 @@
+Aqui está o resultado do reconhecimento dos campos solicitados em formato JSON:
+
+```json
+{
+  "nome": "NORMANHA HUMANTSCHUK PRETI",
+  "CPF": "730.188.933-01",
+  "filiação": "TCHIZLI FUZIY C ARAUJO\nHAJALA JADE KLEINHAPPEL COSTA",
+  "data_de_nascimento": "31/07/2017",
+  "primeira_habilitação": "17/10/1966",
+  "validade": "30/09/1968",
+  "documento_de_identidade": "502415186",
+  "órgão_emissor": "SESP",
+  "UF": "SP",
+  "número_do_registro": "03748820310",
+  "ACC": "",
+  "permissão": "B",
+  "categoria": "C",
+  "número_válido": "3793797"
+}
+``` 
+
+Sinta-se à vontade para solicitar qualquer outra informação ou ajuda!

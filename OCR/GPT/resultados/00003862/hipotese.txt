@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "FONZAR ORSI COLLI",
+  "CPF": "555.601.474-43",
+  "filiação": "GRYSCHEK SCHENK CLENILCE, PENARRIOL MOGGIONI AST ARAUJO",
+  "data_de_nascimento": "07/02/1980",
+  "primeira_habilitação": "22/02/1970",
+  "validade": "17/04/1990",
+  "documento_de_identidade": "151919045",
+  "órgão_emissor": "SPTC",
+  "UF": "PR",
+  "número_do_registro": "8753389194",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "C",
+  "número_válido": "387585799"
+}
+```

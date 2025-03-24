@@ -1,0 +1,23 @@
+Baseado na imagem e nas informações fornecidas, o reconhecimento dos campos resultante em formato JSON é o seguinte:
+
+```json
+{
+  "nome": "ARINELLI RUBINHO NERY",
+  "CPF": "209.197.353-91",
+  "filiação": "OJIMA ASSALIN KAZI",
+  "data_nascimento": "04/09/1997",
+  "primeira_habilitação": "01/01/1955",
+  "validade": "12/06/1962",
+  "documento_identidade": "401840896 3ª SJS BA",
+  "órgão_emissor": "",
+  "UF": "",
+  "número_registro": "966784196",
+  "data_nascimento_repetida": "",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "",
+  "número_válido": ""
+}
+```
+
+Esse resultado organiza os dados reconhecidos e preenche os campos que não foram encontrados com strings vazias.

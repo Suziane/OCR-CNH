@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "POLASTRE FELSKY SUARES",
+    "cpf": "067.081.431-86",
+    "filiação": "YAMACAKE MARUJO I WAKAMOTO TEDESCHI SE",
+    "data_nascimento": "22/03/1989",
+    "primeira_habilitação": "23/05/1965",
+    "validade": "01/04/1977",
+    "documento_identidade": "749508127",
+    "orgão_emissor": "SDS",
+    "UF": "MG",
+    "número_registro": "06146048430",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "E",
+    "número_válido": "352767607"
+}
+```

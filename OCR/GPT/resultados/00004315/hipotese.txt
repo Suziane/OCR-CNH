@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "EBERLE FRAZAO DUMAS",
+  "CPF": "907.732.000-88",
+  "data de nascimento": "02/11/1964",
+  "filiação": "GIUSTI KISHI ANTONY, KARG PADOVEZI BARACCH FERNANDES",
+  "primeira habilitação": "12/09/1972",
+  "validade": "23/11/1952",
+  "documento de identidade": "386985844",
+  "órgão emissor": "SEJ",
+  "UF": "TO",
+  "número do registro": "6314649539",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "E",
+  "número válido": "526364104"
+}
+```

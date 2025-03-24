@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "ECONIN ARNELLAS SETURAL",
+    "CPF": "850.930.491-23",
+    "filiação": "TACCONELLI FERDERYK E PA DA CUNHA\nSCHAEFFER TEURISLETE CARIOSO",
+    "data_de_nascimento": "29/10/1971",
+    "primeira_habilitação": "11/05/1926",
+    "validade": "09/10/1987",
+    "documento_de_identidade": "4292635751",
+    "órgão_emissor": "SPTC",
+    "UF": "SP",
+    "número_do_registro": "635222308124",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "",
+    "número_válido": "812725830"
+}
+```

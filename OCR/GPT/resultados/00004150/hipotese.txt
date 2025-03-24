@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "ARINELLI RUBINHO NERY",
+  "CPF": "209.197.359-91",
+  "filiação": "OJIMA ISSALIN KAZI, HIS FABRAZ FOEL",
+  "data_de_nascimento": "04/09/1997",
+  "primeira_habilitação": "01/01/1955",
+  "validade": "17/06/1962",
+  "documento_de_identidade": "401840896",
+  "orgão_emissor": "SSP",
+  "UF": "BA",
+  "número_do_registro": "7704.73742",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "C",
+  "número_válido": "934781996"
+}
+```

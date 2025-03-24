@@ -1,0 +1,22 @@
+Aqui está o resultado da análise da imagem organizada em formato JSON:
+
+```json
+{
+  "nome": "LABRONICI AYAKA FREDDY",
+  "cpf": "920.600.713-10",
+  "filiacao": "GOBEL EMRANI PANARIELL MENDES, DAIMO SLOBODITCOV JEF DA ROSA",
+  "data_nascimento": "07/08/1964",
+  "primeira_habilitacao": "24/04/1954",
+  "validade": "25/02/2007",
+  "documento_identidade": "852552841",
+  "orgao_emissor": "SES/PE",
+  "uf": "",
+  "numero_registro": "76795264893",
+  "acc": "E",
+  "permissao": "",
+  "categoria": "",
+  "numero_valido": "225512028"
+}
+```
+
+Caso precise de mais alguma informação ou ajuste, fique à vontade para informar!

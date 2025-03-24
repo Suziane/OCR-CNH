@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "WYLLIAM VAQUERO AUROR",
+    "CPF": "479.301.757-66",
+    "filiação": "HAWLITSCH TEGOETTO GOLEDSK, CAYO CARAVER SWAN",
+    "data de nascimento": "04/12/1986",
+    "primeira habilitação": "13/05/2008",
+    "validade": "26/12/1981",
+    "documento de identidade": "921402172",
+    "órgão emissor": "POM",
+    "UF": "SC",
+    "número do registro": "45463817530",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "B",
+    "número válido": "023373542"
+}
+```

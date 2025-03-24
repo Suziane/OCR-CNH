@@ -1,0 +1,22 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos:
+
+```json
+{
+  "nome": "FREDERICE FACCHINI NILSSO",
+  "CPF": "188.043.007-01",
+  "filiação": "TACIA KICHISE BROCK, NAHAS ANDREOLLO BORA",
+  "data_nascimento": "22/11/1981",
+  "primeira_habilitação": "30/11/2017",
+  "validade": "14/04/1957",
+  "documento_identidade": "170733634",
+  "órgão_emissor": "POM",
+  "UF": "MG",
+  "número_do_registro": "03376767489",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número_válido": "349433693"
+}
+```
+
+Se precisar de mais alguma coisa, é só avisar!

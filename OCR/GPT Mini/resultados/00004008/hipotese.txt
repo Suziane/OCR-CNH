@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "PERASSOLLI MEIER PINGUE",
+    "CPF": "177.168.741-01",
+    "filiação": "ULRICH ALBORNOZ DA REZENDE SAMPIERI DANDREA GIUL",
+    "data de nascimento": "26/07/1984",
+    "primeira habilitação": "17/09/2008",
+    "validade": "03/12/2016",
+    "documento de identidade": "963434135 SESP RN",
+    "órgão emissor": "SESP",
+    "UF": "RN",
+    "número do registro": "858220239834",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "D",
+    "número válido": "228480799"
+}
+```

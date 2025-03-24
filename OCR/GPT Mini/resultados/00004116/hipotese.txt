@@ -1,0 +1,23 @@
+Aqui está o resultado do reconhecimento dos campos solicitados, organizado em um arquivo JSON:
+
+```json
+{
+    "nome": "BELLINI BELLOMI CARPANESSES",
+    "cpf": "850.971.881-44",
+    "filiação": "MARCHESI RIGUERA NEKRYCZ CAPELARI FALCIN RANVA SOUZA",
+    "data_nascimento": "20/06/1970",
+    "primeira_habilitação": "",
+    "validade": "01/05/1965",
+    "documento_identidade": "251582197 SEJ PR",
+    "orgão_emissor": "",
+    "uf": "",
+    "número_registro": "35928654131",
+    "data_primeira_habilitação": "17/05/1983",
+    "acc": "",
+    "permissão": "",
+    "categoria": "AB",
+    "número_válido": ""
+}
+```
+
+Se precisar de mais alguma coisa, é só avisar!

@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "FUCCIO CAVICCHIOLI CATARINA",
+    "CPF": "131.492.910-03",
+    "filiação": "CECARA INGRAC RODRIGUES CAPPABIANCO REV MENDES",
+    "data de nascimento": "06/08/1997",
+    "primeira habilitação": "29/11/1954",
+    "validade": "22/08/2003",
+    "documento de identidade": "870066959",
+    "órgão emissor": "SSP",
+    "UF": "CE",
+    "número do registro": "4778173222",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "AC",
+    "número válido": "841720874"
+}
+```

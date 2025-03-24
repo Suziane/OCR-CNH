@@ -1,0 +1,22 @@
+Aqui está o resultado organizado em um arquivo JSON conforme solicitado:
+
+```json
+{
+    "nome": "HELMAN CHUERI TRILLO",
+    "CPF": "986.449.048-68",
+    "filiação": "FERRANTI MARCELO MAYKON\nRENNA BICZYK SALERNO ROCHA",
+    "data_nascimento": "29/01/2010",
+    "primeira_habilitação": "29/10/2009",
+    "validade": "20/12/2018",
+    "documento_identidade": "329587523 SJS MA",
+    "órgão_emissor": "",
+    "UF": "MA",
+    "número_do_registro": "41831986297",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "E",
+    "número_válido": ""
+}
+```
+
+Caso alguma informação não tenha sido identificada corretamente, os valores correspondentes foram deixados em branco conforme suas instruções.

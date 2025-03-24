@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "NIELSEN GIANNETTI TEI",
+  "cpf": "759.844.427-79",
+  "filiacao": "MASSERANI BREN SALAAR FANTIN ALBANO LOPES",
+  "data_de_nascimento": "17/06/1998",
+  "primeira_habilitacao": "08/04/1980",
+  "validade": "21/05/1954",
+  "documento_de_identidade": "775435624",
+  "orgao_emissor": "SESP",
+  "uf": "PA",
+  "numero_do_registro": "0095964237",
+  "acc": "",
+  "permissao": "",
+  "categoria": "B",
+  "numero_valido": "310665810"
+}
+```

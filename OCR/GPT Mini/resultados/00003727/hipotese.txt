@@ -1,0 +1,17 @@
+```json
+{
+  "nome": "SIOLA DAGNONE BERGOLI",
+  "cpf": "587.998.585-76",
+  "filiação": "MIGLIAVACCA IMENES SHY; AISHA LUACI OLIVARE",
+  "data_de_nascimento": "28/06/1962",
+  "primeira_habilitação": "28/10/1985",
+  "validade": "26/09/2006",
+  "documento_de_identidade": "802576643",
+  "órgão_emissor": "SPTC",
+  "UF": "RS",
+  "número_do_registro": "09832295664",
+  "ACC": "",
+  "permissão": "C",
+  "categoria": ""
+}
+```

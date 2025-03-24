@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "LUDESCHER CARLESSI MATSUNO",
+  "CPF": "185.444.133-74",
+  "filiação": "AURELIO WASQUES SOUIT, ZERIO CARLY MARGONARI",
+  "data de nascimento": "26/02/1988",
+  "primeira habilitação": "11/08/1983",
+  "validade": "01/07/1963",
+  "documento de identidade": "626699393",
+  "órgão emissor": "SSP",
+  "UF": "MG",
+  "número do registro": "14258804374",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número válido": "168391065"
+}
+```

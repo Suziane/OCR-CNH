@@ -1,0 +1,21 @@
+Aqui está o resultado organizado em um formato JSON com os campos reconhecidos da imagem:
+
+```json
+{
+  "nome": "THATY WEEGE HIGASSIARAGU",
+  "cpf": "014.667.711-00",
+  "filiação": "CAMPINEIRO TESTONI ALC CARDOSO IAMAGUTE AUGUSTUS BROSCH NASCIMENTO",
+  "data_nascimento": "12/04/2010",
+  "primeira_habilitação": "08/08/1987",
+  "validade": "27/10/1994",
+  "documento_identidade": "709188146",
+  "órgão_emissor": "SESP",
+  "uf": "MT",
+  "número_do_registro": "04904567453",
+  "acc": "",
+  "permissão": "A",
+  "categoria": ""
+}
+```
+
+Se houver mais informações a serem extraídas ou ajustes necessários, sinta-se à vontade para me avisar!

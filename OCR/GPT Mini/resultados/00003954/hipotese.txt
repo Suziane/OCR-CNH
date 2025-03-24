@@ -1,0 +1,21 @@
+Aqui está o resultado organizado em formato JSON com os campos solicitados:
+
+```json
+{
+    "nome": "KURMAN ONO STEIN",
+    "cpf": "383.622.829-75",
+    "filiação": "GOTILLA MITSUTANI PATC",
+    "data_nascimento": "26/08/1969",
+    "primeira_habilitação": "10/04/1978",
+    "validade": "28/12/1966",
+    "documento_identidade": "667922124645",
+    "órgão_emissor": "SES",
+    "UF": "PB",
+    "número_registro": "366205368",
+    "ACC": "",
+    "permissão": "A",
+    "categoria": ""
+}
+```
+
+Se precisar de mais alguma coisa, estou à disposição!

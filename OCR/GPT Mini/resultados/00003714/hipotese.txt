@@ -1,0 +1,22 @@
+Aqui está a estrutura em JSON com os campos identificados e os valores extraídos da imagem:
+
+```json
+{
+  "nome": "MERES NOBUHIRO DUART",
+  "cpf": "263.325.424-11",
+  "filiação": "GIANVECHIO RA PADRÃO JORDANA FRASSON FERREIRA",
+  "data_de_nascimento": "18/11/1986",
+  "primeira_habilitação": "03/12/1985",
+  "validade": "03/12/1985",
+  "documento_de_identidade": "750966439",
+  "órgão_emissor": "SJS",
+  "UF": "BA",
+  "número_do_registro": "01040248152",
+  "acc": "",
+  "permissão": "A",
+  "categoria": "A",
+  "número_válido": "265757658"
+}
+```
+
+Caso algum campo não tenha sido identificado, ele pode ser preenchido com uma string vazia, como feito para "ACC", que não estava presente na imagem.

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "EGIMA MITSUMOTO FURCH",
+  "cpf": "904.001.412-48",
+  "filiacao": "TUHIO BAYCER RUDY, JUTGLA HAMM HISSASHI RODRIGUES",
+  "data_de_nascimento": "19/09/2001",
+  "primeira_habilitacao": "04/12/1981",
+  "validade": "07/04/2000",
+  "documento_de_identidade": "157590112",
+  "orgao_emissor": "SPTC",
+  "uf": "RS",
+  "numero_do_registro": "72465681890",
+  "acc": "",
+  "permissao": "",
+  "categoria": "A",
+  "numero_valido": "379427326"
+}
+```

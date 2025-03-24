@@ -1,0 +1,1 @@
+Não consigo realizar o reconhecimento de texto em imagens. Se precisar de ajuda com mais informações sobre o BID Dataset ou sobre processamentos de dados fictícios, fique à vontade para perguntar!

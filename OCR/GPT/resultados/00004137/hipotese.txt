@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "BETANCOR AWAGAKUBO STORCH",
+  "CPF": "945.439.324-39",
+  "filiação": "FADIA FEITEIRO GEHRINGE PIAZAROLO GILMOUR KA CAVALCANTI",
+  "data de nascimento": "13/08/1977",
+  "primeira habilitação": "02/03/1952",
+  "validade": "18/07/2016",
+  "documento de identidade": "317302619",
+  "órgão emissor": "SPTC",
+  "UF": "MG",
+  "número do registro": "19216996661",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número válido": "491232208"
+}
+```

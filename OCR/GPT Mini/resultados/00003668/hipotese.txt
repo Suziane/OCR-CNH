@@ -1,0 +1,17 @@
+```json
+{
+  "nome": "ESPER MARILEIDE CYRINO",
+  "cpf": "377.455.615-66",
+  "filiação": "BRUZASCO MARANHO FUTIG FARIAS\nJOHN BAHOV KOJIRO CARDOSO",
+  "data_nascimento": "05/06/1996",
+  "primeira_habilitação": "12/03/2020",
+  "validade": "19/12/1994",
+  "documento_identidade": "070088597",
+  "órgão_emissor": "SESP",
+  "uf": "CE",
+  "número_registro": "03313468763",
+  "acc": "",
+  "permissão": "A",
+  "categoria": ""
+}
+```

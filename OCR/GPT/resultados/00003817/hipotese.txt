@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "TARGAS PARAVANI GIUGLIO",
+    "CPF": "097.096.797-75",
+    "filiação": "MATIKA CIROMAR ABATE, DOTTAVIO ARICIA B NOVAES",
+    "data_nascimento": "10/03/2020",
+    "primeira_habilitação": "09/11/1970",
+    "validade": "10/10/1983",
+    "documento_identidade": "410582633",
+    "órgão_emissor": "POM",
+    "UF": "BA",
+    "número_registro": "22538832734",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "E",
+    "número_válido": "137575747"
+}
+```

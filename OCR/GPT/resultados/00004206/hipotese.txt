@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "Muggler Mano Laudelin",
+  "CPF": "036.606.350-22",
+  "filiação": "Bergstein Rolink Chiaoting Sales, Ristori Tonidandel",
+  "data de nascimento": "05/11/2014",
+  "primeira habilitação": "18/12/2017",
+  "validade": "11/12/2004",
+  "documento de identidade": "689605705",
+  "órgão emissor": "SEJ",
+  "UF": "SC",
+  "número do registro": "1888378743",
+  "ACC": " ",
+  "permissão": "",
+  "categoria": "B",
+  "número válido": "303982179"
+}
+```

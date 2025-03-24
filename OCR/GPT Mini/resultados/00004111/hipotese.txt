@@ -1,0 +1,20 @@
+Aqui está o reconhecimento dos campos solicitados, organizado em formato JSON:
+
+```json
+{
+  "nome": "ADALGISO RISO MINUCCI",
+  "cpf": "644.069.717-00",
+  "filiação": "SCHMIDT RAMACCIOTTI TENENB BARROS, VANDA ANOUCH ISQUERDO DA MATA",
+  "data_nascimento": "21/12/2006",
+  "primeira_habilitação": "29/12/1959",
+  "validade": "05/07/1986",
+  "documento_identidade": "567722363",
+  "órgão_emissor": "SDS",
+  "uf": "PB",
+  "número_registro": "14925230551",
+  "acc": "",
+  "permissão": "",
+  "categoria": "D",
+  "número_válido": "523060292"
+}
+```

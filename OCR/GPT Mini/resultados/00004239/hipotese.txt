@@ -1,0 +1,22 @@
+Aqui está o reconhecimento dos campos da imagem solicitada, organizado em formato JSON:
+
+```json
+{
+  "nome": "LUCINARI UÇKUS TAKAHAGI",
+  "cpf": "917.050.798-81",
+  "filiação": "LUGLI AUD ARCANJO",
+  "data_nascimento": "25/01/1960",
+  "primeira_habilitação": "10/03/1973",
+  "validade": "16/09/1999",
+  "documento_identidade": "1684655796",
+  "órgão_emissor": "SJS",
+  "uf": "RS",
+  "número_registro": "69137960185",
+  "acc": "B",
+  "permissão": "",
+  "categoria": "",
+  "número_válido": "307849219"
+}
+```
+
+Caso algum campo não tenha sido mencionado na imagem, ele foi atribuído como uma string vazia.

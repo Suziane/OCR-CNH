@@ -1,0 +1,22 @@
+Aqui está o resultado organizado em um formato JSON, conforme solicitado:
+
+```json
+{
+    "nome": "BARISON MALVICINO GALLUCCI",
+    "cpf": "627.441.961-69",
+    "filiação": "BERNARDUS PAR DA ROSA, ZUALTO GRUBERT CAVALCANTI",
+    "data_nascimento": "21/08/1997",
+    "primeira_habilitação": "05/06/1983",
+    "validade": "",
+    "documento_identidade": "584384543 SSP RS",
+    "órgão_emissor": "SSP",
+    "UF": "RS",
+    "número_registro": "61189171446",
+    "ACC": "",
+    "permissão": "B",
+    "categoria": "",
+    "número_válido": "632735124"
+}
+```
+
+Se houver mais informações ou ajustes necessários, fique à vontade para me avisar!

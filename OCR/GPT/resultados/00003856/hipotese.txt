@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "CIRQUEIRA EDILIZ BARBUDA",
+  "CPF": "669.771.512-00",
+  "filiação": "HAN NAMBA MERINI MELO ARMGILIATO LICKEL SAME",
+  "data de nascimento": "03/12/1955",
+  "primeira habilitação": "28/05/2005",
+  "validade": "12/05/1977",
+  "documento de identidade": "471491937",
+  "órgão emissor": "SESP",
+  "UF": "SC",
+  "número do registro": "80371259429",
+  "ACC": "",
+  "permissão": "PERMISSÃO",
+  "categoria": "AB",
+  "número válido": "593172294"
+}
+```

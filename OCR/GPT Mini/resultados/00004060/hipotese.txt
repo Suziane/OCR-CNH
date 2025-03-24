@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "AURELIANO YAEKO KOBASHI",
+    "cpf": "020.770.655-75",
+    "filiação": "HIRALE LIXA MOREIR MONTEIRO HAJI TEGGI NICOLÃO NOGUEIRA",
+    "data_nascimento": "30/09/1958",
+    "primeira_habilitação": "16/10/1985",
+    "validade": "21/04/1987",
+    "documento_identidade": "908451210",
+    "órgão_emissor": "SNJ PI",
+    "UF": "",
+    "número_do_registro": "93110198699",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "",
+    "número_válido": ""
+}
+```

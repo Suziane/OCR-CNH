@@ -1,0 +1,23 @@
+Aqui está o resultado do reconhecimento dos campos em formato JSON:
+
+```json
+{
+    "nome": "ORENZE GUGLIEMI TAY",
+    "cpf": "828.182.765-35",
+    "filiação": "JACONELLI MILANEZ ASS CASTRO\nCALBERG DORIGAN RAIZE",
+    "data_nascimento": "11/07/1988",
+    "primeira_habilitação": "06/06/1980",
+    "validade": "27/06/1975",
+    "documento_identidade": "681819674 POM SP",
+    "órgão_emissor": "",
+    "uf": "SP",
+    "número_do_registro": "638073314848",
+    "data_de_nascimento": "",
+    "acc": "",
+    "permissão": "",
+    "categoria": "A",
+    "número_válido": ""
+}
+```
+
+Os campos foram preenchidos de acordo com as informações disponíveis na imagem, com valores em branco para aqueles que não puderam ser identificados.

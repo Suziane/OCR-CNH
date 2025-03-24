@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "BOZOLA MITSUYAMA AFELAR",
+  "cpf": "880.875.478-29",
+  "filiacao": "FOTORAN UZUELI LEVENST SILVA NOVI MERETTI BARBELLI SOARES",
+  "data_nascimento": "13/09/1962",
+  "primeira_habilitacao": "13/11/1966",
+  "validade": "20/09/2010",
+  "documento_identidade": "051975041",
+  "orgao_emissor": "SESP",
+  "uf": "BA",
+  "numero_registro": "24034030885",
+  "acc": "",
+  "permissao": "",
+  "categoria": "A",
+  "numero_valido": "597214506"
+}
+```

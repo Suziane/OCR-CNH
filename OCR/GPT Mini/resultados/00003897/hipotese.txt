@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "VALDILEI GRAVINA JULIVAL",
+  "cpf": "965.937.199-35",
+  "filiação": "DHEINY SHINODA SNIEFFE LIMA FOGACCIA BOLLINI STO REZENDE",
+  "data_nascimento": "21/09/2009",
+  "primeira_habilitação": "19/09/1988",
+  "validade": "01/03/1964",
+  "documento_identidade": "992537083",
+  "órgão_emissor": "SEJ",
+  "UF": "SF",
+  "número_registro": "910697555679",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "E",
+  "número_válido": "8361599877"
+}
+```

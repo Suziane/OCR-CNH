@@ -1,0 +1,22 @@
+Aqui está o resultado do reconhecimento dos campos solicitados, organizado em formato JSON:
+
+```json
+{
+    "nome": "ALFEU TSUKAYAMA DAQUINO",
+    "cpf": "546.652.486-72",
+    "filiacao": "BUSSIOL MANSORE FERREIRA, FIUSA MURRER VISCHI DAS NEVES",
+    "data_nascimento": "27/09/1985",
+    "primeira_habilitacao": "10/08/2013",
+    "validade": "24/09/2012",
+    "documento_identidade": "146412002 SNJ BA",
+    "orgao_emissor": "",
+    "uf": "BA",
+    "numero_registro": "52472966443",
+    "acc": "",
+    "permissao": "AB",
+    "categoria": "AB",
+    "numero_valido": "95437352"
+}
+```
+
+Valores não encontrados foram preenchidos com strings vazias.

@@ -1,0 +1,17 @@
+```json
+{
+    "nome": "BLESIO MINEIRA JARROUG",
+    "cpf": "199.565.524-45",
+    "filiação": "PISTELLI JACOB ASSENSO; BAUSELLS KAVAMURA LUV MELO",
+    "data_nascimento": "28/11/1992",
+    "primeira_habilitação": "10/03/1983",
+    "validade": "19/07/1960",
+    "documento_identidade": "7308606565",
+    "orgão_emissor": "SDS",
+    "uf": "PA",
+    "número_registro": "522740228200",
+    "acc": "",
+    "permissão": "C",
+    "categoria": ""
+}
+```

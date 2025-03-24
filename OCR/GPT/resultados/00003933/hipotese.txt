@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "RIDIGOLO PAYAR SUMITA",
+  "cpf": "056.233.611-00",
+  "filiacao": "MAZI CRISTINE PETINE, TAUHYL YASUKO OSSADA RODRIGUES",
+  "data_nascimento": "14/10/1961",
+  "primeira_habilitacao": "22/08/1995",
+  "validade": "18/12/1963",
+  "documento_identidade": "994374094",
+  "orgao_emissor": "SSP",
+  "uf": "MG",
+  "numero_registro": "275433342281",
+  "acc": "",
+  "permissao": "",
+  "categoria": "E",
+  "numero_valido": "399157895"
+}
+```

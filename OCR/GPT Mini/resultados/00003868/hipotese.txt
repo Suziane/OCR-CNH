@@ -1,0 +1,21 @@
+Aqui está a estrutura JSON com os campos reconhecidos a partir da imagem fornecida:
+
+```json
+{
+    "nome": "METOLINA DOTTO FRATEL",
+    "CPF": "944.024.117-93",
+    "filiação": "PUIME QUEBDAR JARDEL CAMPOS",
+    "data_de_nascimento": "28/10/1979",
+    "primeira_habilitação": "06/11/1954",
+    "validade": "31/08/1983",
+    "documento_de_identidade": "215680601",
+    "órgão_emissor": "SPTC",
+    "UF": "PB",
+    "número_do_registro": "52385291349",
+    "ACC": "",
+    "permissão": "B",
+    "número_válido": ""
+}
+```
+
+Caso algum campo não tenha sido encontrado, ele está representado como uma string vazia.

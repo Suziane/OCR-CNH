@@ -1,0 +1,21 @@
+Aqui está a estrutura solicitada em formato JSON com os campos reconhecidos:
+
+```json
+{
+  "nome": "NOVICKIS TAYSSA SCARABELI",
+  "cpf": "017.893.851-30",
+  "filiação": "CALISTO SCHICHVARGER SANTANA / YAMASAKI SOMENSI SIMONCELL PEREIRA",
+  "data_de_nascimento": "21/11/1952",
+  "primeira_habilitação": "30/10/2008",
+  "validade": "24/06/1965",
+  "documento_de_identidade": "125048245",
+  "orgão_emissor": "POF",
+  "UF": "PB",
+  "número_do_registro": "56981916124",
+  "ACC": "",
+  "permissão": "E",
+  "categoria": ""
+}
+```
+
+Os campos que não foram encontrados foram preenchidos como strings vazias conforme solicitado.

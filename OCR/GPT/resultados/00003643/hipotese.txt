@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "ALDER TREPICHE KLINCEVICIUS",
+  "CPF": "253.268.431-37",
+  "filiação": "KEIZO ESSI LIZAS, CERVELINI IKUTA TAKI",
+  "data de nascimento": "09/03/1987",
+  "primeira habilitação": "26/02/1987",
+  "validade": "29/04/1982",
+  "documento de identidade": "755944665",
+  "órgão emissor": "SDS",
+  "UF": "ES",
+  "número do registro": "38003128585",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "D",
+  "número válido": "103284553"
+}
+```

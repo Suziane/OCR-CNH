@@ -1,0 +1,23 @@
+Aqui está o JSON com os campos reconhecidos a partir da imagem fornecida:
+
+```json
+{
+    "nome": "GUABIRABA RIONDO GILBERTO",
+    "cpf": "143.318.555-54",
+    "filiação": "TOKESHI NAKID COMU DA MATA ARDUINO FALLEIROS LA SILVA",
+    "data de nascimento": "27/04/2017",
+    "primeira habilitação": "",
+    "validade": "18/12/1982",
+    "documento de identidade": "013032926",
+    "órgão emissor": "SJS PA",
+    "UF": "",
+    "número do registro": "91957596588",
+    "data de nascimento": "27/04/2017",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "",
+    "número válido": ""
+}
+```
+
+Note que alguns campos podem ter sido deixados em branco, pois não estavam visíveis ou não puderam ser reconhecidos na imagem.

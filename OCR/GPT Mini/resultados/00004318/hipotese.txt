@@ -1,0 +1,21 @@
+Aqui está o resultado do reconhecimento dos campos em formato JSON:
+
+```json
+{
+    "nome": "POLISEL IDINO AHMAD",
+    "CPF": "542.380.018-95",
+    "filiação": "DAILA LIBORIC BALEIRO; BONUGLI GIULIANO PAZ FARIAS",
+    "data_nascimento": "19/11/1964",
+    "primeira_habilitação": "14/03/1994",
+    "validade": "29/03/1952",
+    "documento_identidade": "664647157",
+    "órgão_emissor": "SSP",
+    "UF": "RS",
+    "número_registro": "732781046649",
+    "ACC": "E",
+    "permissão": "",
+    "número_válido": "394143621"
+}
+```
+
+Caso precise de mais informações ou modificações, sinta-se à vontade para solicitar!

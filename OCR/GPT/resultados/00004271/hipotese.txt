@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "MELOIAGO THEREZINHA LONGO",
+    "CPF": "528.130.350-33",
+    "filiação": "GIISLEY MIAGAVA ASSAD\nJESUS\nCEBALLOS MARQUESINI LINGI\nFARIAS",
+    "data_de_nascimento": "10/04/2007",
+    "primeira_habilitação": "22/03/2020",
+    "validade": "19/08/2022",
+    "documento_de_identidade": "792402987",
+    "órgão_emissor": "SSP",
+    "UF": "PR",
+    "número_do_registro": "17442644135",
+    "ACC": "A",
+    "permissão": "",
+    "categoria": "AB",
+    "número_válido": "672134230"
+}
+```

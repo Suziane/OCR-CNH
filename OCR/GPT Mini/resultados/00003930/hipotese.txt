@@ -1,0 +1,21 @@
+Aqui está o resultado do reconhecimento dos campos contidos na imagem, organizado em um arquivo JSON:
+
+```json
+{
+  "nome": "CONTANI ZAVITOSKI SAVASTA",
+  "cpf": "698.771.771-28",
+  "filiação": "KITABAYASHI NAGILTON AGY GOLINELI CARLIN OUTAK NUNES",
+  "data_nascimento": "24/11/2002",
+  "primeira_habilitação": "17/03/1960",
+  "validade": "26/08/2013",
+  "documento_identidade": "425975847",
+  "órgão_emissor": "PI",
+  "uf": "PI",
+  "número_registro": "92549655355",
+  "acc": "",
+  "permissão": "",
+  "categoria": ""
+}
+```
+
+Caso tenha mais perguntas ou precise de mais informações, sinta-se à vontade para perguntar!

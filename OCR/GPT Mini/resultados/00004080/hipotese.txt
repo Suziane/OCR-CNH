@@ -1,0 +1,22 @@
+Aqui está o resultado organizado em um formato JSON, com os campos reconhecidos da imagem:
+
+```json
+{
+    "nome": "HELEODCRO SHAIDDY SAADE",
+    "CPF": "415.676.680-20",
+    "filiação": "KITABAYASHI BERGS",
+    "data_de_nascimento": "01/07/2002",
+    "primeira_habilitação": "29/07/2010",
+    "validade": "30/04/2022",
+    "documento_de_identidade": "965583830 SDS SC",
+    "órgão_emissor": "",
+    "UF": "",
+    "número_do_registro": "9611785402",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "B",
+    "número_válido": ""
+}
+```
+
+Os campos em branco indicam informações não reconhecidas na imagem.

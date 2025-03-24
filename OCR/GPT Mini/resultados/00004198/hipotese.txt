@@ -1,0 +1,21 @@
+Aqui está o resultado formatado em JSON com os campos reconhecidos:
+
+```json
+{
+    "nome": "MASSAIT NORMANDIA COLE",
+    "cpf": "416.023.19-36",
+    "filiação": "POLEZZE GIOVANE FOGAGN SILVA CEACON REIFT PIEROBOM SOARES",
+    "data_de_nascimento": "05/12/1969",
+    "primeira_habilitação": "",
+    "validade": "16/01/1969",
+    "documento_de_identidade": "648860486",
+    "órgão_emissor": "SDS MS",
+    "uf": "",
+    "número_do_registro": "19240892952",
+    "acc": "C",
+    "permissão": "",
+    "categoria": ""
+}
+``` 
+
+Os campos não encontrados foram preenchidos com strings vazias.

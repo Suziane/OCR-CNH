@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "GRAZIA GYSELE EVA",
+  "CPF": "626.527.803-79",
+  "filiação": "LÉLO ASSALVE ZENDHI, BIROLI NEJEM BISCOI NUNES",
+  "data_nascimento": "15/10/1967",
+  "primeira_habilitação": "21/10/1964",
+  "validade": "01/03/2016",
+  "documento_identidade": "95415781-3",
+  "órgão_emissor": "SPTC",
+  "UF": "MA",
+  "número_do_registro": "73639121205",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "E",
+  "número_válido_lateral": "589270640"
+}
+```

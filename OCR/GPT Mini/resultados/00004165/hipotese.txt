@@ -1,0 +1,17 @@
+```json
+{
+  "nome": "KWAST JUN STABILE",
+  "CPF": "801.120.017-85",
+  "filiação": "GRETA KULLER ROMANI\nMORACO NICOLAI PASCOAL REZENDE",
+  "data_de_nascimento": "18/06/1955",
+  "primeira_habilitação": "25/10/1991",
+  "validade": "03/02/2005",
+  "documento_de_identidade": "555719480",
+  "órgão_emissor": "SDS",
+  "UF": "SP",
+  "número_do_registro": "3857333486",
+  "ACC": "C",
+  "permissão": "",
+  "categoria": ""
+}
+```

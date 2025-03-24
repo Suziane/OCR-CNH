@@ -1,0 +1,21 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos da imagem:
+
+```json
+{
+  "nome": "DAGNOLUZZO LAZAR CAFUNDO",
+  "CPF": "581.656.852-36",
+  "filiação": "SPINDEL BENKERT MAU\nMINEOKA PIERALLINI TI FERNANDES",
+  "data_de_nascimento": "17/09/1996",
+  "primeira_habilitação": "22/01/1960",
+  "validade": "04/08/1952",
+  "documento_de_identidade": "892705516 SES RS",
+  "órgão_emissor": "SES",
+  "UF": "RS",
+  "número_do_registro": "13371968647",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "",
+  "número_válido": "434720076"
+}
+```
+Caso haja mais alguma informação que você precise, é só avisar!

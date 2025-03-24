@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "CALSOLARI ABDALLA KAHJU",
+    "cpf": "917.398.078-12",
+    "filiação": "FRAZÃO ARAM VINCO DA PAZ, GERALDI ZIRALDO GUACIR VIANA",
+    "data_de_nascimento": "03/03/2014",
+    "primeira_habilitação": "",
+    "validade": "18/12/1957",
+    "documento_de_identidade": "568534360",
+    "órgão_emissor": "SJS",
+    "uf": "RS",
+    "número_do_registro": "11373173884",
+    "acc": "",
+    "permissão": "D",
+    "categoria": "",
+    "número_válido": "795425549"
+}
+```

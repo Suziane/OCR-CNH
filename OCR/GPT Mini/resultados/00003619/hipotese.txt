@@ -1,0 +1,22 @@
+Aqui está o resultado reconhecido da imagem em formato JSON:
+
+```json
+{
+  "nome": "GROSSO KENNDY LYUSSEI",
+  "CPF": "103.980.426-83",
+  "filiação": "FREGONASSI BERTATO C ALMEIDA PARAGUAÇU RICARD YOSHIO NASCIMENTO",
+  "data_de_nascimento": "30/07/1986",
+  "primeira_habilitação": "20/06/2004",
+  "validade": "23/09/2000",
+  "documento_de_identidade": "778386867",
+  "órgão_emissor": "SPTC",
+  "UF": "MG",
+  "número_do_registro": "99147972459",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número_válido": ""
+}
+``` 
+
+Se precisar de mais alguma coisa, é só avisar!

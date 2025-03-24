@@ -1,0 +1,21 @@
+Aqui está o reconhecimento dos campos solicitados organizados em um arquivo JSON:
+
+```json
+{
+  "nome": "OZIJAK OTACILIO MENEGARIO",
+  "cpf": "675.859.221-91",
+  "filiação": "MARINALVA PETELINCAR V RODRIGUES SALVAIT JUBRAN JORDON ALVES",
+  "data_nascimento": "08/01/1972",
+  "primeira_habilitação": "27/05/1968",
+  "validade": "17/11/1974",
+  "documento_identidade": "806450125",
+  "orgao_emissor": "POM",
+  "uf": "MG",
+  "numero_registro": "37688077498",
+  "acc": "",
+  "permissao": "A",
+  "categoria": ""
+}
+```
+
+Caso tenha alguma dúvida ou precise de mais informações, estou à disposição!

@@ -1,0 +1,20 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos:
+
+```json
+{
+    "nome": "ORMENEZE GUGLIELMI TAY",
+    "cpf": "828.182.765-35",
+    "filiação": "IACONELLI MILANEZ ASS CASTRO, DALBERG DORIGAN RAIZE",
+    "data_nascimento": "11/07/1988",
+    "primeira_habilitação": "06/06/1980",
+    "validade": "27/07/1975",
+    "documento_identidade": "681819674 POM SP",
+    "órgão_emissor": "",
+    "uf": "",
+    "número_do_registro": "638073314848",
+    "acc": "",
+    "permissão": "A",
+    "categoria": ""
+}
+```
+Se precisar de mais algumas informações ou ajustes, estou à disposição!

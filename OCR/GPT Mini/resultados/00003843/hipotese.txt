@@ -1,0 +1,21 @@
+Aqui está o reconhecimento dos campos solicitados organizados em formato JSON:
+
+```json
+{
+  "nome": "AIARON DELANO REHEN",
+  "CPF": "570.317.823-17",
+  "filiação": "DELORENZO THEODOR ANSA\nSONODA MAZI AMADEO RAMOS",
+  "data_de_nascimento": "31/10/1967",
+  "primeira_habilitação": "07/11/2001",
+  "validade": "20/06/2009",
+  "documento_de_identidade": "174035810",
+  "órgão_emissor": "SPTC",
+  "UF": "MA",
+  "número_do_registro": "61203017168",
+  "ACC": "",
+  "permissão": "E",
+  "categoria": ""
+}
+```
+
+Caso precise de mais informações ou outro formato, é só avisar!

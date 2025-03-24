@@ -1,0 +1,17 @@
+```json
+{
+    "nome": "ALHO GRACIELLI BARRETA",
+    "CPF": "580.147.522-28",
+    "filiação": "PAULWILSON MASAHARU TOL, CRUZ YUUKI ZANGUETTIN CARVALHO",
+    "data_nascimento": "11/08/1975",
+    "primeira_habilitação": "15/04/1976",
+    "validade": "18/08/1996",
+    "documento_identidade": "411006332",
+    "órgão_emissor": "SJS",
+    "UF": "PI",
+    "número_do_registro": "02709070295",
+    "ACC": "",
+    "permissão": "AB",
+    "categoria": ""
+}
+```

@@ -1,0 +1,22 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos a partir da imagem:
+
+```json
+{
+    "nome": "TRUCCO MITISCO HATAJIMA",
+    "cpf": "158.423.926-00",
+    "filiação": "CAPELLO KAE OLAIO MENDES TAFARELLO VALDASTRI OLIVEIRA",
+    "data_nascimento": "13/02/1956",
+    "primeira_habilitação": "01/11/1992",
+    "validade": "25/04/1985",
+    "documento_identidade": "290045836 POE SP",
+    "órgão_emissor": "DEPARTAMENTO NACIONAL DE TRÂNSITO",
+    "uf": "",
+    "número_registro": "",
+    "acc": "",
+    "permissão": "",
+    "categoria": "",
+    "número_válido": ""
+}
+```
+
+Caso precise de mais informações ou ajude em algo mais, fico à disposição!

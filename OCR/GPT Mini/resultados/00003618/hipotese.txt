@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "CURI STEPHANIE CAIRO",
+    "cpf": "123.001.255-00",
+    "filiação": "IGRECIAS TSUBOI TULLIU ZANOTELLO CANALI FILS DA ROSA",
+    "data_nascimento": "05/05/1994",
+    "primeira_habilitação": "28/07/1970",
+    "validade": "28/08/2019",
+    "documento_identidade": "968703021",
+    "orgão_emissor": "SESP",
+    "uf": "SP",
+    "número_registro": "65956990728",
+    "acc": "",
+    "permissão": "",
+    "categoria": "A3",
+    "número_válido": "512783801"
+}
+```

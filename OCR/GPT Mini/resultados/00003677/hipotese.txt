@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "GUERLENDA PAZIANT TAROUCO",
+    "cpf": "437.906.151-5",
+    "filiação": "PALOMO DJALMA PRENDALIA SHIGAKI MIYATAKE SOUZA",
+    "data_nascimento": "04/04/1979",
+    "primeira_habilitação": "",
+    "validade": "04/04/1999",
+    "documento_identidade": "0667665170",
+    "órgão_emissor": "",
+    "UF": "SC",
+    "número_registro": "776346693",
+    "data_nascimento_2": "04/04/1979",
+    "acc": "",
+    "permissão": "AB",
+    "número_válido": ""
+}
+```

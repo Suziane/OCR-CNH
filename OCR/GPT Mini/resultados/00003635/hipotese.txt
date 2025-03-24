@@ -1,0 +1,22 @@
+Aqui está o resultado organizado em formato JSON, conforme solicitado:
+
+```json
+{
+  "nome": "DUENAS CEZARINO YUKIE",
+  "CPF": "149.053.962-04",
+  "filiação": "BERTAGNOLI KORITAKI GRAN KUNITAKE BAPTISTELLA B",
+  "data_de_nascimento": "01/02/2007",
+  "primeira_habilitação": "05/04/1995",
+  "validade": "01/04/1967",
+  "documento_de_identidade": "748312754",
+  "órgão_emissor": "SDS",
+  "UF": "RS",
+  "número_do_registro": "39947019684",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "",
+  "número_válido": "154670489"
+}
+```
+
+Caso precisem de mais informações, estou à disposição!

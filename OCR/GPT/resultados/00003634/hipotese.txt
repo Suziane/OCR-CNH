@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "FREINDORFER LINHARES SUSHIA",
+  "CPF": "859.930.469-02",
+  "filiação": "GUIZILINI MELI ARTU OLIVEIRA COSTIUC SUZARTE VALFREDO SALES",
+  "data de nascimento": "21/09/2010",
+  "primeira habilitação": "05/04/1979",
+  "validade": "28/05/2003",
+  "documento de identidade": "065020438",
+  "órgão emissor": "SESP",
+  "UF": "PB",
+  "número do registro": "61585325976",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número válido": "039628051"
+}
+```

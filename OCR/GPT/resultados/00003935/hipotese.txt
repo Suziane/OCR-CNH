@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "CLAUSER CARRI NICOLI",
+  "CPF": "537.990.924-80",
+  "filiação": "BATELLO ZANARDI RZEPIA SILVEIRA, KENITH FELIZALI BOSE DUARTE",
+  "data_nascimento": "24/01/1958",
+  "primeira_habilitação": "08/08/2010",
+  "validade": "01/07/1962",
+  "documento_identidade": "809818784",
+  "órgão_emissor": "SNJ",
+  "UF": "MG",
+  "número_registro": "91727942068",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "D",
+  "número_válido": "136032271"
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "BISETTI MIRIAN NAGY",
+    "CPF": "281.450.749-40",
+    "filiação": "SESSTTO PRADA DANILA, BRAGA ARAGAKI WASTHY DA MOTA",
+    "data_nascimento": "11/05/1995",
+    "primeira_habilitação": "09/12/2000",
+    "validade": "26/03/2011",
+    "documento_identidade": "503540274",
+    "órgão_emissor": "SSP",
+    "UF": "ES",
+    "número_registro": "24215093286",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "E",
+    "número_válido": "824628360"
+}
+```

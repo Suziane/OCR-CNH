@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "WENDY TORIANI KANAMURA",
+  "CPF": "245.480.977-08",
+  "filiação": "GUNNAR HESSER SKWARA RODRIGUES, MAGDA HATAKEYAMA TEIXEIRA",
+  "data de nascimento": "01/11/1980",
+  "primeira habilitação": "30/10/2004",
+  "validade": "14/06/1974",
+  "documento de identidade": "750590932",
+  "órgão emissor": "SSP",
+  "UF": "MG",
+  "número do registro": "48499850135",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número válido": "223204875"
+}
+```

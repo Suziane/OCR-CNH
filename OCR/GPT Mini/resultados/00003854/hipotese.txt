@@ -1,0 +1,21 @@
+Aqui está o JSON com os dados reconhecidos a partir da imagem fornecida:
+
+```json
+{
+  "nome": "SANTO STUART ARCO",
+  "cpf": "178.407.081-53",
+  "filiacao": "IMORI SARAVALLE ZAMARI VIEIRA BRONZATI GRIZZO NA CAMPOS",
+  "data_nascimento": "29/05/1992",
+  "primeira_habilitacao": "15/04/1955",
+  "validade": "27/12/1997",
+  "documento_identidade": "886612999",
+  "orgao_emissor": "SE",
+  "uf": "CE",
+  "numero_registro": "24223855156",
+  "acc": "B",
+  "permissao": "",
+  "numero_valido": "912415290"
+}
+```
+
+Certifique-se de que todos os dados estejam corretos e de acordo com suas necessidades. Se precisar de mais informações ou ajustes, sinta-se à vontade para pedir!

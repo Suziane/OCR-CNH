@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "MILOGRANA ROBBA ROSE",
+    "CPF": "990.711.979-21",
+    "filiação": "TEDDY ALBANEZ ATIQ REZENDE VEGINI CANGUSSU TSUGI",
+    "data de nascimento": "18/03/1989",
+    "primeira habilitação": "24/12/1999",
+    "validade": "17/05/1995",
+    "documento de identidade": "344049690",
+    "órgão emissor": "SPTC",
+    "UF": "MG",
+    "número do registro": "10429792199",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "E",
+    "número válido": "041102069"
+}
+```

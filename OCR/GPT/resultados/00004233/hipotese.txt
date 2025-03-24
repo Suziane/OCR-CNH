@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "URRUTIA HAMER OSIMA",
+    "cpf": "248.678.969-71",
+    "filiacao": "RA MARCHESAN PONCIO, SINDY MESRIN MEZZANO",
+    "data_de_nascimento": "10/09/1994",
+    "primeira_habilitacao": "12/09/2005",
+    "validade": "14/12/1951",
+    "documento_de_identidade": "581174692",
+    "orgao_emissor": "POF",
+    "uf": "CE",
+    "numero_do_registro": "96205923738",
+    "acc": "",
+    "permissao": "",
+    "categoria": "C",
+    "numero_valido": "874875871"
+}
+```

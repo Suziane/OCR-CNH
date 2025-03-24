@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "PEZZO JADER AMANDAE",
+  "cpf": "331.265.452-11",
+  "filiacao": "RAINHO MARAMBIO SHIINO RODRIGUES, PULTRINI GRACIANGELA YUIC MOURA",
+  "data_nascimento": "06/10/1977",
+  "primeira_habilitacao": "01/08/1977",
+  "validade": "14/11/1995",
+  "documento_identidade": "549081811",
+  "orgao_emissor": "SSP",
+  "uf": "AM",
+  "numero_registro": "36666380088",
+  "permissao": "",
+  "acc": "",
+  "categoria": "AB",
+  "numero_valido": "000790548"
+}
+```

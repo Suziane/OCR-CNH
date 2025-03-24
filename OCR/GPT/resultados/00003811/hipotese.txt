@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "NOVICKIS TAYSSA SCARABELI",
+  "CPF": "017.893.851-30",
+  "filiação": "CALISTO SCHICHVARGER SANTANA\nYAMASAKI SOMENSI SIMONCELI PEREIRA",
+  "data de nascimento": "21/11/1952",
+  "primeira habilitação": "30/10/2008",
+  "validade": "24/06/1965",
+  "documento de identidade": "125048245",
+  "órgão emissor": "POF",
+  "UF": "PB",
+  "número do registro": "56981916124",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "E",
+  "número válido": "157457674"
+}
+```

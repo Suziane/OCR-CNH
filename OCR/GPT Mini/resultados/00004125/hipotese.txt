@@ -1,0 +1,20 @@
+Aqui está o resultado do reconhecimento dos campos solicitados, organizado em um formato JSON:
+
+```json
+{
+  "nome": "MECHI FERRARONI MONTAGNERI",
+  "cpf": "869.859.147-72",
+  "filiação": "DONGIU JOANELLI NENIS MOURA\nPYTEL KAERIYAMA MAROSO ALVES",
+  "data_de_nascimento": "14/08/1982",
+  "primeira_habilitação": "04/06/1962",
+  "validade": "25/02/1966",
+  "documento_de_identidade": "174243960",
+  "orgão_emissor": "POF",
+  "uf": "MG",
+  "número_do_registro": "713220228933",
+  "acc": "",
+  "permissão": "",
+  "categoria": "A",
+  "número_válido": "906704590"
+}
+```

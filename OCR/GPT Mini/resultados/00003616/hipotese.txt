@@ -1,0 +1,17 @@
+```json
+{
+  "nome": "MUZZIO RICARD FRIEDLA",
+  "cpf": "431.543.784-05",
+  "filiação": "KIVIA CIRINEU LYRA STRONGOLI LARANJO PEREIRA",
+  "data_nascimento": "09/05/1952",
+  "primeira_habilitação": "01/02/1978",
+  "validade": "28/05/1989",
+  "documento_identidade": "161563491",
+  "orgão_emissor": "POM",
+  "uf": "BA",
+  "número_registro": "94468362379",
+  "acc": "",
+  "permissão": "D",
+  "categoria": ""
+}
+```

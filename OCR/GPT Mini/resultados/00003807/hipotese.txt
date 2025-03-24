@@ -1,0 +1,23 @@
+Aqui está o resultado no formato JSON, conforme solicitado:
+
+```json
+{
+    "nome": "YOURIEVICH PULZATTO THOMAZINI",
+    "cpf": "297.643.602-97",
+    "filiação": "SATIE FRANCINI VITORETTI CESTARI DOLIVE DA COSTA",
+    "data_de_nascimento": "16/09/2017",
+    "primeira_habilitação": "",
+    "validade": "13/10/1959",
+    "documento_de_identidade": "349732676",
+    "órgão_emissor": "PI",
+    "UF": "",
+    "número_do_registro": "546137373330",
+    "data_de_nascimento_2": "",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "E",
+    "número_válido": "476087218"
+}
+```
+
+Caso precise de mais alguma coisa, estou à disposição!

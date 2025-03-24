@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "MATSUDA URBINATI LEI",
+    "CPF": "658.319.096-74",
+    "filiação": "LING PIETE DELGATTO, TRANSLAITI HILDA SOTTO",
+    "data_de_nascimento": "28/05/1953",
+    "primeira_habilitação": "",
+    "validade": "26/11/2004",
+    "documento_de_identidade": "752797554",
+    "órgão_emissor": "SEZ",
+    "UF": "MT",
+    "número_do_registro": "87726787399",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "D",
+    "número_válido": "114579523"
+}
+```

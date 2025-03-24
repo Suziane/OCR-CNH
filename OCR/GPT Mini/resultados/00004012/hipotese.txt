@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "SCHUNCK BONIFACI ESPERANDIO",
+  "CPF": "267.207.179-95",
+  "filiação": "MOLINARI KAMEYO JO CARVALHO POYART TENENBOJM POLACOW",
+  "data_de_nascimento": "23/07/1963",
+  "primeira_habilitação": "16/04/1989",
+  "validade": "15/03/1994",
+  "documento_identidade": "360862293 SDS MG",
+  "órgão_emissor": "",
+  "UF": "",
+  "número_do_registro": "023233057825",
+  "ACC": "",
+  "permissão": "B",
+  "categoria": "E",
+  "número_válido": "276290896"
+}
+```

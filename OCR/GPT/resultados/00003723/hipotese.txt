@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "BRAGUIERI BRADNA VASILC",
+  "CPF": "290.698.191-55",
+  "filiação": "ALYNE WEIDLE RAFACHO, FLAMINIO CANTARELI MORAES",
+  "data de nascimento": "06/03/1953",
+  "primeira habilitação": "13/03/1986",
+  "validade": "26/06/2017",
+  "documento de identidade": "868286084",
+  "órgão emissor": "SSP",
+  "UF": "MG",
+  "número do registro": "85652449733",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número válido": "014667897"
+}
+```

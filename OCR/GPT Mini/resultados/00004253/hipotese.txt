@@ -1,0 +1,21 @@
+Com base nos dados fornecidos na imagem, aqui está o resultado organizado em formato JSON:
+
+```json
+{
+  "nome": "BAYLAO IMIRIM CASTIGLIONI",
+  "CPF": "385.204.666-13",
+  "filiação": "SCISCI ALBOLEA RAIN COSTA, SHIGUEHIRO VELLEGO DAO",
+  "data_de_nascimento": "09/09/2006",
+  "primeira_habilitação": "01/03/1955",
+  "validade": "16/02/1989",
+  "documento_de_identidade": "922705069",
+  "órgão_emissor": "POM",
+  "UF": "RS",
+  "número_do_registro": "53880518131",
+  "ACC": "D",
+  "permissão": "PERMISSÃO",
+  "número_válido": ""
+}
+```
+
+Se algum campo não estiver presente na imagem, seu valor está como uma string vazia ('').

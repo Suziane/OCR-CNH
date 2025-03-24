@@ -1,0 +1,21 @@
+```json
+{
+  "nome": "THARIN HISAMI SEGOVIA",
+  "CPF": "344.403.641-87",
+  "filiação": [
+    "TESSAROLLI ALLI COBIAK",
+    "ELANIO MADRID UXARA PEREIRA"
+  ],
+  "data de nascimento": "25/06/2008",
+  "primeira habilitação": "11/05/1969",
+  "validade": "06/03/2005",
+  "documento de identidade": "905358258",
+  "órgão emissor": "SES",
+  "UF": "MT",
+  "número do registro": "80103166544",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número válido": "817918519"
+}
+```

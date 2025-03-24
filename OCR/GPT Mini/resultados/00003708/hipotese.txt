@@ -1,0 +1,22 @@
+Aqui está o JSON com os dados reconhecidos da imagem:
+
+```json
+{
+    "nome": "COLIN DESTEFANO QUIREZA",
+    "cpf": "837.629.283-80",
+    "filiação": "CERA TORRALVO CAMPANHÃO; DARIUS MASSAO SCHUCHMANN",
+    "data_nascimento": "20/12/1982",
+    "primeira_habilitação": "10/06/2002",
+    "validade": "09/09/1982",
+    "documento_identidade": "770120787",
+    "orgão_emissor": "SJS",
+    "uf": "SP",
+    "número_registro": "96603318314",
+    "acc": "",
+    "permissão": "",
+    "categoria": "D",
+    "número_válido": "262612878"
+}
+```
+
+Caso precise de mais informações ou ajustes, estou à disposição!

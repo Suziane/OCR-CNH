@@ -1,0 +1,21 @@
+Aqui está o reconhecimento dos campos contidos na imagem, organizados em um formato JSON:
+
+```json
+{
+  "nome": "NOCITI CHIMINE FRASÃO",
+  "CPF": "771.841.899-00",
+  "filiação": "MEINSCHMIET JR. PERSIRA HOSIASSON RODNEY ANGELICA MENDES",
+  "data_de_nascimento": "22/09/1973",
+  "primeira_habilitação": "18/09/1951",
+  "validade": "29/03/2013",
+  "documento_de_identidade": "8595283",
+  "órgão_emissor": "MA",
+  "UF": "MA",
+  "número_do_registro": "883341157",
+  "ACC": "",
+  "permissão": "",
+  "categoria": ""
+}
+```
+
+Se houver campos que você não conseguiu encontrar ou que não estão presentes na imagem, esses campos foram atribuídos como strings vazias conforme solicitado.

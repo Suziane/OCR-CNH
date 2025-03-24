@@ -1,0 +1,17 @@
+```json
+{
+    "nome": "NORMANHA HUMANITSCHUK PRETI",
+    "cpf": "730.188.933-01",
+    "filiacao": "TCHIZLI FUZIY C ARAUJO HAJALA JADE KLEINHAPPEL COSTA",
+    "data_nascimento": "31/07/2017",
+    "primeira_habilitacao": "17/10/1966",
+    "validade": "30/09/1968",
+    "documento_identidade": "502415186",
+    "orgao_emissor": "SESP",
+    "uf": "SP",
+    "numero_registro": "03748820310",
+    "perm_coragem": "",
+    "categoria": "ACC",
+    "numero_valido": "3793797"
+}
+```

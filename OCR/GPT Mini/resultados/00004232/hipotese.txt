@@ -1,0 +1,22 @@
+Aqui está o resultado em formato JSON com os dados reconhecidos da imagem fornecida:
+
+```json
+{
+  "nome": "TORELLI SISTI BAYEUX",
+  "CPF": "447.150.079-95",
+  "filiação": "MASÚLA WOWR COGLIATTI PINTO ZONA RINDEIKA YOSHIYE LIMA",
+  "data_nascimento": "28/03/1985",
+  "primeira_habilitação": "25/09/1998",
+  "validade": "06/04/1965",
+  "documento_identidade": "391139279 SEJ PE",
+  "órgão_emissor": "",
+  "UF": "",
+  "número_registro": "3894030361",
+  "ACC": "",
+  "permissão": "PERMISSÃO",
+  "categoria": "E",
+  "número_válido": "8756622350"
+}
+```
+
+Os campos que não puderam ser reconhecidos foram deixados como strings vazias.

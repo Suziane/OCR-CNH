@@ -1,0 +1,17 @@
+```json
+{
+  "nome": "GUILHEN SARINA HONRUBI",
+  "CPF": "869.060.742-02",
+  "filiação": "MALTO HIKARU HUECK DA CUNHA\nOLTEMANN STWYTY JACCO",
+  "data_de_nascimento": "06/01/1972",
+  "primeira_habilitação": "17/08/1983",
+  "validade": "23/07/1997",
+  "documento_de_identidade": "3333564613 SSP RS",
+  "órgão_emissor": "SSP",
+  "UF": "RS",
+  "número_do_registro": "55149397035",
+  "ACC": "",
+  "permissão": "A",
+  "categoria": ""
+}
+```

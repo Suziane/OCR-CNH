@@ -1,0 +1,19 @@
+```json
+{
+    "nome": "RUDY MIORI GALLAGHER",
+    "CPF": "27821845353",
+    "filiação": "LEMKE ZUFO SACA / JACOPETTI BERTONCELLO NASCIMENTO",
+    "data_de_nascimento": "29/03/1993",
+    "primeira_habilitação": "03/05/2013",
+    "validade": "07/08/1999",
+    "documento_de_identidade": "223395540",
+    "órgão_emissor": "",
+    "UF": "",
+    "número_do_registro": "70483330377",
+    "data_de_nascimento_repetida": "29/03/1993",
+    "ACC": "",
+    "permissão": "B",
+    "categoria": "B",
+    "número_válido": ""
+}
+```

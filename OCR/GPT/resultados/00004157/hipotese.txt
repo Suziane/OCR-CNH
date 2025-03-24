@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "BACATIN MARAN TORRACA",
+  "CPF": "364.161.389-57",
+  "filiação": "COPEDIA KIPIPER LANCONI, BETIOT CARAGIEASCO CHESSA",
+  "data de nascimento": "12/06/1978",
+  "primeira habilitação": "24/01/1961",
+  "validade": "05/12/1978",
+  "documento de identidade": "305337889",
+  "órgão emissor": "SEJ",
+  "UF": "BA",
+  "número do registro": "84117630014",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "D",
+  "número válido": "839980313"
+}
+```

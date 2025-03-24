@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "VICTOR ROSSELINI OCTAVIANO",
+  "CPF": "068.962.517-00",
+  "filiação": "DALMAU REGIS TADDE LOPES CORTEZ SQUASSONI FAS DAS NEVES",
+  "data de nascimento": "20/01/1961",
+  "primeira habilitação": "05/02/2014",
+  "validade": "05/12/2000",
+  "documento de identidade": "750444392",
+  "órgão emissor": "SEJ",
+  "UF": "RS",
+  "número do registro": "71377147240",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número válido": "096749586"
+}
+```

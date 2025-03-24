@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "LORENZO FARIUZZO FARESEL",
+  "CPF": "932.584.828-83",
+  "filiação": "ERINALDO MORAES MOR, CATALENTI FALCINI MONES, RONADES",
+  "data de nascimento": "28/03/1964",
+  "primeira habilitação": "31/08/2001",
+  "validade": "02/02/2023",
+  "documento de identidade": "469791936",
+  "órgão emissor": "SSP",
+  "UF": "SP",
+  "número do registro": "15393065946",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número válido": "285768217"
+}
+```

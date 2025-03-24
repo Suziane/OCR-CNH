@@ -1,0 +1,21 @@
+Aqui está o resultado organizado em formato JSON com base nos campos reconhecidos:
+
+```json
+{
+    "nome": "BLAUD ZINI MOIGLI",
+    "cpf": "131.334.317-06",
+    "filiação": "METOLINA VALADAS SORAG",
+    "data_nascimento": "08/07/1997",
+    "primeira_habilitação": "09/10/1960",
+    "validade": "21/12/1999",
+    "documento_identidade": "045229600",
+    "órgão_emissor": "SPTC",
+    "uf": "RR",
+    "número_registro": "473352583686",
+    "acc": "AB",
+    "permissão": "",
+    "categoria": ""
+}
+```
+
+Caso tenha mais perguntas ou precise de ajustes, fique à vontade para pedir!

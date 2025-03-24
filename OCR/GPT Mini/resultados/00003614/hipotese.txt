@@ -1,0 +1,21 @@
+Aqui está o resultado organizado em formato JSON com os campos reconhecidos a partir da imagem fornecida:
+
+```json
+{
+    "nome": "BONISSI ALEXANDRIA DULCE",
+    "CPF": "026.348.958-28",
+    "filiação": "GIARDINO MARTINATI MAU / ORBEA ENEDINO CONCHETTI CARVALHO",
+    "data_nascimento": "25/01/1990",
+    "primeira_habilitação": "",
+    "validade": "26/07/1990",
+    "documento_identidade": "080032667 SESP RS",
+    "órgão_emissor": "SESP RS",
+    "UF": "RS",
+    "número_registro": "1094668264",
+    "ACC": "",
+    "permissão": "B",
+    "número_válido": "99629428"
+}
+```
+
+Caso precise de mais alguma informação, é só avisar!

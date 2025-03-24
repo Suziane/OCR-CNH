@@ -1,0 +1,17 @@
+```json
+{
+  "nome": "GALHA SUEMI MEZZALIRA",
+  "CPF": "090.643.825-06",
+  "filiação": "AKIHITO KAWABE DIEHL PEREIRA WALCINYR TOGO FARHAT",
+  "data_nascimento": "25/10/2019",
+  "1ª_habilitação": "20/04/1997",
+  "validade": "01/08/1971",
+  "documento_identidade": "957671234",
+  "órgão_emissor": "SDS",
+  "UF": "RN",
+  "número_do_registro": "506599220643",
+  "ACC": "",
+  "permissão": "E",
+  "número_válido": ""
+}
+```

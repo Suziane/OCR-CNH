@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "DAGNOLUZZO LAZAR CAFUNDO",
+  "CPF": "581.656.852-36",
+  "filiação": "SPINDEL BENKERT MAU MINEOKA PIERALLINI TI FERNANDES",
+  "data de nascimento": "17/09/1996",
+  "primeira habilitação": "22/01/1960",
+  "validade": "04/08/1952",
+  "documento de identidade": "892705516",
+  "órgão emissor": "SES",
+  "UF": "RS",
+  "número do registro": "1337196647",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "",
+  "número válido": "434720076"
+}
+```

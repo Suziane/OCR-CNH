@@ -1,0 +1,21 @@
+Aqui está o reconhecimento dos campos solicitados organizados em um arquivo JSON:
+
+```json
+{
+  "nome": "OREFICE NASTAJA HAREIHIKO",
+  "CPF": "840.530.662-55",
+  "filiação": "MONGUILMOTT JACOTE BRI\nCORDOVA CRISTANTE VLAMIR NCGUEIRA",
+  "data_nascimento": "07/04/2017",
+  "primeira_habilitação": "25/05/1970",
+  "validade": "05/04/1957",
+  "documento_identidade": "802218076",
+  "órgão_emissor": "PCM",
+  "UF": "RS",
+  "número_do_registro": "5043988622",
+  "ACC": "",
+  "permissão": "C",
+  "categoria": ""
+}
+```
+
+Caso precise de mais ajuda, estou à disposição!

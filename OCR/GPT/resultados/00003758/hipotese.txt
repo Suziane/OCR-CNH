@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "IMYRA ZANONI ALLEONI",
+  "CPF": "952.521.119-52",
+  "filiação": "PAI: KRAIT BIAGIOC ESTEPEHAN MÃE: PETTY NAIL LAUR SALES",
+  "data de nascimento": "01/08/1986",
+  "primeira habilitação": "17/09/2013",
+  "validade": "",
+  "documento de identidade": "26.481.154-9",
+  "órgão emissor": "SSP",
+  "UF": "PE",
+  "número do registro": "20090123940",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número válido": "410945090"
+}
+```

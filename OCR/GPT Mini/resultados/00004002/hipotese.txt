@@ -1,0 +1,22 @@
+Aqui está o resultado do reconhecimento dos campos solicitados, organizado em formato JSON:
+
+```json
+{
+    "nome": "GRACIANGELA ADALTO FAARA",
+    "CPF": "753.634.575-55",
+    "filiação": "STAIBANO ANZUATEG NOVARES\nTAROUCO BETTINA ZISKIND MENDES",
+    "data_de_nascimento": "30/11/1983",
+    "primeira_habilitação": "17/11/2002",
+    "validade": "11/07/2017",
+    "documento_de_identidade": "7870353427",
+    "órgão_emissor": "SSP SC",
+    "UF": "SC",
+    "número_do_registro": "701480180848",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "",
+    "número_válido": "788351269"
+}
+```
+
+Se precisar de mais ajuda, é só avisar!

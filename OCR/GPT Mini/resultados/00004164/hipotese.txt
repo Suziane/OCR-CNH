@@ -1,0 +1,22 @@
+Aqui está o reconhecimento dos campos solicitados organizados em um formato JSON:
+
+```json
+{
+  "nome": "MATSUDA URBINATI LEI",
+  "CPF": "682.319.696-74",
+  "filiação": "LINTI PIEVE DELGATICO, TRANSLATTI HILDA SUTO",
+  "data_de_nascimento": "28/05/1953",
+  "primeira_habilitação": "04/09/1993",
+  "validade": "26/11/2004",
+  "documento_de_identidade": "114575923",
+  "órgão_emissor": "MT",
+  "UF": "SE",
+  "número_do_registro": "752797534",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "D",
+  "número_válido": "877267473199"
+}
+```
+
+Caso precise de ajustes ou informações adicionais, sinta-se à vontade para me informar!

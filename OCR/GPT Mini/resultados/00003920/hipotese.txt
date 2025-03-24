@@ -1,0 +1,22 @@
+Aqui está o resultado do reconhecimento dos campos a partir da imagem fornecida, organizado em formato JSON:
+
+```json
+{
+  "nome": "RHUHY BELLON ERA",
+  "CPF": "646.035.970-33",
+  "filiação": "MONBRACK CEPADINELLI SILVA PEREIRA",
+  "data_nascimento": "30/11/1981",
+  "primeira_habilitação": "15/03/1994",
+  "validade": "2/07/2013",
+  "documento_identidade": "634.325.164",
+  "orgão_emissor": "SNJ",
+  "UF": "",
+  "numero_registro": "569728621",
+  "ACC": "",
+  "permissão": "A",
+  "categoria": "",
+  "numero_valido": "2207198749"
+}
+```
+
+Caso algum campo não tenha sido encontrado, o valor correspondente foi atribuído como uma string vazia.

@@ -1,0 +1,23 @@
+Aqui está o resultado em formato JSON com os dados extraídos da imagem:
+
+```json
+{
+    "nome": "Giorgini Lisbô Topiliari",
+    "cpf": "73.099.553-62",
+    "filiação": "MARI JANAINA HABI\nMERCARIO TSUMORI RACY MOURA",
+    "data_de_nascimento": "10/05/1999",
+    "primeira_habilitação": "20/12/2002",
+    "validade": "",
+    "documento_de_identidade": "",
+    "órgão_emissor": "SC",
+    "uf": "SC",
+    "número_do_registro": "",
+    "data_nascimento": "09/08/2011",
+    "acc": "",
+    "permissão": "B",
+    "categoria": "",
+    "número_válido": ""
+}
+```
+
+**Observação:** Os campos que não foram encontrados na imagem foram preenchidos com strings vazias.

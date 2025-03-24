@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "GONZAR ORSI COLLI",
+  "CPF": "656.601.144-15",
+  "filiação": "GUSCHECK SCHENK CEINLRUC, ESNARICTIA MOGGIOBNI AST PRANICC",
+  "data_de_nascimento": "17/04/1990",
+  "primeira_habilitação": "22/07/1990",
+  "validade": "06/02/2023",
+  "documento_de_identidade": "43119043",
+  "órgão_emissor": "SP/2",
+  "UF": "SP",
+  "número_do_registro": "8755090999A",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número_válido": "387585799"
+}
+```

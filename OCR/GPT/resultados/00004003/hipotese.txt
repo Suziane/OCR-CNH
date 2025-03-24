@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "CAVANCO PIERRY KATHARINE",
+    "CPF": "771.329.093-12",
+    "filiação": "MARINO LIONEL NIN GOMES, GERIN SABIO HUANCA CARVALHO",
+    "data de nascimento": "17/08/1982",
+    "primeira habilitação": "27/04/2001",
+    "validade": "",
+    "documento de identidade": "353113499",
+    "órgão emissor": "POM",
+    "UF": "SC",
+    "número do registro": "47968462966",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "A",
+    "número válido": "666121340"
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "MOTOIKE DIDIO ROCCA",
+  "CPF": "466.667.389-00",
+  "filiação": "CARENZI KAWASHIMA BOLELI PEIXOTO\nETHER POPADIUK SASA SALES",
+  "data de nascimento": "05/10/1981",
+  "primeira habilitação": "14/01/1992",
+  "validade": "10/09/1984",
+  "documento de identidade": "225511447",
+  "órgão emissor": "SEJ",
+  "UF": "PA",
+  "número do registro": "41368711487",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número válido": "012149653"
+}
+```

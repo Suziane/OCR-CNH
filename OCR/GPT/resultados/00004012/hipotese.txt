@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "Schunck Bonifaci Esperandio",
+  "CPF": "267.207.179-95",
+  "filiação": "Molinari Kameyo Jo Carvalho, Poyart Teneneijbm Polacow",
+  "data_nascimento": "23/07/1963",
+  "primeira_habilitação": "03/05/1994",
+  "validade": "16/04/1989",
+  "documento_identidade": "360862093",
+  "órgão_emissor": "SDS",
+  "UF": "MG",
+  "número_registro": "02323057825",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A, E",
+  "número_válido": "276290896"
+}
+```

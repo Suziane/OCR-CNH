@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "MANDELI SERAFIM CAMARINI",
+  "CPF": "599.499.683-13",
+  "filiação": "CAGNANI ANDERLINI BONIM ZANLORENZI NALDINHO RAISSA NOGUEIRA",
+  "data de nascimento": "11/05/1969",
+  "primeira habilitação": "19/05/1961",
+  "validade": "23/10/1999",
+  "documento de identidade": "C66143780",
+  "órgão emissor": "SES",
+  "UF": "RN",
+  "número do registro": "6372381123",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "C",
+  "número válido": "244195511"
+}
+```

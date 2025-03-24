@@ -1,0 +1,17 @@
+```json
+{
+  "nome": "BEGOSSO MARINA NAKHOUL",
+  "cpf": "677.707.466-04",
+  "filiação": "VEDOVELLO NOVIKOV ROV; LEANDRO FUZINELLI BRUGNERO DA MATA",
+  "data_nascimento": "08/10/1961",
+  "primeira_habilitação": "07/01/2001",
+  "validade": "31/05/1957",
+  "documento_identidade": "678833606",
+  "orgão_emissor": "SPTC",
+  "uf": "SP",
+  "número_registro": "942420218374",
+  "acc": "",
+  "permissão": "D",
+  "categoria": ""
+}
+```

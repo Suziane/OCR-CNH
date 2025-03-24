@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "NASCICEL YUSSUIKE BELOTTI",
+  "CPF": "643.305.100-65",
+  "filiação": "FRY ABATE RICCIARDI SOUZA IWAZAKI MAZZIOTTI ROSEMARY ALMEIDA",
+  "data de nascimento": "",
+  "primeira habilitação": "01/06/1989",
+  "validade": "04/04/1969",
+  "documento de identidade": "133928524",
+  "órgão emissor": "SEJ",
+  "UF": "CE",
+  "número do registro": "20310278095",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número válido": "491818040"
+}
+```

@@ -1,0 +1,17 @@
+```json
+{
+  "nome": "BOZOLA MITSUYAMA APELAY",
+  "cpf": "880.875.478-29",
+  "filiação": "FOTORAN UZUELI LEVENST",
+  "data_nascimento": "13/09/1962",
+  "primeira_habilitação": "11/1966",
+  "validade": "20/09/2010",
+  "documento_identidade": "051975041",
+  "órgão_emissor": "SESP BA",
+  "uf": "",
+  "número_registro": "24034300885",
+  "acc": "A",
+  "permissão": "",
+  "categoria": ""
+}
+```

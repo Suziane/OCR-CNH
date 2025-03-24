@@ -1,0 +1,21 @@
+Aqui está o reconhecimento dos campos encontrados na imagem, organizados em formato JSON:
+
+```json
+{
+    "nome": "MILOGRANA ROBBA ROSE",
+    "CPF": "990.711.979-21",
+    "filiação": "TEDDY ALBAENE ATTIQ REZENDE VEGINI CANGUSSU TSUGI",
+    "data_de_nascimento": "18/03/1998",
+    "primeira_habilitação": "17/05/1995",
+    "validade": "24/12/1999",
+    "documento_de_identidade": "3440466990 SPTC MG",
+    "orgão_emissor": "",
+    "UF": "",
+    "número_do_registro": "10429792199",
+    "ACC": "",
+    "permissão": "E",
+    "categoria": ""
+}
+```
+
+Caso algum campo não tenha sido reconhecido, o valor foi atribuído como uma string vazia.

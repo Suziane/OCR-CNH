@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "WEINFELD HASHYAMA YIU",
+  "cpf": "272.393.160-92",
+  "filiação": "POLLO THAMA BIGLI",
+  "data_nascimento": "02/07/1994",
+  "primeira_habilitação": "13/04/1984",
+  "validade": "15/09/2005",
+  "documento_identidade": "649666677",
+  "órgão_emissor": "SPTC",
+  "UF": "MG",
+  "número_do_registro": "46855981991",
+  "acc": "",
+  "permissão": "",
+  "categoria": "E",
+  "número_válido": "317995891"
+}
+```

@@ -1,0 +1,22 @@
+Aqui está o resultado do reconhecimento dos campos da imagem em formato JSON:
+
+```json
+{
+  "nome": "GARSON BELITKA YUKIKOSH",
+  "CPF": "814.768.589-00",
+  "filiação": "MELLION SAVAZONI IPAMIN MARTINS KOKITSU BRUNETI CEDRAN",
+  "data_nascimento": "05/03/1968",
+  "primeira_habilitação": "24/01/1975",
+  "validade": "22/12/2009",
+  "documento_identidade": "12813223554",
+  "órgão_emissor": "PR",
+  "UF": "PR",
+  "número_registro": "437.109.609",
+  "data_nascimento": "05/03/1968",
+  "ACC": "",
+  "permissão": "E",
+  "número_válido": ""
+}
+```
+
+Caso algum campo não possa ser identificado, o valor foi atribuído como uma string vazia.

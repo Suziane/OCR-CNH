@@ -1,0 +1,22 @@
+Aqui está o reconhecimento dos campos solicitados organizados em formato JSON:
+
+```json
+{
+  "nome": "DISCOLA OKAYAMA ADNOR",
+  "CPF": "631.977.928-40",
+  "filiação": "RANEIA SUAIDEN GERALDE BIASON JENNYFFER T DIAS",
+  "data_de_nascimento": "22/11/2011",
+  "primeira_habilitação": "10/12/1998",
+  "validade": "12/10/2011",
+  "documento_de_identidade": "65563530G",
+  "órgão_emissor": "BA",
+  "UF": "BA",
+  "número_do_registro": "19974089544",
+  "ACC": "",
+  "permissão": "AB",
+  "categoria": "AB",
+  "número_válido": "234941005"
+}
+```
+
+Se precisar de mais alguma coisa, estou à disposição!

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "ALBERICI PETELINCAR ZANGARI",
+  "CPF": "001.671.737-53",
+  "filiação": "ERICKI RYUUITI OU PEIXOTO\nBELTRAMI DUPAS LINDOEMA MALUC",
+  "data_de_nascimento": "28/09/1999",
+  "primeira_habilitação": "01/02/1999",
+  "validade": "10/07/2007",
+  "documento_de_identidade": "004910318",
+  "órgão_emissor": "FPE",
+  "UF": "SP",
+  "número_do_registro": "3028073461",
+  "ACC": "X",
+  "permissão": "",
+  "categoria": "",
+  "número_válido": "3753004"
+}
+```

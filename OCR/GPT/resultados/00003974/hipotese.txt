@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "ARNS MARGONATO ROMCY",
+    "CPF": "880.591.616-10",
+    "filiação": "SANDBERG SHIMOMURA HER FREITAS, INARA VICCINI MARTORANI",
+    "data de nascimento": "19/01/1955",
+    "primeira habilitação": "20/08/1986",
+    "validade": "24/07/1970",
+    "documento de identidade": "956249325",
+    "órgão emissor": "SES",
+    "UF": "BA",
+    "número do registro": "35651109297",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "A",
+    "número válido": "287795088"
+}
+```

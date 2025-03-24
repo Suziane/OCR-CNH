@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "MANDELI GASPARETTI DARCADIA",
+  "CPF": "881.230.253-30",
+  "filiação": "WILSON THALISSA POIATTI / ACTIS ROIM OTAGU JESUS",
+  "data_de_nascimento": "27/01/1975",
+  "primeira_habilitação": "15/11/2012",
+  "validade": "11/01/2019",
+  "documento_de_identidade": "798458492",
+  "órgão_emissor": "SNJ",
+  "UF": "NMA",
+  "número_do_registro": "82137293047",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "D",
+  "número_válido": "791314170"
+}
+```

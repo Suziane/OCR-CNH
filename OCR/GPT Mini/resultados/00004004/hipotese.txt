@@ -1,0 +1,21 @@
+Aqui está o resultado do reconhecimento dos campos, organizado em um formato JSON conforme solicitado:
+
+```json
+{
+  "nome": "HEIN JERONIMO PIOVEZ",
+  "cpf": "133.930.016-80",
+  "filiação": "SALMAZO MICAELA CRI ROCHA\nSPIGOSSO MARTINA JILM DA PAZ",
+  "data_nascimento": "10/03/2011",
+  "primeira_habilitação": "13/08/1959",
+  "validade": "14/01/2005",
+  "documento_identidade": "489411368",
+  "órgão_emissor": "POM",
+  "uf": "PR",
+  "número_registro": "60537516290",
+  "acc": "",
+  "permissão": "A",
+  "número_válido": "0550794988"
+}
+```
+
+Os campos foram preenchidos com os dados reconhecidos. O campo "acc" foi preenchido como uma string vazia, pois não foi encontrado na imagem.

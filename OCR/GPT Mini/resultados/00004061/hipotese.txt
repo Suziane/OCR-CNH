@@ -1,0 +1,22 @@
+Aqui está o resultado organizado em um arquivo JSON com os campos reconhecidos:
+
+```json
+{
+    "nome": "BENATTI IAGHO MUGNELA",
+    "cpf": "781.657.806-70",
+    "filiação": "CAZONATO EBERTH BAEDER MONTEIRO",
+    "data_nascimento": "29/02/1952",
+    "primeira_habilitação": "",
+    "validade": "11/06/1959",
+    "documento_identidade": "059379116 POF RS",
+    "órgão_emissor": "",
+    "UF": "",
+    "número_do_registro": "749075397901",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "",
+    "número_válido": ""
+}
+```
+
+Os campos que não foram encontrados estão representados como strings vazias.

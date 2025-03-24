@@ -1,0 +1,22 @@
+Aqui está o reconhecimento dos campos conforme solicitado, formatado em JSON:
+
+```json
+{
+  "nome": "PRESOTO NINA ORABONA",
+  "CPF": "391.631.827-69",
+  "filiação": "OSAKI RUEDA GILLI; DORINHA GARDE INNOC MARTINS",
+  "data_nascimento": "31/05/1953",
+  "primeira_habilitação": "02/12/1971",
+  "validade": "01/10/1960",
+  "documento_identidade": "859358513",
+  "órgão_emissor": "SESP",
+  "UF": "MG",
+  "número_registro": "56214249153",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "D",
+  "número_válido": "938487005"
+}
+``` 
+
+Se precisar de mais alguma informação ou ajuste, é só avisar!

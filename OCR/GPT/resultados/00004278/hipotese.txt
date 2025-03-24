@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "KERSCHBAUM YUUMA WESLEY",
+  "CPF": "538.852.014-53",
+  "filiação": "CAPELANES CARIELO SI DAVILSON METOLINA LUCIE JESUS",
+  "data de nascimento": "30/01/1969",
+  "primeira habilitação": "15/03/1969",
+  "validade": "12/10/1982",
+  "documento de identidade": "508281489",
+  "órgão emissor": "SJS",
+  "UF": "MA",
+  "número do registro": "24370560927",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número válido": "094255222"
+}
+```

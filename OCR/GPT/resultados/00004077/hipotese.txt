@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "EONIN ARNELLAS SETURAL",
+  "CPF": "850.930.491-23",
+  "filiação": "IACOMELLI FERDERYK FPA DA CUNHA SCHAEFER TEUBISLETE CARLOSO",
+  "data de nascimento": "29/10/1971",
+  "primeira habilitação": "09/10/1987",
+  "validade": "",
+  "documento de identidade": "492635751",
+  "órgão emissor": "SPTC",
+  "UF": "SP",
+  "número do registro": "63522308124",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número válido": "812725830"
+}
+```

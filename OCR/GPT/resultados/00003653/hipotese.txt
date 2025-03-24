@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "FRONZAGLIA BUCHALA MACON",
+  "CPF": "620.245.698-11",
+  "filiação": "SESSIN SAIGO JAZIEL GIOSO PASSATUTO M MONTEIRO",
+  "data de nascimento": "19/12/1997",
+  "primeira habilitação": "06/07/2016",
+  "validade": "11/10/1963",
+  "documento de identidade": "995111169",
+  "órgão emissor": "SESP",
+  "UF": "SP",
+  "número do registro": "56852693732",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "C",
+  "número válido": "359606115"
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "MEROLINA DOTTO PRATEL",
+  "CPF": "944.024.117-93",
+  "filiação": "PRUM QUEDAR JARDEL CAMPOS, MARGARETA ARTESSE PU",
+  "data de nascimento": "28/10/1979",
+  "primeira habilitação": "",
+  "validade": "06/11/2024",
+  "documento de identidade": "215566061",
+  "órgão emissor": "SBTC",
+  "UF": "PB",
+  "número do registro": "523483749",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número válido": "6399621932"
+}
+```

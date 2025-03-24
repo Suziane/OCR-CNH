@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "GERBER SPROVIERI NELS CARUSO",
+  "CPF": "86539528591",
+  "filiação": "",
+  "data de nascimento": "03/02/1972",
+  "primeira habilitação": "06/09/2001",
+  "validade": "06/07/2011",
+  "documento de identidade": "429831992",
+  "órgão emissor": "SSP",
+  "UF": "SP",
+  "número do registro": "800248817",
+  "ACC": "Não",
+  "permissão": "Sim",
+  "categoria": "B",
+  "número válido": "140245115"
+}
+```

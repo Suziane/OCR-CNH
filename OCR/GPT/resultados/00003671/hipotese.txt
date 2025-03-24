@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "CHEFFER YASUTA JOCELIA",
+    "CPF": "483.461.954-00",
+    "filiação": "LEONICE PECOLI SASSAN DA CRUZ, BEZZON GIKAS CHIQUETTO DA COSTA",
+    "data_nascimento": "05/09/1973",
+    "doc_identidade": "521572411",
+    "org_emissor": "SPTC",
+    "UF": "RS",
+    "n_registro": "35066107598",
+    "validade": "21/04/2004",
+    "primeira_habilitacao": "04/12/1969",
+    "ACC": "",
+    "permissao": "PERMISSÃO",
+    "categoria": "D",
+    "numero_valido": "290951370"
+}
+```

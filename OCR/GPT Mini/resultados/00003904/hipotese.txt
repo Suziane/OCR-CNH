@@ -1,0 +1,22 @@
+Aqui está a organização dos dados reconhecidos em formato JSON:
+
+```json
+{
+    "nome": "DANTON SANT'ANA SANVIDO",
+    "cpf": "434.429.372-05",
+    "filiação": "KENNDY TAUBKIN SEBA / BRIESE TURIBIO VOLTAI",
+    "data_nascimento": "31/07/1959",
+    "primeira_habilitação": "16/10/1962",
+    "validade": "",
+    "documento_identidade": "817763314",
+    "orgão_emissor": "SES",
+    "uf": "RO",
+    "número_registro": "68065532323",
+    "acc": "",
+    "permissão": "CAT. AB",
+    "categoria": "",
+    "número_válido": "139198259"
+}
+```
+
+Note que alguns campos não foram encontrados e foram deixados como string vazia.

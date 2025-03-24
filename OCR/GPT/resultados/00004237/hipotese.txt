@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "ALIKA FATIBELLO LAUER",
+  "CPF": "860.417.105-39",
+  "filiação": "MALVESTIO BARAO CUR MARTINS GAUER PACANELLI MANDAR",
+  "data_de_nascimento": "09/05/1969",
+  "primeira_habilitação": "22/09/1987",
+  "validade": "09/05/1951",
+  "documento_de_identidade": "878540897",
+  "órgão_emissor": "SSP",
+  "UF": "SP",
+  "número_do_registro": "52023331719",
+  "ACC": "",
+  "permissão": "PERMISSÃO",
+  "categoria": "C",
+  "número_válido": "840812526"
+}
+```

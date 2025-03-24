@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "HOMSI GIANCOLLI FRANCO",
+  "CPF": "507.126.575-33",
+  "filiação": "RIANI BOQUIMPANI BARTHMANN CARBONIERI ONAYA LET NOVAES",
+  "data de nascimento": "25/03/2020",
+  "primeira habilitação": "",
+  "validade": "03/11/1979",
+  "documento de identidade": "071785474",
+  "órgão emissor": "SNJ",
+  "UF": "ES",
+  "número do registro": "01480207142",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número válido": "864069312"
+}
+```

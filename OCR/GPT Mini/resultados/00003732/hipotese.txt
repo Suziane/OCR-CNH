@@ -1,0 +1,21 @@
+Aqui está o resultado organizado em formato JSON com base nas informações que você forneceu:
+
+```json
+{
+    "nome": "JOFFE CAPELLA ZANDOVAL",
+    "cpf": "307.414.933-73",
+    "filiação": "MALAVOLTA TAMINATO TIE\nKULESSA RUILOBA DANDRETTA BARBOSA",
+    "data_nascimento": "23/06/1985",
+    "primeira_habilitação": "21/01/1961",
+    "validade": "17/07/1975",
+    "documento_identidade": "297365067",
+    "órgão_emissor": "SJS",
+    "uf": "SP",
+    "número_registro": "27195645507",
+    "acc": "",
+    "permissão": "AB",
+    "número_válido": "870068685"
+}
+```
+
+Caso haja mais algo em que eu possa ajudar, é só avisar!

@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "LARATTA TOGASHI ADOLPHO",
+    "cpf": "147.774.338-38",
+    "filiação": "HORTAL MAJOLINI IMAGAWA; RINCK BRAGATO MILOS MARTINS",
+    "data_nascimento": "20/10/2013",
+    "primeira_habilitação": "17/02/1987",
+    "validade": "20/11/1990",
+    "documento_identidade": "8474630375",
+    "órgão_emissor": "SJS",
+    "uf": "SC",
+    "número_do_registro": "39582767359",
+    "acc": "",
+    "permissão": "",
+    "categoria": "E",
+    "número_válido": "337148430"
+}
+```

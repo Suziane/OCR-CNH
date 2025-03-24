@@ -1,0 +1,21 @@
+Aqui está o resultado do reconhecimento dos campos da imagem em formato JSON:
+
+```json
+{
+  "nome": "CHARLESTON UILIAN BIAGGIONI",
+  "CPF": "881.118.240-92",
+  "filiação": "CHELIN ATSUSHI IRWING MELO\nZAGO BOCALON SAVIAN PEIXOTO",
+  "data_nascimento": "05/08/2017",
+  "primeira_habilitação": "15/08/1988",
+  "validade": "08/07/2017",
+  "documento_identidade": "549636332",
+  "órgão_emissor": "SJS",
+  "UF": "BA",
+  "número_registro": "5825412896",
+  "ACC": "C",
+  "permissão": "",
+  "categoria": ""
+}
+```
+
+Os campos que não foram encontrados na imagem foram deixados como strings vazias.

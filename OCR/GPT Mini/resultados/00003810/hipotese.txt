@@ -1,0 +1,22 @@
+Aqui está o resultado em formato JSON com os dados reconhecidos da imagem:
+
+```json
+{
+    "nome": "LOMBARDO ELDA LUKAS",
+    "cpf": "097.712.967-52",
+    "filiação": "BATTACLINI KUROTORI M DA ROCHA, CEZANNE ADELSON YUGUO DAS NEVES",
+    "data_nascimento": "29/08/1973",
+    "primeira_habilitação": "01/01/1955",
+    "validade": "07/12/2008",
+    "documento_identidade": "",
+    "orgão_emissor": "927110660 SDS MG",
+    "uf": "",
+    "número_registro": "00856407978",
+    "acc": "",
+    "permissão": "PERMISSÃO",
+    "categoria": "B",
+    "número_válido": ""
+}
+``` 
+
+Caso precise de mais informações ou ajustes, estou à disposição!

@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "HOWELL TOKUTSUNE KRUSE",
+    "CPF": "491.912.984-07",
+    "filiação": "CORDELIA MIELNIK SCHNAIBEL DA CUNHA ALCONCHER MERMEJO K DUARTE",
+    "data de nascimento": "28/04/2020",
+    "primeira habilitação": "12/10/1999",
+    "validade": "22/12/2003",
+    "documento de identidade": "75111302",
+    "órgão emissor": "SEJ",
+    "UF": "BA",
+    "número do registro": "42000341961",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "D",
+    "número válido": "499880833"
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "NOSACK CIVIATI ELORZA",
+    "CPF": "530.330.774-39",
+    "filiação": "VARRONI ROSMERI RETT\nFEKETE MARCHI ELIENOS COSTA",
+    "data_de_nascimento": "14/08/1964",
+    "primeira_habilitação": "18/02/1963",
+    "validade": "02/07/1997",
+    "documento_de_identidade": "302843367",
+    "órgão_emissor": "SPTC",
+    "UF": "BA",
+    "número_do_registro": "57303792742",
+    "permissão": "",
+    "ACC": "",
+    "categoria": "A",
+    "número_válido": "05316196"
+}
+```

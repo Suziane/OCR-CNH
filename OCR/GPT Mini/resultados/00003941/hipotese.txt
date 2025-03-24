@@ -1,0 +1,22 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos:
+
+```json
+{
+  "nome": "CONTANI ZAVITOSKI SAVASTA",
+  "CPF": "898.771.771-29",
+  "filiação": "KITABAYASHI NAGILTCN AGY GOLINELI CARLIN OUTAK NUNES",
+  "data_nascimento": "26/08/2013",
+  "primeira_habilitação": "17/03/1960",
+  "validade": "24/11/2002",
+  "documento_identidade": "499785847",
+  "orgão_emissor": "SJS",
+  "UF": "PI",
+  "número_do_registro": "82549655355",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "",
+  "número_válido": "957411866"
+}
+``` 
+
+Caso haja mais alguma informação ou ajuste necessário, é só avisar!

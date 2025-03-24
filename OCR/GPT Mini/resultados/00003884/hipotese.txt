@@ -1,0 +1,21 @@
+Aqui está o resultado do reconhecimento dos campos da imagem, organizado em um arquivo JSON:
+
+```json
+{
+    "nome": "SAVICH BURAGOSQUE BOULHOSA",
+    "cpf": "768.820.928-50",
+    "filiacao": "SCANDIUZZI BORNSCHEIN BA\nBANZATO MASSONI FR TEIXEIRA",
+    "data_nascimento": "26/06/1964",
+    "primeira_habilitacao": "17/04/1989",
+    "validade": "11/11/1973",
+    "documento_identidade": "138375331",
+    "orgao_emissor": "SJS",
+    "uf": "MG",
+    "numero_registro": "43631173907",
+    "acc": "C",
+    "permissao": "",
+    "categoria": ""
+}
+``` 
+
+Caso tenha mais perguntas ou precise de algo adicional, é só avisar!

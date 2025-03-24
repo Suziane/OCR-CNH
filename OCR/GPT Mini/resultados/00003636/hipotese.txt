@@ -1,0 +1,22 @@
+Aqui está o resultado organizado em formato JSON com os campos solicitados:
+
+```json
+{
+    "nome": "RASIA EDILENE DALTOSO",
+    "CPF": "572.386.937-04",
+    "filiação": "MOTTIN ANJARU WONSIK",
+    "data_nascimento": "27/08/2012",
+    "primeira_habilitação": "",
+    "validade": "20/07/2005",
+    "documento_identidade": "409450632",
+    "orgão_emissor": "SSP",
+    "UF": "PE",
+    "número_do_registro": "24005679704",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "A",
+    "número_válido": ""
+}
+``` 
+
+Caso tenha mais informações ou ajustes a serem feitos, estou à disposição!

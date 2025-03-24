@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "MACARIOTTO MANEA GRAVA",
+  "CPF": "226.757.622-88",
+  "filiação": "YACUIA KOMIYA REBEITEZ, BIERRENSBACH FUMINIO BAR",
+  "data de nascimento": "23/02/1965",
+  "primeira habilitação": "03/10/95",
+  "validade": "",
+  "documento de identidade": "742367907",
+  "órgão emissor": "SSP",
+  "UF": "PR",
+  "número do registro": "12996752658",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "",
+  "número válido": "3954113070"
+}
+```

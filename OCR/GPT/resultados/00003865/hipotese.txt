@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "ZUNINO PELICER ADRIELLY",
+  "CPF": "996.452.707-15",
+  "filiação": "BONCOMPAGNI JOACYR C MORAES, TSIN CANDIOTTI QUARTAROLI",
+  "data de nascimento": "27/01/1962",
+  "primeira habilitação": "18/11/1965",
+  "validade": "31/12/2002",
+  "documento de identidade": "454125665",
+  "órgão emissor": "SESP",
+  "UF": "MG",
+  "número do registro": "91258939809",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número válido": "952183864"
+}
+```

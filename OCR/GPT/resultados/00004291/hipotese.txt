@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "SERIGATI KLAAS GETSCHO",
+  "CPF": "739.926.462-70",
+  "filiação": "GENGHINI FACIO FUKUE VIANA ANDREAS GELSON COVA RIBEIRO",
+  "data de nascimento": "21/05/1960",
+  "primeira habilitação": "08/06/2009",
+  "validade": "28/06/1973",
+  "documento de identidade": "432508819",
+  "órgão emissor": "SEJ",
+  "UF": "PR",
+  "número do registro": "27658514165",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "ACC",
+  "número válido": "134687004"
+}
+```

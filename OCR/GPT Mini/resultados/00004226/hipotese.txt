@@ -1,0 +1,17 @@
+```json
+{
+    "nome": "GIRALDES KANAMURA JULIUS",
+    "CPF": "505.218.527-81",
+    "filiação": "CAMPEIRO DIPOLITTO MASUTTI KELLI GIKAS CANTANO DUARTE",
+    "data de nascimento": "23/05/1969",
+    "primeira habilitação": "23/10/1978",
+    "validade": "29/07/1952",
+    "documento de identidade": "971524920",
+    "órgão emissor": "SNJ",
+    "UF": "BA",
+    "número do registro": "00789391120",
+    "ACC": "",
+    "permissão": "C",
+    "número válido": "059986320"
+}
+```

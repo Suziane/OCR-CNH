@@ -1,0 +1,22 @@
+Aqui está o reconhecimento dos campos solicitados organizados em formato JSON:
+
+```json
+{
+    "nome": "HOMSI GIANCOLI FRANCO",
+    "cpf": "507.126.575-33",
+    "filiação": "RIANI BOQUIMPANI BARTHMANN CARBONIERI ONAYA LET NOVAES",
+    "data_de_nascimento": "25/03/2020",
+    "primeira_habilitação": "",
+    "validade": "03/11/1979",
+    "documento_de_identidade": "071789474",
+    "órgão_emissor": "SNJ",
+    "UF": "ES",
+    "número_do_registro": "01480207142",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "A",
+    "número_válido": "864069312"
+}
+```
+
+Caso precise de mais alguma coisa, é só avisar!

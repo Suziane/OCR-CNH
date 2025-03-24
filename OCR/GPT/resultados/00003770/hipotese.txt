@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "CIPOLARO LERRINE ASATO",
+    "CPF": "912.257.320-85",
+    "filiação": "MATPRANGOLO ASSARIC DIAS, CARTAPATTI ASAMURA TERUYU",
+    "data de nascimento": "22/11/1980",
+    "primeira habilitação": "07/04/1974",
+    "validade": "24/08/2005",
+    "documento de identidade": "706495718",
+    "órgão emissor": "SEJ",
+    "UF": "MG",
+    "número do registro": "6887274456",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "AB",
+    "número válido": "045507816"
+}
+```

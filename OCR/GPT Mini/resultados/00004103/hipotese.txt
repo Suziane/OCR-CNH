@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "PALUDETTO SALMASO IACONELLI",
+    "cpf": "376.124.099-68",
+    "filiacao": "TJANDRAATMADA BENO PENHALV YOKOYA GENESTRETI SA SALES",
+    "data_nascimento": "04/03/2001",
+    "primeira_habilitacao": "16/02/1951",
+    "validade": "02/05/2008",
+    "documento_identidade": "336122044",
+    "orgao_emissor": "POF",
+    "uf": "GO",
+    "numero_registro": "62039321149",
+    "acc": "",
+    "permissao": "",
+    "categoria": "B",
+    "numero_valido": "959161361"
+}
+```

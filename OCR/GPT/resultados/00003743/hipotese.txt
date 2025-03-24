@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "BIZIETTI JULIANE BUZA",
+  "CPF": "440.431.378-76",
+  "filiação": "RUBENARIAN BORGER BUZA; SIBELOCCHU DAIANE FICK RODRIGUES",
+  "data de nascimento": "02/03/1980",
+  "primeira habilitação": "23/07/1996",
+  "validade": "23/07/1996",
+  "documento de identidade": "10177680",
+  "órgão emissor": "SSP",
+  "UF": "MG",
+  "número do registro": "44043137876",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "",
+  "número válido": "444689043"
+}
+```

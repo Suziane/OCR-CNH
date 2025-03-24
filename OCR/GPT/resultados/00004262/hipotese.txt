@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "LAUDICI TROSTER GIAMPIERO",
+  "CPF": "963.492.218-00",
+  "filiação": "TIZIO CHIEFFI STANGO SARTES / CORITEO KELLEY BRANDIMART CAMPEOS",
+  "data de nascimento": "27/02/1992",
+  "primeira habilitação": "12/02/1986",
+  "validade": "8/08/2045",
+  "documento de identidade": "543199944",
+  "órgão emissor": "SSP",
+  "UF": "RS",
+  "número do registro": "12981998686",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número válido": "654991336"
+}
+```

@@ -1,0 +1,20 @@
+Here's the extracted information organized in a JSON format:
+
+```json
+{
+    "nome": "BERTALAN RONCHINI FUNADA",
+    "CPF": "598.317.517-36",
+    "filiação": "BONAMIN MAXIMILIANO MAATZ SILVEIRA ENOKIBARA BEIRA GHI SOUZA",
+    "data de nascimento": "02/06/2005",
+    "primeira habilitação": "26/04/2002",
+    "validade": "17/11/1971",
+    "documento de identidade": "495038386",
+    "órgão emissor": "SSP",
+    "UF": "MG",
+    "número do registro": "09128898666",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "C",
+    "número válido": "516335992"
+}
+```

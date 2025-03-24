@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "FEDERLE CIURIA SPANOS",
+    "cpf": "053.336.124-98",
+    "filiação": "SINDIR BOZA MEDICE CVALCANTI PETYAN TRASI SOBRINO OLIVEIRA",
+    "data_nascimento": "21/02/1991",
+    "primeira_habilitação": "12/03/1961",
+    "validade": "08/09/1952",
+    "documento_identidade": "225808708",
+    "órgão_emissor": "SDS",
+    "uf": "CE",
+    "número_registro": "20379867810",
+    "acc": "",
+    "permissão": "",
+    "categoria": "AB",
+    "número_válido": "754943100"
+}
+```

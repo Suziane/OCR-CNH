@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "MELLUCCI FARIA CRAVEIRO",
+    "CPF": "674.080.525-34",
+    "filiação": "POVLOVITSCH M SANTOS CERIZE ORBERG H RODRIGUES",
+    "data de nascimento": "28/01/2010",
+    "primeira habilitação": "19/01/1965",
+    "validade": "12/11/2017",
+    "documento de identidade": "456140554",
+    "órgão emissor": "SSP",
+    "UF": "MG",
+    "número do registro": "79424069820",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "B",
+    "número válido": "259753203"
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "CUNHA LACATIVA RONDELLI",
+  "CPF": "238.601.505-02",
+  "filiação": "PANDOLFI DONEGA EITYO VIEIRA PIAN LIVEA SUTER",
+  "data de nascimento": "23/11/1968",
+  "primeira habilitação": "17/03/1968",
+  "validade": "22/10/1950",
+  "documento de identidade": "994136523",
+  "órgão emissor": "SPTC",
+  "UF": "MT",
+  "número do registro": "09543124358",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número válido": "857060996"
+}
+```

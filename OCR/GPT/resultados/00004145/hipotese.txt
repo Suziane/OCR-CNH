@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "LAIER TSALDARIS FELITTI",
+  "cpf": "244.949.469-31",
+  "filiacao": "BIGNOTTO JBARA KOST CASTRO SPERLING SONEGO PEN SOARES",
+  "data_nascimento": "08/12/1957",
+  "primeira_habilitacao": "03/08/1993",
+  "validade": "20/12/1994",
+  "documento_identidade": "64633839C",
+  "orgao_emissor": "POM",
+  "uf": "MT",
+  "numero_registro": "59726119814",
+  "acc": "",
+  "permissao": "",
+  "categoria": "B",
+  "numero_valido": "667124349"
+}
+```

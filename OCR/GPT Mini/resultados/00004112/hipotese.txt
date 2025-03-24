@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "DRESUDEIANE PIRUZELI MAJORAI",
+    "CPF": "213.347.335-90",
+    "filiação": "JANSEN WERTH TOMIKO",
+    "data_de_nascimento": "05/06/1966",
+    "primeira_habilitação": "29/12/1996",
+    "validade": "01/10/1972",
+    "documento_de_identidade": "306817184  499 MT",
+    "órgão_emissor": "DETRAN",
+    "UF": "MT",
+    "número_do_registro": "0.49221739",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "AB",
+    "número_válido": ""
+}
+```

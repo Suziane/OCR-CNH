@@ -1,0 +1,22 @@
+Aqui está os dados organizados em formato JSON com base na imagem fornecida:
+
+```json
+{
+  "nome": "ESOTICO LEPINE BUCH",
+  "CPF": "495.650.247-85",
+  "filiação": "GUARIENTE BOCCATTO SNEI SALES, RODRYGO MENEGASSI PASSARO ROCHA",
+  "data_nascimento": "08/01/1976",
+  "primeira_habilitação": "",
+  "validade": "04/06/1981",
+  "documento_identidade": "707482550",
+  "orgão_emissor": "SSP",
+  "UF": "PR",
+  "número_do_registro": "25399201948",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número_válido": "955837671"
+}
+```
+
+Os campos que não foram encontrados receberam valores vazios conforme solicitado.

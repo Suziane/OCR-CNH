@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "OTERO KADOMOTO SLE",
+    "CPF": "343.520.199-",
+    "filiação": "SRIJENGA ONKI EIDIO",
+    "data_de_nascimento": "25/03/2013",
+    "primeira_habilitação": "",
+    "validade": "20/07/1973",
+    "documento_de_identidade": "347845614120",
+    " órgão_emissor": "MS",
+    "UF": "MS",
+    "número_do_registro": "8941735058",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "",
+    "número_válido": ""
+}
+```

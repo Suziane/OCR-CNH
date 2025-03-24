@@ -1,0 +1,21 @@
+Aqui está o resultado do reconhecimento dos campos da imagem em formato JSON:
+
+```json
+{
+  "nome": "CURIATI EIMORI BARROLO",
+  "cpf": "925.164.648-19",
+  "filiacao": "CADIDE LOMENSO ROJAS",
+  "data_nascimento": "04/10/2011",
+  "primeira_habilitacao": "03/12/1984",
+  "validade": "07/07/2019",
+  "documento_identidade": "623568640",
+  "orgao_emissor": "SDS",
+  "uf": "MA",
+  "numero_registro": "22223824240",
+  "acc": "",
+  "permissao": "D",
+  "numero_valido": ""
+}
+```
+
+Caso haja mais detalhes ou campos a serem reconhecidos, me avise!

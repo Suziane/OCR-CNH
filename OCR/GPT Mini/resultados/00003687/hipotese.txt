@@ -1,0 +1,17 @@
+```json
+{
+    "nome": "KURIHARA SERODIO VERGINE",
+    "CPF": "485.080.050-59",
+    "filiação": "ANGRISANO BEGUELDO BUE; SANAI BORTOLOTO JOZENIAS DA MOTA",
+    "data_de_nascimento": "28/05/1964",
+    "primeira_habilitação": "11/01/1985",
+    "validade": "10/06/1959",
+    "documento_de_identidade": "137040271",
+    "órgão_emissor": "SESPE",
+    "UF": "MA",
+    "número_do_registro": "18529595239",
+    "ACC": "",
+    "permissão": "A",
+    "categoria": ""
+}
+```

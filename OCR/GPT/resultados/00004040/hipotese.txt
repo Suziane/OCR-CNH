@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "PAGLIARINI GALASSO DU",
+  "CPF": "685.564.813-45",
+  "filiação": "VETRONE ZON FIORINI, SPLENDORE HUANG TSCHAN VIANA",
+  "data de nascimento": "10/05/1980",
+  "primeira habilitação": "10/10/1976",
+  "validade": "07/12/2015",
+  "documento de identidade": "524698491",
+  "órgão emissor": "SPTC",
+  "UF": "SC",
+  "número do registro": "89423716459",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número válido": "561774766"
+}
+```

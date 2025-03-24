@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "MONTENEGRO ERNANDES MALFITANI",
+  "CPF": "324.000.198-51",
+  "filiação": "TOZZI TUFANI ROZENBERGA SILVEIRA FRIGORI ORMENESE BATTAGLIA MELO",
+  "data_nascimento": "24/12/1998",
+  "primeira_habilitação": "07/02/1977",
+  "validade": "05/05/1990",
+  "documento_identidade": "513495022",
+  "órgão_emissor": "SSP",
+  "UF": "PA",
+  "número_do_registro": "15791290892",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "E",
+  "número_válido": "495517140"
+}
+```

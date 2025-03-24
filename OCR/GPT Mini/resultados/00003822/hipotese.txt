@@ -1,0 +1,21 @@
+Aqui está o resultado do reconhecimento dos campos solicitados, organizado em formato JSON:
+
+```json
+{
+  "nome": "LARCHER FRADICO CA",
+  "CPF": "562.855.639-42",
+  "filiação": "AHN TEITCH SALEMA, FORATTINI TOSI MARIAN",
+  "data_nascimento": "07/02/2001",
+  "primeira_habilitação": "",
+  "validade": "09/11/2003",
+  "documento_identidade": "569077096",
+  "órgão_emissor": "SEJ",
+  "UF": "RS",
+  "número_registro": "74129430080",
+  "data_nascimento_registro": "",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número_válido": "846738140"
+}
+```

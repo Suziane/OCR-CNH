@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "RAPELLI ANTONINO NICHOLAS",
+  "CPF": "045.713.141-16",
+  "filiação": "ESCOBAR WAGEMAKER K RODRIGUES LUZ IRISLAYNE SANNOMIYA PEREIRA",
+  "data_nascimento": "16/01/1953",
+  "primeira_habilitação": "07/05/1959",
+  "validade": "09/02/1981",
+  "documento_identidade": "353764772",
+  "órgão_emissor": "SES",
+  "UF": "MS",
+  "número_do_registro": "269602211045",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "C",
+  "número_válido": "994438339"
+}
+```

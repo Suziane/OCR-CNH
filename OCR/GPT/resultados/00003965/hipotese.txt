@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "CYBELE DELLOSSO RAPADO",
+    "cpf": "722.251.290-02",
+    "filiacao": "ALKMIN RINCON GOMES\nKASAI GAMEIRO T MOURA",
+    "data_de_nascimento": "16/07/1951",
+    "primeira_habilitacao": "15/07/1991",
+    "validade": "15/07/1996",
+    "documento_de_identidade": "489675025",
+    "orgao_emissor": "SJS",
+    "uf": "TO",
+    "numero_do_registro": "1564150419",
+    "acc": "",
+    "permissao": "",
+    "categoria": "",
+    "numero_valido": "636554438"
+}
+```

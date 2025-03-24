@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "MONIA TALLELLI FAVRIN",
+  "CPF": "042.643.988-00",
+  "filiação": "ROLANDO FILIPPINI BABI RODRIGUES GUERSHOW MASTANTUONO CARVALHO",
+  "data_nascimento": "16/11/1972",
+  "primeira_habilitação": "20/01/1992",
+  "validade": "28/05/1994",
+  "documento_identidade": "388294218",
+  "órgão_emissor": "SESP",
+  "UF": "PR",
+  "número_registro": "25127491105",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número_válido": "276132412"
+}
+```

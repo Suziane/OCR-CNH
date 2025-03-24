@@ -1,0 +1,23 @@
+Aqui está o resultado do reconhecimento dos campos, organizado em um formato JSON:
+
+```json
+{
+    "nome": "MARZANI FUZZATO ORLOVICIN",
+    "cpf": "608.164.521-33",
+    "filiação": "LONGANO SEMEGHINI MEIR MOURA, COLEO DENILTON PONGRACZ DA ROCA",
+    "data_de_nascimento": "04/04/1957",
+    "primeira_habilitação": "09/12/1985",
+    "validade": "02/05/2007",
+    "documento_de_identidade": "365750047",
+    "órgão_emissor": "MG",
+    "uf": "MG",
+    "número_do_registro": "457944668264",
+    "data_de_nascimento_2": "04/04/1957",
+    "acc": "",
+    "permissão": "",
+    "categoria": "",
+    "número_válido": ""
+}
+```
+
+Caso precise de alterações ou adições, sinta-se à vontade para informar!

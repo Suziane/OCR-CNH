@@ -1,0 +1,21 @@
+Aqui está o JSON organizado com os dados reconhecidos da imagem:
+
+```json
+{
+  "nome": "TAMBOR PERENCIN MIRHAN",
+  "cpf": "474.091.943-59",
+  "filiação": "OIE MARCELL CIPOLLETTA DOTORE YOKO VONK",
+  "data_nascimento": "11/08/1950",
+  "primeira_habilitação": "06/11/1984",
+  "validade": "14/02/2013",
+  "documento_identidade": "287397415",
+  "órgão_emissor": "SNU",
+  "uf": "RN",
+  "número_do_registro": "07636011673",
+  "acc": "E",
+  "permissão": "",
+  "categoria": ""
+}
+```
+
+Caso precise de mais alguma informação ou ajuste, estou à disposição!

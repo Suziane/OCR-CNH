@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "PAULO IMIRIM CASTIGLIONI",
+  "CPF": "325.204.656-13",
+  "filiação": "SCISCI ALBOLEA RAIN COSTA, SHIGUEIRO VELLEGO DAO",
+  "data de nascimento": "16/02/1989",
+  "primeira habilitação": "01/03/1955",
+  "validade": "",
+  "documento de identidade": "92270969",
+  "órgão emissor": "SSP",
+  "UF": "RS",
+  "número do registro": "53880519313",
+  "ACC": "",
+  "permissão": "PERMISSÃO",
+  "categoria": "D",
+  "número válido": "672382486"
+}
+```

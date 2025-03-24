@@ -1,0 +1,22 @@
+Aqui está o resultado em formato JSON baseado nas informações reconhecidas na imagem:
+
+```json
+{
+  "nome": "CLERICI VEAUVY PANUCCI",
+  "cpf": "518.350.664-70",
+  "filiação": "ANAE FILIPPI PRADA DA ROCHA NOFFS HEGUEDUSCH LENITA MONTIRTC",
+  "data_nascimento": "16/09/1976",
+  "primeira_habilitação": "05/02/1975",
+  "validade": "23/10/1958",
+  "documento_identidade": "051779906 POF SP",
+  "órgão_emissor": "",
+  "uf": "",
+  "número_registro": "32C52093106",
+  "acc": "",
+  "permissão": "PERMISSÃO",
+  "categoria": "D",
+  "número_válido": "641710773"
+}
+```
+
+Se precisar de mais alguma coisa, é só avisar!

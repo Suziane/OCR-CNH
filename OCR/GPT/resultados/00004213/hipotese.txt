@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "HAMUD CEDISMONDI VELLUTINI",
+  "CPF": "054.994.505-83",
+  "filiação": "BARRETTO KANO ESDRÁS AITELO APPEZZATO SCA MARTINS",
+  "data_de_nascimento": "27/01/1986",
+  "primeira_habilitação": "01/12/1967",
+  "validade": "31/08/1957",
+  "documento_de_identidade": "04026387",
+  "órgão_emissor": "SNU",
+  "UF": "MA",
+  "número_do_registro": "14432961865",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número_válido": "982277530"
+}
+```

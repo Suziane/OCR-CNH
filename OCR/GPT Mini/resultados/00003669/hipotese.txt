@@ -1,0 +1,22 @@
+Aqui está o resultado organizado em formato JSON com os campos reconhecidos:
+
+```json
+{
+  "nome": "YAGASAKI CAMELUCCI FRAGOAS",
+  "cpf": "768.353.794-21",
+  "filiacao": "MARONE GHIZINI BICUDOC PAPOTI PANAR JESUS",
+  "data_nascimento": "03/10/2016",
+  "primeira_habilitacao": "",
+  "validade": "20/07/2020",
+  "documento_identidade": "9809933581",
+  "orgao_emissor": "SPTC",
+  "uf": "PI",
+  "numero_registro": "37825030108",
+  "acc": "",
+  "permissao": "",
+  "categoria": "AB",
+  "numero_valido": "174317315"
+}
+``` 
+
+Caso tenha mais perguntas ou precise de ajuda adicional, sinta-se à vontade para perguntar!

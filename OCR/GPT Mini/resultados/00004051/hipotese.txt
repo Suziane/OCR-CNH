@@ -1,0 +1,19 @@
+Com base na imagem fornecida, aqui está o reconhecimento dos campos em formato JSON:
+
+```json
+{
+    "nome": "DEUTNER MENICI PARON",
+    "cpf": "308.396.334-32",
+    "filiacao": "PATARO FABIANE YBARRA; LAURENTINO LELIC JOICE",
+    "data_nascimento": "08/05/1979",
+    "primeira_habilitacao": "26/07/1972",
+    "validade": "13/05/2009",
+    "documento_identidade": "728753431",
+    "orgao_emissor": "SDS",
+    "uf": "PI",
+    "numero_registro": "12947683370",
+    "acc": "",
+    "permissao": "B",
+    "numero_valido": "789119050"
+}
+```

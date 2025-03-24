@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "FRANCHA VERGUEIRO BUCCHI",
+  "CPF": "357.012.367-73",
+  "filiação": "BOTTEON SERVILHA HUB, CHRISTY BUGELLI SUYAMI DUARTE",
+  "data de nascimento": "12/04/1977",
+  "primeira habilitação": "20/06/2005",
+  "validade": "16/10/1962",
+  "documento de identidade": "63222785",
+  "órgão emissor": "SDS",
+  "UF": "PR",
+  "número do registro": "82587310684",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número válido": "611618107"
+}
+```

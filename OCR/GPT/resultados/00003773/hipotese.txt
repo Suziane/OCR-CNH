@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "GRADNAUER BILOTTI PINTERICH",
+  "cpf": "113.262.503-37",
+  "filiacao": "ZAHN TESHIROGUI YADO ARAUJO FRIGERI LITARDO SABIA VIEIRA",
+  "data_de_nascimento": "19/10/1965",
+  "primeira_habilitacao": "10/07/1964",
+  "validade": "22/02/1980",
+  "documento_de_identidade": "730765408",
+  "orgao_emissor": "SEJ",
+  "uf": "AC",
+  "numero_do_registro": "69646060566",
+  "acc": "",
+  "permissao": "",
+  "categoria": "C",
+  "numero_valido": "535675311"
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "REGENTHAL GUNSORA SIGNORI",
+  "CPF": "623.958.488-67",
+  "filiação": "GALILELO BACCO BONIM RIBEIRO\nCANEZIM TAKEUCHI POCCI RODRIGUES",
+  "data de nascimento": "11/02/2002",
+  "primeira habilitação": "04/10/1969",
+  "validade": "06/05/2019",
+  "documento de identidade": "723980726",
+  "órgão emissor": "SEJ",
+  "UF": "MG",
+  "número do registro": "41158685093",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "C",
+  "número válido": "465085461"
+}
+```

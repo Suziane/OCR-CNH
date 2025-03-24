@@ -1,0 +1,21 @@
+Aqui está o reconhecimento dos campos solicitados organizado em formato JSON:
+
+```json
+{
+  "nome": "MACHLINE SU GAZZETTA",
+  "cpf": "333.442.752-83",
+  "filiação": "TURTURA TAZIMA BALEEIRO",
+  "data_nascimento": "16/01/2015",
+  "primeira_habilitação": "02/07/1965",
+  "validade": "08/07/1962",
+  "documento_identidade": "9710544010",
+  "órgão_emissor": "POM",
+  "uf": "AM",
+  "número_registro": "13794173249",
+  "acc": "",
+  "permissão": "D",
+  "categoria": ""
+}
+``` 
+
+Caso algum campo não tenha sido encontrado, seu valor foi atribuído como uma string vazia.

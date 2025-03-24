@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "ANTONORSI CAZELATO ELOA",
+  "CPF": "926.677.466-94",
+  "filiação": "AIALIA SIDOW COPPOLA / MAUES FILOSO FELISBINO",
+  "data de nascimento": "22/07/1988",
+  "primeira habilitação": "12/03/1955",
+  "validade": "06/09/2001",
+  "documento de identidade": "789450744",
+  "órgão emissor": "POF",
+  "UF": "GO",
+  "número do registro": "77549124807",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "D",
+  "número válido": "581482011"
+}
+```

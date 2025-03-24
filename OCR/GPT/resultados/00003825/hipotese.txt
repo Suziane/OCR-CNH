@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "SUGUIHURA TRANI LONGHI",
+  "CPF": "458.283.263-68",
+  "filiação": "DERVAZI TYEMI REC DAS NEVES ANDRELLO SCUBHIA GILDA RODRIGUES",
+  "data de nascimento": "20/02/1954",
+  "primeira habilitação": "08/01/1970",
+  "validade": "24/11/1950",
+  "documento de identidade": "119771123",
+  "órgão emissor": "SESP",
+  "UF": "PR",
+  "número do registro": "72558127640",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número válido": "351805550"
+}
+```

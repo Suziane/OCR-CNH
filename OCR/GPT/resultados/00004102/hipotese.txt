@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "OSHIMA REVI REWIN",
+  "CPF": "571.100.038-17",
+  "filiação": "JENNIFER BUSNELLO SIGNO; KLEVER MARJORE TORREL",
+  "data de nascimento": "06/08/2001",
+  "primeira habilitação": "24/03/2014",
+  "validade": "28/11/1992",
+  "documento de identidade": "434335642",
+  "órgão emissor": "SES",
+  "UF": "MG",
+  "número do registro": "90688839414",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "E",
+  "número válido": "3417769784"
+}
+```

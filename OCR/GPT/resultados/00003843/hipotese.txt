@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "AIARON DELANO REHEN",
+  "cpf": "570.317.823-17",
+  "filiacao": "DELORENZO THEODOR ANSA, SONODA MAZI AMADEO RAMOS",
+  "data_nascimento": "31/10/1967",
+  "primeira_habilitacao": "20/06/2009",
+  "validade": "07/11/2001",
+  "documento_identidade": "174035810",
+  "orgao_emissor": "SPTC",
+  "uf": "BA",
+  "numero_registro": "61203017168",
+  "acc": "",
+  "permissao": "",
+  "categoria": "E",
+  "numero_valido_vertical": "661172807"
+}
+```

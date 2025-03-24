@@ -1,0 +1,21 @@
+Aqui está o resultado organizado em formato JSON com base nas informações que você forneceu:
+
+```json
+{
+    "nome": "MONIA TALMELLI FAVRIN",
+    "CPF": "042.643.988-00",
+    "filiação": "RODOLFO FILIPPINI BABI RODRIGUES GUERSHOM MASTANTUONO CARVALHO",
+    "data_de_nascimento": "16/11/1972",
+    "primeira_habilitação": "20/01/1992",
+    "validade": "28/05/1994",
+    "documento_de_identidade": "388294218",
+    "órgão_emissor": "SESP",
+    "UF": "PR",
+    "número_do_registro": "251274919105",
+    "ACC": "",
+    "permissão": "A",
+    "número_válido": "276132412"
+}
+```
+
+Se precisar de mais alguma coisa, é só avisar!

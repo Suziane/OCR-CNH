@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "REGENTHAL GONSORA SIGNORI",
+    "cpf": "623.959.488-67",
+    "filiacao": "GALILELO BACCO BONIM RIBEIRO, CANEZIM TAKEUCHI POCCI RODRIGUES",
+    "data_de_nascimento": "11/02/2002",
+    "primeira_habilitacao": "04/10/1969",
+    "validade": "06/05/2019",
+    "documento_de_identidade": "723980726",
+    "orgao_emissor": "SEJ",
+    "uf": "MG",
+    "numero_do_registro": "41158685903",
+    "acc": "",
+    "permissao": "",
+    "categoria": "C",
+    "numero_valido": "465085461"
+}
+```

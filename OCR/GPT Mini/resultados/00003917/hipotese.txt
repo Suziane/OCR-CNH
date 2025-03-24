@@ -1,0 +1,22 @@
+Aqui está o reconhecimento dos campos da imagem em formato JSON:
+
+```json
+{
+    "nome": "MARDEN REGE HOLOVKO",
+    "cpf": "699.185.107-81",
+    "filiação": "ISHTY PETTA PERCHE GOMES",
+    "data_nascimento": "10/10/1961",
+    "primeira_habilitação": "01/02/1961",
+    "validade": "01/02/1961",
+    "documento_identidade": "779473796 PCM SC",
+    "órgão_emissor": "",
+    "uf": "",
+    "número_do_registro": "3475465798",
+    "data_nascimento": "",
+    "acc": "",
+    "permissão": "B",
+    "categoria": ""
+}
+```
+
+Caso haja algo mais que você precise, estou à disposição!

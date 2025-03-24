@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "CARRADITA SHY PARRAS",
+  "cpf": "086.524.786-27",
+  "filiacao": "GLEDSON NEGRETTI CAMPOS, AWADE PAGLIARUSSI CEL CAVALCANTI",
+  "data_de_nascimento": "05/12/2018",
+  "primeira_habilitacao": "30/08/1972",
+  "validade": "29/02/1964",
+  "documento_de_identidade": "324953422",
+  "orgao_emissor": "SSP",
+  "uf": "RS",
+  "numero_do_registro": "81375594343",
+  "acc": "",
+  "permissao": "",
+  "categoria": "AB",
+  "numero_valido": "8054369"
+}
+```

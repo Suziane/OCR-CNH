@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "THATY WEEGE HIGASSIARAGU",
+    "cpf": "014.667.711-00",
+    "filiacao": "CAMPINEIRO TESTONI ALC CARDOSO IAMAGUTE AUGUSTUS BROSCH NASCIMENTO",
+    "data_de_nascimento": "12/04/2030",
+    "primeira_habilitacao": "27/10/1994",
+    "validade": "08/08/1987",
+    "documento_de_identidade": "709188146",
+    "orgao_emissor": "SESP",
+    "uf": "MT",
+    "numero_do_registro": "04904567453",
+    "acc": "",
+    "permissao": "",
+    "categoria": "A",
+    "numero_valido": "454484434"
+}
+```

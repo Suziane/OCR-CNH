@@ -1,0 +1,22 @@
+Aqui está o resultado organizado em formato JSON, com os campos reconhecidos da imagem:
+
+```json
+{
+    "nome": "NAGATOMO DONATIELLO BENSEK",
+    "cpf": "151.554.043-04",
+    "filiação": "MARQUESI LEMUEL PELISSO RIBEIRO, KAROLSKI TOYOKAWA ADELE MORAES",
+    "data_nascimento": "25/08/1981",
+    "primeira_habilitação": "12/10/1976",
+    "validade": "02/07/1992",
+    "documento_identidade": "702456925",
+    "orgão_emissor": "SJS",
+    "uf": "BA",
+    "número_registro": "9480500881",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "B",
+    "número_válido": ""
+}
+```
+
+Se houver mais campos que você gostaria de incluir ou se precisar de ajustes, fique à vontade para avisar!

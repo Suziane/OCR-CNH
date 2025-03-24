@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "KADRI FILHIOLINO TESHIMA",
+    "CPF": "420.946.999-86",
+    "filiação": "MAZONE PELA STRUMIEL MONTEIRO DEFING ICIMOTO SEGA SALES",
+    "data de nascimento": "28/03/1968",
+    "primeira habilitação": "02/01/1952",
+    "validade": "07/12/1980",
+    "documento de identidade": "685506988",
+    "órgão emissor": "POM",
+    "UF": "MT",
+    "número do registro": "97542880437",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "AB",
+    "número válido": "484836230"
+}
+```

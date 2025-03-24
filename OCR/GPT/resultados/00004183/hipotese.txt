@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "MEIRY GENIVAL PAUL",
+  "CPF": "061.503.140-49",
+  "filiação": "BOLFARINE HECK OHNISHI, FREITAS CAVALLI PEREIRA",
+  "data de nascimento": "19/09/2018",
+  "primeira habilitação": "16/01/2015",
+  "validade": "08/11/2002",
+  "documento de identidade": "260433780",
+  "órgão emissor": "SES",
+  "UF": "PR",
+  "número do registro": "71606102691",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "C",
+  "número válido": "720022915"
+}
+```

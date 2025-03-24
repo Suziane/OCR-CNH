@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "FRANGO NOH ROSIANE",
+  "cpf": "095.127.287-02",
+  "filiacao": "RIVITTI MAGALOTTI VA RAMOS, PAOLIELLO JOLY BELUTI",
+  "data_nascimento": "06/03/1959",
+  "primeira_habilitacao": "13/06/1967",
+  "validade": "19/10/1967",
+  "documento_identidade": "722435332",
+  "orgao_emissor": "SPTC",
+  "uf": "GO",
+  "numero_registro": "95161445773",
+  "acc": "",
+  "permissao": "",
+  "categoria": "A",
+  "numero_valido": "846624164"
+}
+```

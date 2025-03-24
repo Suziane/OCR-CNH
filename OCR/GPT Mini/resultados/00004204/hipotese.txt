@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "BIAZOLLI CAMARNEIRO ANELY",
+  "CPF": "873.488.756-37",
+  "filiação": "CASETA CHUO NAILU DA COSTA, BOBRA WAJMAN BERGOCE DA MATA",
+  "data_nascimento": "10/12/1981",
+  "primeira_habilitação": "25/09/1976",
+  "validade": "06/01/1997",
+  "documento_identidade": "099161503 SEJ GO",
+  "órgão_emissor": "SEJ",
+  "UF": "GO",
+  "número_registro": "307764265523",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "D",
+  "número_válido": "190614006"
+}
+```

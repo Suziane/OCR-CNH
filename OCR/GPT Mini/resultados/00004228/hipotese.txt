@@ -1,0 +1,17 @@
+```json
+{
+    "nome": "EDY BUTKERAITIS FLORE",
+    "CPF": "089.170.332-29",
+    "filiação": "BROETTO RUANDA MAGATON TAMAI MANFREDI RODRIGUES",
+    "data_nascimento": "21/06/1955",
+    "primeira_habilitação": "08/12/2008",
+    "validade": "27/08/1990",
+    "documento_identidade": "724062038",
+    "órgão_emissor": "POM",
+    "UF": "CE",
+    "número_registro": "03485470796",
+    "ACC": "",
+    "permissão": "C",
+    "categoria": ""
+}
+```

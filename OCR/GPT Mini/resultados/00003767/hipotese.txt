@@ -1,0 +1,21 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos da imagem:
+
+```json
+{
+    "nome": "SOEL SOBREIRA TRIANO",
+    "cpf": "522.990.646-00",
+    "filiação": "KANDI RETTORI PECAN STACHISSINT MARIANNA",
+    "data_nascimento": "14/07/2004",
+    "primeira_habilitação": "17/06/1958",
+    "validade": "01/05/1991",
+    "documento_identidade": "810913094",
+    "orgão_emissor": "SSP",
+    "uf": "RJ",
+    "número_registro": "987708097410",
+    "acc": "",
+    "permissão": "",
+    "categoria": ""
+}
+```
+
+Caso você precise de mais alguma coisa, é só avisar!

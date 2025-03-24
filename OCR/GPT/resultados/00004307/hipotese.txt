@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "TERUEL EVALDO DEMIATE",
+  "CPF": "237.297.287-17",
+  "filiação": "FAZZANI CLEBERSON CASONATO MICHELINI MANTOVANINI BARROS",
+  "data de nascimento": "30/08/1968",
+  "primeira habilitação": "08/03/2008",
+  "validade": "22/05/1974",
+  "documento de identidade": "139752882",
+  "órgão emissor": "POM",
+  "UF": "FR",
+  "número do registro": "49413770903",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "E",
+  "número válido": "6613454"
+}
+```

@@ -1,0 +1,22 @@
+Aqui está o reconhecimento dos campos solicitados organizados em um arquivo JSON:
+
+```json
+{
+    "nome": "TONNETTI JULYANE RUZA",
+    "cpf": "557.005.215-12",
+    "filiação": "KUCHARIAN ROTGER LUCIEN, BIZZOCCHI DAIANE FICK RODRIGUES",
+    "data_de_nascimento": "20/03/1954",
+    "primeira_habilitação": "23/01/1964",
+    "validade": "02/03/1960",
+    "documento_de_identidade": "101770200",
+    "órgão_emissor": "SSP",
+    "uf": "MG",
+    "número_do_registro": "44014513716",
+    "acc": "",
+    "permissão": "",
+    "categoria": "C",
+    "número_válido": "4446888043"
+}
+```
+
+Os campos que não foram encontrados foram atribuídos como strings vazias.

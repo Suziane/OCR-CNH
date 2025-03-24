@@ -1,0 +1,21 @@
+```json
+{
+  "nome": "LARCHER FRADICO CA",
+  "CPF": "562.855.639-42",
+  "filiação": {
+    "pai": "AHN TEICHII SALEMA",
+    "mãe": "FORATTINI TOSI MARIAN"
+  },
+  "data_de_nascimento": "07/02/2001",
+  "primeira_habilitação": "21/04/1966",
+  "validade": "09/11/2003",
+  "documento_de_identidade": "569077096",
+  "órgão_emissor": "SEJ",
+  "UF": "RS",
+  "número_do_registro": "74129430080",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número_válido": "846738140"
+}
+```

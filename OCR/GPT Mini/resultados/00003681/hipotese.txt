@@ -1,0 +1,22 @@
+Aqui está o resultado em formato JSON com os dados reconhecidos:
+
+```json
+{
+    "nome": "COPPE RORIZ WASHIMI",
+    "cpf": "069.092.008-37",
+    "filiação": "CRNKOVIC THAM KULLER SOARES\nNOCCIOLI CARROZZA BACE PEREIRA",
+    "data_nascimento": "19/10/1970",
+    "primeira_habilitação": "13/01/2011",
+    "validade": "12/08/1980",
+    "documento_identidade": "958604216",
+    "orgão_emissor": "POM",
+    "uf": "SC",
+    "número_registro": "29423362357",
+    "acc": "",
+    "permissão": "",
+    "categoria": "C",
+    "número_válido": "695049544"
+}
+```
+
+Se precisar de mais alguma coisa, é só avisar!

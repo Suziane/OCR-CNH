@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "ROSANE OLIVEIRA FLORRA",
+  "CPF": "530.330.774-39",
+  "filiação": "VARRONI ROSMERI RETT/IKETE MARCHI ALMEIDA COSTA",
+  "data de nascimento": "14/02/1964",
+  "primeira habilitação": "02/07/1997",
+  "validade": "18/02/1963",
+  "documento de identidade": "302843967",
+  "órgão emissor": "SSP",
+  "UF": "BA",
+  "número do registro": "5720972742",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número válido": "053161196"
+}
+```

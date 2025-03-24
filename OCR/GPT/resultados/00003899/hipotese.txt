@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "CORNELIO BIANCHI PAINE",
+  "CPF": "067.123.215-49",
+  "filiação": "STEFANI NOELIA KAR, ROCHA, RENEE MARILISIL NACHINE NUNES",
+  "data de nascimento": "08/11/1982",
+  "primeira habilitação": "02/02/1995",
+  "validade": "25/09/1998",
+  "documento de identidade": "226207056",
+  "órgão emissor": "SSP RS",
+  "UF": "RS",
+  "número do registro": "79983894981",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "",
+  "número válido": "484445526"
+}
+```

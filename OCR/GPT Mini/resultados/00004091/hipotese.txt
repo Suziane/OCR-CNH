@@ -1,0 +1,19 @@
+Aqui está o resultado do reconhecimento dos campos da imagem em formato JSON:
+
+```json
+{
+    "nome": "POSTAL BRAZAO ANDUEZA",
+    "cpf": "223.360.636-11",
+    "filiação": "GA PASSARO AVELLAR DA PAZ MILESKI CAVALLIERI TOYAMA COSTA",
+    "data_nascimento": "25/12/2014",
+    "primeira_habilitação": "07/10/1978",
+    "validade": "17/08/1975",
+    "documento_identidade": "195850075",
+    "órgão_emissor": "POM",
+    "UF": "SP",
+    "número_do_registro": "19460543190",
+    "acc": "",
+    "permissão": "B",
+    "categoria": ""
+}
+```

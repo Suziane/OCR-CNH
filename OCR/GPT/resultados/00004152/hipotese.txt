@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "MUGGLER MANO LAUDELIN",
+  "CPF": "036.506.350-22",
+  "filiação": "BERGSTEIN ROLINK CHIAOTING SALES, RISTORI TONIDANDEL",
+  "data de nascimento": "05/11/2014",
+  "primeira habilitação": "18/12/2017",
+  "validade": "11/12/2004",
+  "documento de identidade": "689605705",
+  "órgão emissor": "SEJ",
+  "UF": "SC",
+  "número do registro": "1888378473",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número válido": "303982179"
+}
+```

@@ -1,0 +1,22 @@
+Aqui está o reconhecimento dos campos solicitados, organizado em um formato JSON:
+
+```json
+{
+  "nome": "CREUSA SUGAI GALASSO",
+  "cpf": "490.667.760-64",
+  "filiacao": "DAMIANY GUELFI FADA SALES, JIVAGO IZEPP IAYOUB",
+  "data_de_nascimento": "16/06/1978",
+  "primeira_habilitacao": "25/01/1989",
+  "validade": "14/09/1981",
+  "documento_identidade": "543153487",
+  "orgao_emissor": "SESP",
+  "uf": "MT",
+  "numero_do_registro": "86668490558",
+  "acc": "",
+  "permissao": "",
+  "categoria": "A",
+  "numero_valido": "12916948"
+}
+```
+
+Se precisar de mais alguma coisa, estou à disposição!

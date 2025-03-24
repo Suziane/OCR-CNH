@@ -1,0 +1,21 @@
+Aqui está o reconhecimento dos campos solicitados no formato JSON:
+
+```json
+{
+  "nome": "HIDEO ASSIMO TORTORA",
+  "cpf": "644.035.970-33",
+  "filiação": "HINUY BELLON ERRA, MURSACK GERALDELLI SILV PEREIRA",
+  "data_de_nascimento": "30/11/1981",
+  "primeira_habilitação": "15/03/1964",
+  "validade": "27/07/2013",
+  "documento_de_identidade": "634325164",
+  "órgão_emissor": "SNJ",
+  "UF": "SP",
+  "número_do_registro": "228719897943",
+  "ACC": "",
+  "permissão": "AB",
+  "categoria": ""
+}
+```
+
+Caso tenha mais alguma outra solicitação ou dúvida, estou à disposição!

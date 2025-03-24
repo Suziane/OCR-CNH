@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "SARTORI ILIEV REITER",
+  "CPF": "135.987.299-01",
+  "filiação": "HARBS IDALGO LUCILA SOUZA JARDEL REBERTE HANK",
+  "data de nascimento": "03/11/2013",
+  "primeira habilitação": "16/09/1968",
+  "validade": "05/07/1958",
+  "documento de identidade": "152502087",
+  "órgão emissor": "POF",
+  "UF": "RS",
+  "número do registro": "16670407047",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "D",
+  "número válido": "26278533"
+}
+```

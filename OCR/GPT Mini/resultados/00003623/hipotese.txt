@@ -1,0 +1,21 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos:
+
+```json
+{
+    "nome": "CORNEAU BICCIATTO PAOLA",
+    "CPF": "472.461.683-03",
+    "filiação": "FOWLER NOEREMBE JESUS FRANCINE ALEYLOVE VESCOVI SILVA",
+    "data_de_nascimento": "04/02/1950",
+    "primeira_habilitação": "11/08/2007",
+    "validade": "12/11/1964",
+    "documento_de_identidade": "622780409 SDS SP",
+    "orgão_emissor": "SDS SP",
+    "UF": "",
+    "número_do_registro": "0872835117",
+    "ACC": "",
+    "permissão": "A",
+    "categoria": ""
+}
+```
+
+Caso haja mais informações ou alterações, é só avisar!

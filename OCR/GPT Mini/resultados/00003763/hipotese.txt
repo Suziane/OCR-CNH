@@ -1,0 +1,21 @@
+Aqui está o reconhecimento dos campos solicitados organizados em um arquivo JSON:
+
+```json
+{
+  "nome": "CAPELLARO GIZELE NANAY",
+  "cpf": "706.135.980-00",
+  "filiação": "ESCUTA VIDOTO LUDOVI",
+  "data_nascimento": "27/05/1994",
+  "primeira_habilitação": "11/09/1971",
+  "validade": "16/07/1981",
+  "documento_identidade": "352797842113",
+  "órgão_emissor": "SESP",
+  "UF": "SP",
+  "número_registro": "843176076",
+  "ACC": "",
+  "permissão": "C",
+  "número_válido": ""
+}
+```
+
+Os campos que não foram encontrados foram atribuídos como uma string vazia.

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "NAKASSE BELLODI JUNQUEIRA",
+  "CPF": "172.687.787-67",
+  "filiação": "SHEYLA MERCER JORDANI, KENZI VETRONE FUZISHIMA",
+  "data de nascimento": "23/09/1994",
+  "primeira habilitação": "15/10/1976",
+  "validade": "30/10/1980",
+  "documento de identidade": "056118648",
+  "órgão emissor": "SPTC",
+  "UF": "PE",
+  "número do registro": "62959405027",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "C",
+  "número válido": "607207865"
+}
+```

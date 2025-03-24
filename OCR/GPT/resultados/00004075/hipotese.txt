@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "SEVILHA ODIR CAMPOLINA",
+  "CPF": "883.249.628-09",
+  "filiação": "CAJAJEFIRA MALACR MENDES, ERCOLEZZI PAPUCCI FIOR OLIVEIRA",
+  "data de nascimento": "02/01/1959",
+  "primeira habilitação": "11/08/1964",
+  "validade": "31/01/1976",
+  "documento de identidade": "205064276",
+  "órgão emissor": "SSP",
+  "UF": "PR",
+  "número do registro": "357456581",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "",
+  "número válido": "40424390"
+}
+```

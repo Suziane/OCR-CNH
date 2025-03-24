@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "BISLY JEGRELLI MARETTO",
+    "CPF": "652.626.602-05",
+    "filiação": "NAKAZONE SOLIMEO ROSEN MORAES, GONTJUTO KAVAGUT FAGIO JESUS",
+    "data_nascimento": "24/06/2020",
+    "primeira_habilitação": "15/04/2012",
+    "validade": "01/03/1949",
+    "documento_identidade": "933.160.225 SNJ MA",
+    "órgão_emissor": "SNU",
+    "UF": "",
+    "número_do_registro": "98772596422",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "",
+    "número_válido": ""
+}
+```

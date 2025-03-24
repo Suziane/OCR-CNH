@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "AVELINY MISSUMI DAROS",
+    "CPF": "314.917.604-27",
+    "filiação": "FEDRIZZI CARIOCA MASAMI, GUARDIA EDIMAR ZAVITOSKI LIMA",
+    "data_nascimento": "26/06/1980",
+    "primeira_habilitação": "",
+    "validade": "24/05/1991",
+    "documento_identidade": "389558515 SESP RS",
+    "órgão_emissor": "SESP",
+    "UF": "RS",
+    "número_registro": "02614881535",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "",
+    "número_válido": "05954128"
+}
+```

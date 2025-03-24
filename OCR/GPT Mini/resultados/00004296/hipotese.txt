@@ -1,0 +1,21 @@
+Aqui está o resultado organizado em formato JSON, conforme solicitado:
+
+```json
+{
+    "nome": "MONZANI SELLA CRISCUOLO",
+    "CPF": "679.341.366-09",
+    "filiação": "VALDERAMA SPERONI KYOTA PIRES PUGLIERI MUCIN QUERCI DA LUZ",
+    "data_nascimento": "09/11/1979",
+    "primeira_habilitação": "24/10/1983",
+    "validade": "09/11/1983",
+    "documento_identidade": "503246712",
+    "órgão_emissor": "SJS",
+    "UF": "AL",
+    "número_registro": "53746630824",
+    "ACC": "",
+    "permissão": "AB",
+    "categoria": ""
+}
+``` 
+
+Caso precise de mais alguma coisa, é só avisar!

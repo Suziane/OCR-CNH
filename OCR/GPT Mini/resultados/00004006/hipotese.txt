@@ -1,0 +1,22 @@
+Aqui está o resultado do reconhecimento dos campos solicitados, organizado em um formato JSON:
+
+```json
+{
+  "nome": "BERTOLAMI ANDRELEVICIUS",
+  "cpf": "210.834.914-66",
+  "filiação": "HEMERLY FABOZZI FERRAN SILVA, BIA RUPPERT NISHIOKA DA PAZ",
+  "data_nascimento": "01/02/2001",
+  "primeira_habilitação": "21/06/1997",
+  "validade": "20/10/2014",
+  "documento_identidade": "652550185 SESP SC",
+  "órgão_emissor": "",
+  "uf": "",
+  "número_do_registro": "95765411627",
+  "data_nascimento": "01/02/2001",
+  "acc": "B",
+  "permissão": "",
+  "categoria": ""
+}
+```
+
+Se precisar de mais alguma coisa, é só avisar!

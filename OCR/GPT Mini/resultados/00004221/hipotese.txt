@@ -1,0 +1,17 @@
+```json
+{
+    "nome": "CARLETTI CABETTE TANUS",
+    "cpf": "521.783.648-29",
+    "filiação": "INFORZATO ELER MARCELO",
+    "data_nascimento": "01/09/1996",
+    "primeira_habilitação": "24/08/1980",
+    "validade": "03/07/1950",
+    "documento_identidade": "843441665",
+    "órgão_emissor": "SNJ",
+    "UF": "PR",
+    "número_do_registro": "55413947830",
+    "ACC": "",
+    "permissão": "D",
+    "número_válido": "565536844"
+}
+```

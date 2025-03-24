@@ -1,0 +1,21 @@
+Aqui está o resultado organizado no formato JSON, com os campos reconhecidos com seus respectivos valores:
+
+```json
+{
+  "nome": "MUZZIO RICARD FRIEDIA",
+  "CPF": "431.543.784-05",
+  "filiação": "KIVIA CIRINEU LYRA STRONGOLI LAFANJO PEREIRA",
+  "data_nascimento": "09/05/1952",
+  "primeira_habilitação": "01/02/1978",
+  "validade": "",
+  "documento_identidade": "161563491",
+  "órgão_emissor": "PCM",
+  "UF": "BA",
+  "número_registro": "94468362379",
+  "ACC": "",
+  "permissão": "D",
+  "categoria": ""
+}
+``` 
+
+Os campos que não puderam ser reconhecidos foram deixados como strings vazias.

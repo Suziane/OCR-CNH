@@ -1,0 +1,22 @@
+Aqui está o resultado em formato JSON, organizado conforme solicitado:
+
+```json
+{
+  "nome": "WOO GALLASSI ANDREAZZA",
+  "CPF": "276.486.957-66",
+  "filiação": "IGNA GUARALDO BOUSEKLA\nMARICHEL GIBRAN MARGARIT ALVES",
+  "data de nascimento": "16/05/1996",
+  "primeira habilitação": "12/07/1964",
+  "validade": "08/11/2015",
+  "documento de identidade": "132239437 POF AL",
+  "órgão emissor": "",
+  "UF": "",
+  "número do registro": "88434357830",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "E",
+  "número válido": "026844729"
+}
+```
+
+Qualquer campo que não foi possível identificar foi atribuído como uma string vazia.

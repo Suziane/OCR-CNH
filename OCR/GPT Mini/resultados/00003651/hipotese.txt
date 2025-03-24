@@ -1,0 +1,22 @@
+Com base nas informações fornecidas na imagem, aqui está a estrutura JSON com os campos reconhecidos:
+
+```json
+{
+  "nome": "MURAOKA TRANCHESI OBR EGON",
+  "cpf": "158.553.942-20",
+  "filiação": "ZARPELON VALDINEI SANTOS\nARBEK HOSIASSON GOSARA SOUZA",
+  "data_nascimento": "21/06/1981",
+  "primeira_habilitação": "17/01/1964",
+  "validade": "08/09/1986",
+  "documento_identidade": "963341523 SJS SP",
+  "órgão_emissor": "",
+  "uf": "",
+  "número_registro": "87934145661",
+  "acc": "",
+  "permissão": "H",
+  "categoria": "D",
+  "número_válido": ""
+}
+```
+
+Observe que campos sem informações reconhecidas foram deixados como strings vazias.

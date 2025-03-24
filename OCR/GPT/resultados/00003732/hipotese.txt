@@ -1,0 +1,21 @@
+```json
+{
+    "nome": "JOFFE CAPELLA ZANDOVAL",
+    "CPF": "307.414.933-73",
+    "filiação": [
+        "MALAVOLITA TAMINATO TIE",
+        "KULESSA RUILOBA DANDRETTA BARBOSA"
+    ],
+    "data_de_nascimento": "23/06/1985",
+    "primeira_habilitação": "21/01/1961",
+    "validade": "17/07/1975",
+    "documento_de_identidade": "297365067",
+    "órgão_emissor": "SSP",
+    "UF": "SP",
+    "número_do_registro": "27195645507",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "AB",
+    "número_válido": "870066865"
+}
+```

@@ -1,0 +1,22 @@
+Com base nos dados da imagem, aqui está o reconhecimento dos campos em formato JSON:
+
+```json
+{
+    "nome": "DAGNOLUZZO LAZAR CAFUNDO",
+    "cpf": "581.656.852-36",
+    "filiacao": "SPINDEL BENKERT MAU; MINEOKA PIERALLINI TI FERNANDES",
+    "data_nascimento": "17/09/1996",
+    "primeira_habilitacao": "22/01/1960",
+    "validade": "04/08/1952",
+    "documento_identidade": "892705516",
+    "orgao_emissor": "SES RS",
+    "uf": "RS",
+    "numero_registro": "13371966647",
+    "acc": "",
+    "permissao": "",
+    "categoria": "",
+    "numero_valido": "434720076"
+}
+```
+
+Caso algum campo não seja encontrado, o valor é atribuído como uma string vazia.

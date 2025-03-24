@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "PICHETTI FANNY AGUSTIN",
+  "cpf": "130.904.052-45",
+  "filiacao": "DALEI WALTRICK SILVE, ROSEMARY HELEN RITTA RIBEIRO",
+  "data_nascimento": "27/01/1951",
+  "primeira_habilitacao": "04/04/1975",
+  "validade": "08/03/2017",
+  "documento_identidade": "330976072",
+  "orgao_emissor": "SJS",
+  "uf": "RS",
+  "numero_registro": "4696556631",
+  "acc": "",
+  "permissao": "",
+  "categoria": "B",
+  "numero_valido": "305943470"
+}
+```

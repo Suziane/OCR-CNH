@@ -1,0 +1,21 @@
+Aqui está o resultado do reconhecimento dos campos presentes na imagem em formato JSON:
+
+```json
+{
+    "nome": "TAMBOR PERENCIN MIRHAN",
+    "cpf": "474.091.943-59",
+    "filiação": "OIE MARCELLI CIPOLLETTA",
+    "data_nascimento": "11/08/1950",
+    "primeira_habilitação": "14/02/2013",
+    "validade": "06/11/1984",
+    "documento_identidade": "2873977415",
+    "orgão_emissor": "SNJ",
+    "uf": "RN",
+    "número_do_registro": "07636011673",
+    "acc": "",
+    "permissão": "",
+    "categoria": ""
+}
+```
+
+Os campos que não puderam ser encontrados foram preenchidos com strings vazias.

@@ -1,0 +1,17 @@
+```json
+{
+    "nome": "TERUEL EVALDO DEMIATE",
+    "cpf": "237.297.287-17",
+    "filiação": "FAZZANI CLEBERSON CASONATO",
+    "data_nascimento": "30/08/1968",
+    "primeira_habilitação": "08/03/2008",
+    "validade": "22/05/1974",
+    "documento_identidade": "139752882",
+    "orgão_emissor": "POM",
+    "UF": "FR",
+    "número_do_registro": "494137790903",
+    "ACC": "",
+    "permissão": "",
+    "categoria": ""
+}
+```

@@ -1,0 +1,22 @@
+Aqui está o reconhecimento dos campos solicitados da imagem em formato JSON:
+
+```json
+{
+    "nome": "IUASSE AYOUCE SHIMAZU",
+    "cpf": "534.365.143-73",
+    "filiação": "BUTUGAN ANASTACIO CAR\nWANDA BALPARDA KRATK REZENDE",
+    "data_nascimento": "30/12/1974",
+    "primeira_habilitação": "20/05/2000",
+    "validade": "",
+    "documento_identidade": "104736173 POM PI",
+    "órgão_emissor": "",
+    "uf": "",
+    "número_registro": "978756100",
+    "data_documento": "11/04/2013",
+    "acc": "",
+    "permissão": "E",
+    "categoria": ""
+}
+```
+
+Os campos que não foram encontrados na imagem estão representados como strings vazias.

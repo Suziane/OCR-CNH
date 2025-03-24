@@ -1,0 +1,17 @@
+```json
+{
+  "nome": "BEMI NARDINELLI NOR",
+  "CPF": "375.595.267-05",
+  "filiação": "GUIDUGLI IANELLO LOHAN\nSTOFFELSHAUS CAMBEIR",
+  "data_de_nascimento": "04/11/1964",
+  "primeira_habilitação": "06/10/1986",
+  "validade": "01/03/2017",
+  "documento_de_identidade": "447229023",
+  "órgão_emissor": "SPTC",
+  "UF": "PB",
+  "número_do_registro": "158796322241",
+  "ACC": "",
+  "permissão": "C",
+  "categoria": ""
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "HOTELLIER LOGATTI VALE",
+  "CPF": "540.237.604-44",
+  "filiação": "WAISBERG MORABITO, ADNA GADELHO MARCOCHI",
+  "data de nascimento": "13/10/1995",
+  "primeira habilitação": "04/08/2017",
+  "validade": "12/10/2010",
+  "documento de identidade": "069001807",
+  "órgão emissor": "SSP",
+  "UF": "MG",
+  "número do registro": "27527674549",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número válido": "691922403"
+}
+```

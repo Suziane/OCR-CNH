@@ -1,0 +1,21 @@
+Aqui está o resultado em formato JSON baseado nos campos reconhecidos:
+
+```json
+{
+  "nome": "WENDY TORIANI KANAMURA",
+  "cpf": "245.480.977-08",
+  "filiação": "GUNNAR HESSER SKWARA RODRIGUES, MAGDA HATAKEYAMA TENENTE",
+  "data_nascimento": "01/11/1980",
+  "primeira_habilitação": "30/10/2004",
+  "validade": "14/06/1974",
+  "documento_identidade": "750590932",
+  "orgão_emissor": "SSP",
+  "uf": "MG",
+  "número_registro": "484998505135",
+  "acc": "",
+  "permissão": "AB",
+  "número_válido": ""
+}
+```
+
+Caso haja algum campo não reconhecido, ele foi atribuído como uma string vazia.

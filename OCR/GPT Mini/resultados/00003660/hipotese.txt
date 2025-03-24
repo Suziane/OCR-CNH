@@ -1,0 +1,22 @@
+Aqui está o resultado organizado em formato JSON com os campos solicitados:
+
+```json
+{
+    "nome": "HERMENEGILDA VAIRO MOCO",
+    "CPF": "835.803.312-",
+    "filiação": "GERALDILI IZUKANA MIITANO",
+    "data_de_nascimento": "26/01/1954",
+    "primeira_habilitação": "31.12.172724",
+    "validade": "03/05/2011",
+    "documento_de_identidade": "",
+    "órgão_emissor": "",
+    "UF": "PR",
+    "número_do_registro": "512 875 148-1",
+    "ACC": "",
+    "permissão": "L",
+    "categoria": "",
+    "número_válido": "848/94/1954"
+}
+```
+
+Note que alguns campos podem não ter informações disponíveis na imagem.

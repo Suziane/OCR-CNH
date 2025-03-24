@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "ELENO SOLAI SHINJI",
+  "CPF": "950.774.829-69",
+  "filiação": "BERTAN DOROTOTO SH\nBRETTAS LINGUANOTTO V",
+  "data_nascimento": "12/05/2012",
+  "primeira_habilitação": "14/03/1984",
+  "validade": "12/04/1998",
+  "documento_identidade": "461131225",
+  "órgão_emissor": "SEJ",
+  "UF": "MG",
+  "número_do_registro": "84842023940",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "C",
+  "número_válido": "823020589"
+}
+```

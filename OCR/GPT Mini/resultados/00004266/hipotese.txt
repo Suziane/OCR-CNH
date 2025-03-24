@@ -1,0 +1,20 @@
+Aqui está o JSON organizado com os dados reconhecidos da imagem:
+
+```json
+{
+  "nome": "SAKAKI GIRÃO SASSON",
+  "CPF": "313.736.266-07",
+  "filiação": "POPE ABDUCHI CHIRA DA LUZ LONGON MINAMISAKO JEN MENDES",
+  "data_nascimento": "13/08/1991",
+  "primeira_habilitação": "11/03/2000",
+  "validade": "12/04/1974",
+  "documento_identidade": "686374174",
+  "órgão_emissor": "POF",
+  "UF": "AL",
+  "número_do_registro": "09392727550",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "E",
+  "número_válido": "364198494"
+}
+```

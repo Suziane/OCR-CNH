@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "ARINELLI RUBINHO NERY",
+    "CPF": "209.197.359-91",
+    "filiação": "OJIMA ASSALIN KAZI",
+    "data_nascimento": "04/03/1997",
+    "primeira_habilitação": "10/01/1965",
+    "validade": "13/06/1962",
+    "documento_identidade": "401840896",
+    "orgão_emissor": "SSP",
+    "UF": "BA",
+    "número_registro": "77675473742",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "A",
+    "número_válido": "994781996"
+}
+```

@@ -1,0 +1,22 @@
+Aqui está o resultado em formato JSON, com os campos reconhecidos:
+
+```json
+{
+    "nome": "BRANCA REZEK ZOZ DA COSTA KATART PARAHYBA KADOW LIMA",
+    "CPF": "366.818.196-99",
+    "filiação": "SICH MAZIN MONTESIN",
+    "data_de_nascimento": "08/06/1969",
+    "primeira_habilitação": "17/01/1956",
+    "validade": "26/06/1996",
+    "documento_de_identidade": "042468326911",
+    "órgão_emissor": "SJS",
+    "UF": "DF",
+    "número_do_registro": "226375973",
+    "ACC": "",
+    "permissão": "A",
+    "categoria": "",
+    "número_válido": ""
+}
+``` 
+
+Caso necessite de ajustes ou mais informações, por favor, avise!

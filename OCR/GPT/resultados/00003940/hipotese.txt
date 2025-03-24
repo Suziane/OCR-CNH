@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "Calsolari Abdalia Kahaju",
+  "cpf": "917.398.078-12",
+  "filiacao": "FRAZAO ARAM VINCO DA PAZ, GERALDI ZIROLDO GUACIR VIANA",
+  "data_nascimento": "03/03/2014",
+  "primeira_habilitacao": "06/07/1957",
+  "validade": "18/12/1957",
+  "documento_identidade": "568534360",
+  "orgao_emissor": "SJS",
+  "uf": "RS",
+  "numero_registro": "11373173884",
+  "acc": "",
+  "permissao": "",
+  "categoria": "D",
+  "numero_valido": "795425549"
+}
+```

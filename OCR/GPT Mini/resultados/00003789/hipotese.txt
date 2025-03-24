@@ -1,0 +1,17 @@
+```json
+{
+  "nome": "ZERBINI SCARTOZZONI MENEGHINI",
+  "cpf": "435.371.048-63",
+  "filiação": "UHRIG MONTES SATOW",
+  "data_nascimento": "11/04/1995",
+  "primeira_habilitação": "11/07/2006",
+  "validade": "29/03/1981",
+  "documento_identidade": "931686039",
+  "órgão_emissor": "SNJ",
+  "uf": "MA",
+  "número_registro": "22553526958",
+  "acc": "",
+  "permissão": "E",
+  "categoria": ""
+}
+```

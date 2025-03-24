@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "MASSIGLI KAIRALLA HASS",
+    "CPF": "681.219.925-75",
+    "filiação": "LEIS SUZAN CYBELI MOREIRA, PERICO ICHIMURA KONOVAL",
+    "data_de_nascimento": "24/02/1954",
+    "primeira_habilitação": "18/04/1984",
+    "validade": "18/11/2014",
+    "documento_de_identidade": "049734398",
+    "órgão_emissor": "POF",
+    "UF": "MG",
+    "número_do_registro": "13432151500",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "A",
+    "número_válido": "256942800"
+}
+```

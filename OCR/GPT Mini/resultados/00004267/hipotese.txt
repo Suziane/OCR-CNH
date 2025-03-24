@@ -1,0 +1,22 @@
+Aqui está o resultado organizado em formato JSON para os campos solicitados:
+
+```json
+{
+    "nome": "Minto Robazza Harue",
+    "cpf": "493.781.266-18",
+    "filiação": "Massula Nocais Ricardi / Pintinha Cuti Estorniol",
+    "data_nascimento": "29/03/1968",
+    "primeira_habilitação": "07/01/2002",
+    "validade": "05/12/1973",
+    "documento_identidade": "718457341",
+    "orgão_emissor": "SEJ",
+    "uf": "AL",
+    "número_registro": "83026031809",
+    "acc": "",
+    "permissão": "",
+    "categoria": "C",
+    "número_válido": "357317133"
+}
+```
+
+Caso algum campo não tenha sido identificado, foi atribuído o valor como string vazia.

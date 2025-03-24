@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "CONTANI ZAVITOSKI SAVASTA",
+    "cpf": "898.771.771-29",
+    "filiacao": "KITABAYASHI NAGILTCN AGY, GOLINELI CARLIN OUTAK NUNES",
+    "data_nascimento": "26/08/2013",
+    "primeira_habilitacao": "17/03/1960",
+    "validade": "24/11/2002",
+    "documento_identidade": "499758547",
+    "orgao_emissor": "SJS",
+    "uf": "PI",
+    "numero_registro": "82549655355",
+    "acc": "",
+    "permissao": "",
+    "categoria": "B",
+    "numero_valido": "957411866"
+}
+```

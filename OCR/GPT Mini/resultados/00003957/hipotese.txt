@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "SDORE ENIR MONIWA",
+    "cpf": "665.235.000-98",
+    "filiação": "AVILEZ A GILBERT TERAMUSSI FUNG PENITE GOMES",
+    "data_nascimento": "25/06/1996",
+    "primeira_habilitação": "09/02/1957",
+    "validade": "04/12/1952",
+    "documento_identidade": "964904470",
+    "órgão_emissor": "POM",
+    "UF": "SC",
+    "número_do_registro": "2343613113",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "B",
+    "número_válido": "057056933"
+}
+```

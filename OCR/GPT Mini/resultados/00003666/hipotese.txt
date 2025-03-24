@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "WYLLIAM VAQUERO AURO",
+  "CPF": "479.301.757-66",
+  "filiação": "HAWLITSCHKE TOGETTO GOLEDSK",
+  "data_de_nascimento": "04/12/1986",
+  "primeira_habilitação": "13/05/2008",
+  "validade": "26/12/1981",
+  "documento_de_identidade": "921402172",
+  "órgão_emissor": "POM",
+  "UF": "SC",
+  "número_do_registro": "45468317530",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "",
+  "número_válido": ""
+}
+```

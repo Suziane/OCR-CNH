@@ -1,0 +1,20 @@
+Aqui está o resultado organizado em formato JSON, conforme solicitado:
+
+```json
+{
+    "nome": "KOYAMA BUCHELE BESSE",
+    "CPF": "C70.870.114-05",
+    "filiação": "KANAÉ BOLDRIN REZK CARDOSO, AVELLAR SALLES MERET REZENDE",
+    "data de nascimento": "18/05/2016",
+    "primeira habilitação": "26/03/1985",
+    "validade": "30/08/2013",
+    "documento de identidade": "928991891",
+    "órgão emissor": "SJS",
+    "UF": "GO",
+    "número do registro": "71955477521",
+    "ACC": "",
+    "permissão": "AB",
+    "categoria": "",
+    "número válido": "235894149"
+}
+```

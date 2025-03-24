@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "GALIZIA EVELY ANOUCH",
+    "CPF": "871.764.264-73",
+    "filiação": "EVIA STENEO ELIANE CASTRO BRIANZE GLAESSNER BARRE BARBOSA",
+    "data_de_nascimento": "20/01/1963",
+    "primeira_habilitação": "14/08/2017",
+    "validade": "18/04/2002",
+    "documento_de_identidade": "911290060",
+    "órgão_emissor": "SE",
+    "UF": "",
+    "número_do_registro": "10650552473",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "",
+    "número_válido": ""
+}
+```

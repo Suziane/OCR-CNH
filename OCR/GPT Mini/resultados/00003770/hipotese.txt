@@ -1,0 +1,17 @@
+```json
+{
+    "nome": "CIPOLAR LERRINE ASATO",
+    "CPF": "912.257.320-85",
+    "filiação": "MATRANGOLLO ASSARIC DIAS",
+    "data_nascimento": "22/11/1980",
+    "primeira_habilitação": "07/04/1974",
+    "validade": "24/08/2005",
+    "documento_identidade": "706495718",
+    "orgão_emissor": "SEJ",
+    "UF": "MG",
+    "número_registro": "68872744456",
+    "ACC": "",
+    "permissão": "AB",
+    "número_válido": "045507816"
+}
+```

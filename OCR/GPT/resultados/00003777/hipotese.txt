@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "GOLDSTEIN MUKATA RAMPONI",
+  "CPF": "480.645.201-77",
+  "filiação": "TANACA GHANI FESTA, RENNE ARAUJO SEON CALDEIRA",
+  "data de nascimento": "15/11/1980",
+  "primeira habilitação": "24/11/2019",
+  "validade": "14/11/1953",
+  "documento de identidade": "050048272",
+  "órgão emissor": "POM",
+  "UF": "GO",
+  "número do registro": "54799284519",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número válido": "213038266"
+}
+```

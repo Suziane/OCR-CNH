@@ -1,0 +1,23 @@
+Aqui está o reconhecimento dos campos solicitados a partir da imagem:
+
+```json
+{
+  "nome": "BORIM CARDENA VINHA",
+  "cpf": "517.582.871-10",
+  "filiação": "LIEBORT GUNTERT ANI\nANCHIETA MEIRELLES SA",
+  "data_nascimento": "02/03/1979",
+  "primeira_habilitação": "",
+  "validade": "08/07/2012",
+  "documento_identidade": "899603592",
+  "orgão_emissor": "SDS",
+  "uf": "MS",
+  "número_do_registro": "72055380742",
+  "data_nascimento_2": "",
+  "acc": "",
+  "permissão": "",
+  "categoria": "",
+  "número_válido": "308550643"
+}
+```
+
+Caso precise de mais informações ou ajustes, fique à vontade para pedir!

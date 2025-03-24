@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "CANOVAS MOREIRA COMENAL",
+  "CPF": "251.035.924-01",
+  "filiação": "SHELY NAVIA SHIE DA LUZ, GROLLA ISABEL EDNELSO",
+  "data_de_nascimento": "27/04/1985",
+  "primeira_habilitação": "17/05/2017",
+  "validade": "08/06/2011",
+  "documento_de_identidade": "7690490",
+  "órgão_emissor": "SEJ",
+  "UF": "CE",
+  "número_do_registro": "04305575866",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "C",
+  "número_válido": "209073090"
+}
+```

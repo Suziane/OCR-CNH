@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "RUGY FALCINI SANGCINI",
+  "CPF": "613.163.507-20",
+  "filiação": "PARDOLIN PARDELLI SEBER\nSELINGARI MALAGO TOMAZ",
+  "data de nascimento": "02/06/1959",
+  "primeira habilitação": "14/12/1985",
+  "validade": "29/08/1981",
+  "documento de identidade": "773244490",
+  "órgão emissor": "",
+  "UF": "SS",
+  "número do registro": "77224202101",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número válido": "0314277990"
+}
+```

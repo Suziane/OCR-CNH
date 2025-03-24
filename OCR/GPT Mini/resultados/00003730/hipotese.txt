@@ -1,0 +1,21 @@
+Aqui está o resultado organizado em formato JSON com os campos reconhecidos:
+
+```json
+{
+    "nome": "URBAN MATSUMOTO PECIN",
+    "cpf": "588.752.983-00",
+    "filiação": "BISTRICE WAI RIBEIRO, FESCINA UTZUMI BARBOSA",
+    "data_nascimento": "16/08/2004",
+    "primeira_habilitação": "05/03/1965",
+    "validade": "11/03/2000",
+    "documento_identidade": "2691015049 SEAP MG",
+    "órgão_emissor": "",
+    "UF": "",
+    "número_do_registro": "67707069830",
+    "ACC": "",
+    "permissão": "",
+    "categoria": ""
+}
+```
+
+Caso precise de mais alguma informação ou ajuste, estou à disposição!

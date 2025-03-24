@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "TARCAS PARAVANI GIUGLIO",
+  "CPF": "027.096.797-75",
+  "filiação": "MATRIXA CIROMAR ABATE, DOTTAVIO ARICIA B NCUVAES",
+  "data de nascimento": "10/10/1983",
+  "primeira habilitação": "09/11/1970",
+  "validade": "10/03/2020",
+  "documento de identidade": "410582633",
+  "órgão emissor": "PCM",
+  "UF": "BA",
+  "número do registro": "22583832734",
+  "ACC": "não",
+  "permissão": "não",
+  "categoria": "E",
+  "número válido": "1375.5747"
+}
+```

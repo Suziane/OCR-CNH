@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "SALVINE BUTZER FIDALGO",
+  "CPF": "561.470.061-77",
+  "filiação": "ODIRLEI AYO GARRO, ZARELLI TSUDA AN NASCIMENTO",
+  "data de nascimento": "19/02/1957",
+  "primeira habilitação": "01/03/2006",
+  "validade": "09/11/1960",
+  "documento de identidade": "411493905",
+  "órgão emissor": "SEJ",
+  "UF": "MG",
+  "número do registro": "64044755209",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número válido": "798727944"
+}
+```

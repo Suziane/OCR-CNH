@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "PULIDO LOES REI",
+  "CPF": "225.850.534-82",
+  "filiação": "ALLEGRO ROSELAINE TRAV JESUS FRANZON PIMONT ISHIZAWA",
+  "data de nascimento": "03/02/1952",
+  "primeira habilitação": "21/12/1999",
+  "validade": "01/07/2001",
+  "documento de identidade": "333259063",
+  "órgão emissor": "POM",
+  "UF": "MG",
+  "número do registro": "63767032402",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "E",
+  "número válido": "166918202"
+}
+```

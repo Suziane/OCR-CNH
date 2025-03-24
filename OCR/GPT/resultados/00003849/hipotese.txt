@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "SODRE ENIR MONIWA",
+  "cpf": "665.235.000-98",
+  "filiacao": "AVILEZ A GILBERT TERAMUSSI FUNG PENITE GOMES",
+  "data_nascimento": "25/06/1996",
+  "primeira_habilitacao": "09/02/1957",
+  "validade": "04/12/1952",
+  "documento_identidade": "964904470",
+  "orgao_emissor": "POM",
+  "uf": "SC",
+  "numero_registro": "23436131131",
+  "acc": "",
+  "permissao": "",
+  "categoria": "B",
+  "numero_valido": "057056933"
+}
+```

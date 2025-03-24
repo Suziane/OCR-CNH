@@ -1,0 +1,22 @@
+Aqui está o resultado organizado em formato JSON com os campos solicitados:
+
+```json
+{
+    "nome": "PARAHYBA TURCHIARI PESOTI",
+    "cpf": "395.402.055-65",
+    "filiacao": "SUNATIS VERSEGHI ANDRI; BIBIANA MENEGALE MANZINI SILVA",
+    "data_nascimento": "30/07/1999",
+    "primeira_habilitacao": "29/08/2004",
+    "validade": "30/04/2017",
+    "documento_identidade": "853651607 SESP BA",
+    "orgao_emissor": "",
+    "uf": "",
+    "numero_registro": "470123847676",
+    "acc": "",
+    "permissao": "",
+    "categoria": "AB",
+    "numero_valido": ""
+}
+```
+
+Se precisar de mais ajustes ou informações, fique à vontade para pedir!

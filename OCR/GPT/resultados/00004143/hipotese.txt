@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "BONFADINI CALUPPO SERCH",
+  "CPF": "184.501.500-27",
+  "filiação": ["VELOZO CESAR PANCIONI", "YAMATE ISLAM THALLIITA"],
+  "data de nascimento": "22/03/1997",
+  "primeira habilitação": "25/05/2001",
+  "validade": "",
+  "documento de identidade": "166659055",
+  "órgão emissor": "POM",
+  "UF": "MS",
+  "número do registro": "53544031493",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "E",
+  "número válido": "778485298"
+}
+```

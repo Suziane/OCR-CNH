@@ -1,0 +1,17 @@
+```json
+{
+    "nome": "FACUNTE BERTHOLIM JACOIA",
+    "cpf": "128.302.235-43",
+    "filiação": "WEEL SETANNI MAKIY CARDOSO PETROZITILLO INGA AS RAMOS",
+    "data_nascimento": "28/02/1951",
+    "primeira_habilitação": "26/07/2007",
+    "validade": "27/12/1996",
+    "documento_identidade": "036325132",
+    "órgão_emissor": "SPTC",
+    "uf": "MG",
+    "número_registro": "44480355842",
+    "acc": "",
+    "permissão": "AB",
+    "categoria": ""
+}
+```

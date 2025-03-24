@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "VIRGILLIAN ARIOLANDO YAMAMARU",
+  "CPF": "915.523.366-03",
+  "filiação": "KAY BARBERATO SOELTL FREITAS MORALES NALVA COLB MOREIRA",
+  "data_nascimento": "22/10/1986",
+  "primeira_habilitação": "18/05/1957",
+  "validade": "06/01/1982",
+  "documento_identidade": "124979634",
+  "órgão_emissor": "SESP",
+  "UF": "MG",
+  "número_registro": "39299713814",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número_válido": "927668417"
+}
+```

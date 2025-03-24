@@ -1,0 +1,22 @@
+Aqui está o resultado organizado em formato JSON a partir dos dados reconhecidos na imagem:
+
+```json
+{
+    "nome": "HOTELLIER LOGATTI VALE",
+    "CPF": "540.237.604-44",
+    "filiação": "WAISBERG MORABITO",
+    "data_de_nascimento": "13/10/1995",
+    "primeira_habilitação": "12/10/2010",
+    "validade": "04/08/2017",
+    "documento_de_identidade": "069001807",
+    "órgão_emissor": "SJS MG",
+    "UF": "",
+    "número_do_registro": "2752767549",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "",
+    "número_válido": "6919222403"
+}
+```
+
+Os campos que não foram encontrados foram deixados como strings vazias.

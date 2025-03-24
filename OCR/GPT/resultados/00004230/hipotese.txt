@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "GASPARELLO CRUZATTI SCHROTER",
+  "CPF": "276.944.871-43",
+  "filiação": "MODESTIA GUERTA BAIAO MOREIRA, GUARACHI LASSEN MADEL DIAS",
+  "data de nascimento": "13/12/1998",
+  "primeira habilitação": "20/11/1988",
+  "validade": "18/01/1957",
+  "documento de identidade": "367035819",
+  "órgão emissor": "SNJ",
+  "UF": "SP",
+  "número do registro": "46532258422",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número válido": "725872853"
+}
+```

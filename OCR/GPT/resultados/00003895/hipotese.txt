@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "TAQUEUT LNARES CAMIL",
+  "CPF": "324.824.170-58",
+  "filiação": "GEVANILDO LARANJEIRO CASTRO, RAZABONE TOLOI STROHH",
+  "data de nascimento": "26/10/1964",
+  "primeira habilitação": "05/10/1980",
+  "validade": "01/09/1990",
+  "documento de identidade": "961634018",
+  "órgão emissor": "SNJ",
+  "UF": "PI",
+  "número do registro": "41620983208",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número válido": "343798404"
+}
+```

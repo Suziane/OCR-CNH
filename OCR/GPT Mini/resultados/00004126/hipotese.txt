@@ -1,0 +1,22 @@
+Aqui está a estrutura JSON com os campos reconhecidos a partir da imagem fornecida:
+
+```json
+{
+    "nome": "RASIA EDILENE DALTOSO",
+    "cpf": "572.386.937-04",
+    "filiação": "MOTTIN ANRAKU WONSIK\nTURRA BERCHIELLI SALZANO",
+    "data_nascimento": "27/08/2012",
+    "primeira_habilitação": "04/01/1996",
+    "validade": "20/07/2005",
+    "documento_identidade": "409450832",
+    "orgão_emissor": "SSP",
+    "uf": "PE",
+    "número_registro": "24005679704",
+    "acc": "A",
+    "permissão": "",
+    "categoria": "",
+    "número_válido": "865587076"
+}
+```
+
+Neste formato, os campos foram organizados conforme solicitado. Os campos "permissão" e "categoria" não foram encontrados na imagem, então foram atribuídos como strings vazias.

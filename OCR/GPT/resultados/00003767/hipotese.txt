@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "SOEL SOBREIRA TRIANO",
+  "CPF": "522.990.648-00",
+  "filiação": "KANDI RETTORI PECAN, STACHISSINT MARIANNA",
+  "data de nascimento": "14/07/2004",
+  "primeira habilitação": "17/06/1958",
+  "validade": "01/05/1991",
+  "documento de identidade": "810913094",
+  "órgão emissor": "SSP",
+  "UF": "RJ",
+  "número do registro": "98708097410",
+  "ACC": "A",
+  "permissão": "",
+  "categoria": "A",
+  "número válido": "868156622"
+}
+```

@@ -1,0 +1,22 @@
+Aqui está o reconhecimento dos campos da imagem organizados em formato JSON:
+
+```json
+{
+    "nome": "FAVA STEFANELI KAWAHARA",
+    "cpf": "765.226.745-56",
+    "filiação": "COLONELLO VALLE SIMPLI BARRETA TSUKAYAMA NI",
+    "data_nascimento": "09/05/2003",
+    "primeira_habilitação": "27/04/1974",
+    "validade": "02/05/1993",
+    "documento_identidade": "912761751",
+    "orgao_emissor": "SSP",
+    "UF": "SP",
+    "numero_registro": "2455400097",
+    "acc": "",
+    "permissao": "",
+    "categoria": "C",
+    "numero_valido": "404242510"
+}
+``` 
+
+Caso precise de mais informações ou outro formato, estou à disposição!

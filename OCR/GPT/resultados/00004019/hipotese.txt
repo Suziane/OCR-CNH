@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "HINRICHS SINUHE DUCAS",
+  "CPF": "979.695.738-86",
+  "filiação": "RUBEM RAIOLA BA SCHWABE PROBST TOCHIO NUNES",
+  "data de nascimento": "05/10/2000",
+  "primeira habilitação": "23/09/1982",
+  "validade": "03/02/1981",
+  "documento de identidade": "822695926",
+  "órgão emissor": "SSP",
+  "UF": "BA",
+  "número do registro": "0056089646",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "C",
+  "número válido": "378750508"
+}
+```

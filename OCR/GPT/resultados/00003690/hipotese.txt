@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "LEWIN JOSENILSON KULESSA",
+  "CPF": "903.850.760-70",
+  "filiação": "LOMBARDI MAYRE TORRELL FERNANDES KALINY NOBURO PATR MONTEIRO",
+  "data de nascimento": "08/07/1955",
+  "primeira habilitação": "28/08/2012",
+  "validade": "11/05/1956",
+  "documento de identidade": "648871356",
+  "órgão emissor": "SNJ",
+  "UF": "SP",
+  "número do registro": "60159679061",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "D",
+  "número válido": "036750655"
+}
+```

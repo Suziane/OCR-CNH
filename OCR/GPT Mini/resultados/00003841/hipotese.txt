@@ -1,0 +1,22 @@
+Aqui está o reconhecimento dos campos solicitados em formato JSON:
+
+```json
+{
+    "nome": "PEZZO JADER AMANDAE",
+    "cpf": "331.265.452-11",
+    "filiação": "RAINHO MARAMBIO SHINO RODRIGUES, PULTRINI GRACIANDELA YUIC MOURA",
+    "data_nascimento": "06/10/1977",
+    "primeira_habilitação": "01/08/1977",
+    "validade": "14/11/1995",
+    "documento_identidade": "549081811",
+    "orgão_emissor": "SES AM",
+    "UF": "",
+    "número_do_registro": "36666380088",
+    "ACC": "AB",
+    "permissão": "",
+    "categoria": "",
+    "número_válido": "000790548"
+}
+```
+
+Caso tenha mais alguma solicitação, estou à disposição!

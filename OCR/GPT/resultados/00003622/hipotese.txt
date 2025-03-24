@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "JULES CONARD TAMASAUSKAS",
+    "CPF": "605.966.028-20",
+    "filiação": "MILTON ZHEN LIAMARA YO BONETTI BARBON CARVALHO",
+    "data_de_nascimento": "21/03/1992",
+    "primeira_habilitação": "11/08/1954",
+    "validade": "17/01/1991",
+    "documento_de_identidade": "153110168",
+    "órgão_emissor": "SJS",
+    "UF": "MG",
+    "número_do_registro": "22028748763",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "E",
+    "número_válido": "256946670"
+}
+```

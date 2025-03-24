@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "AZZI SCUDERI TME",
+  "CPF": "426.723.087-05",
+  "filiação": "FARKAS NAOJU YANES CAVALCANTI SUETO PEDAO LARIANI",
+  "data de nascimento": "15/08/1982",
+  "primeira habilitação": "15/07/2020",
+  "validade": "15/08/1982",
+  "documento de identidade": "473877740",
+  "órgão emissor": "POM",
+  "UF": "RN",
+  "número do registro": "41605661388",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "B",
+  "número válido": "65554589"
+}
+```

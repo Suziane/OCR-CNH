@@ -1,0 +1,22 @@
+Aqui está o resultado do reconhecimento dos campos solicitados, organizado em formato JSON:
+
+```json
+{
+    "nome": "POTONYACZ PUSKAS CHIUMARELLI",
+    "CPF": "887.592.474-01",
+    "filiação": "MCOROTA LAURY DAAMEN; BERTHOLO SCRAMIN MOS LOPES",
+    "data_nascimento": "04/07/1968",
+    "primeira_habilitação": "",
+    "validade": "08/10/1950",
+    "documento_identidade": "148388849 POF BA",
+    "órgão_emissor": "",
+    "UF": "",
+    "número_do_registro": "37884782232",
+    "ACC": "",
+    "permissão": "A",
+    "categoria": "",
+    "número_válido": "437693384"
+}
+```
+
+Os campos que não puderam ser identificados foram deixados como strings vazias.

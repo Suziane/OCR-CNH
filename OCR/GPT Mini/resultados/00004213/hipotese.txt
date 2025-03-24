@@ -1,0 +1,22 @@
+Aqui está a estrutura JSON com os campos reconhecidos a partir da imagem:
+
+```json
+{
+  "nome": "HAMUD CEDISMONDI VELLUTINI",
+  "CPF": "054.994.505-83",
+  "filiação": "BARRETTO KANO ESDRÁS, AITÊLO APPEZZATO SCA MARTINS",
+  "data_de_nascimento": "27/01/1986",
+  "primeira_habilitação": "",
+  "validade": "01/12/1967",
+  "documento_de_identidade": "14432961865",
+  "órgão_emissor": "SNU",
+  "UF": "MA",
+  "número_do_registro": "040263587",
+  "ACC": "",
+  "permissão": "AB",
+  "categoria": "",
+  "número_válido": "982277530"
+}
+```
+
+Se precisar de mais alguma informação ou ajuda, é só avisar!

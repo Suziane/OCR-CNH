@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "JULIANDRA PERALTA TUBERTINI",
+  "CPF": "270.079.561-06",
+  "filiação": "LUCOVECI SUAIDEN AGUILERA RODRIGUES, GIULIANO DEFETRI SPECHOT PEIXOTO",
+  "data de nascimento": "02/05/1964",
+  "primeira habilitação": "27/07/2009",
+  "validade": "22/08/1963",
+  "documento de identidade": "807041361",
+  "órgão emissor": "SESP",
+  "UF": "PA",
+  "número do registro": "48241767851",
+  "ACC": "",
+  "permissão": "X",
+  "categoria": "C",
+  "número válido": "067010521"
+}
+```

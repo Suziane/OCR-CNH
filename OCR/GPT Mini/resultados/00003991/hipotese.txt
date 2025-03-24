@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "KABE MUHLETHALER HICHE",
+  "cpf": "935.281.146-14",
+  "filiação": "CARAJELEASCOV COMODO KA PEREIRA, MIYATA PICOLIN CARNEVALLI FERREIRA",
+  "data_nascimento": "11/02/2001",
+  "primeira_habilitação": "18/04/1968",
+  "validade": "11/03/1951",
+  "documento_identidade": "483691252",
+  "orgão_emissor": "SDS",
+  "uf": "RN",
+  "número_do_registro": "33078868802",
+  "acc": "",
+  "permissão": "",
+  "categoria": "C",
+  "número_válido": "343928689"
+}
+```

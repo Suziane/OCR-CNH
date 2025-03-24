@@ -1,0 +1,22 @@
+Aqui está o JSON com os campos reconhecidos a partir da imagem fornecida:
+
+```json
+{
+  "nome": "MACHI VALIATI LORIZ",
+  "cpf": "427.380.537-50",
+  "filiação": "ANTENOR MARUI CASATE / LEONCINI ROSANE CUMPR PEREIRA",
+  "data_nascimento": "13/02/1970",
+  "primeira_habilitação": "01/01/1967",
+  "validade": "17/06/2001",
+  "documento_identidade": "",
+  "orgao_emissor": "680970927 SNJ RS",
+  "uf": "",
+  "numero_registro": "96746852350",
+  "acc": "",
+  "permissao": "",
+  "categoria": "A",
+  "numero_valido": ""
+}
+``` 
+
+Caso precise de mais informações ou ajustes, sinta-se à vontade para perguntar!

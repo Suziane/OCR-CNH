@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "DESIREE AISSA PICCIARELLI",
+  "CPF": "595.132.571-42",
+  "filiação": "PIVA FINK CELIN, PAREJA RIUTI RUSTAM ZARBOSA",
+  "data_de_nascimento": "10/08/1951",
+  "primeira_habilitação": "10/01/2019",
+  "validade": "29/11/2003",
+  "documento_de_identidade": "6688401570",
+  "órgão_emissor": "SSP",
+  "UF": "SP",
+  "número_do_registro": "4551973469",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "D",
+  "número_válido": "209278316"
+}
+```

@@ -1,0 +1,22 @@
+Aqui está o resultado em formato JSON:
+
+```json
+{
+    "nome": "TATHY MAFFIA ZANINI",
+    "CPF": "136.380.098-78",
+    "filiação": "RYUIT EVELY CREYCI VIANA, ARIZA COSTADELLA DELL FREITAS",
+    "data_nascimento": "05/01/2001",
+    "primeira_habilitação": "",
+    "validade": "03/01/1950",
+    "documento_identidade": "534052065 SJS CE",
+    "órgão_emissor": "",
+    "UF": "",
+    "número_do_registro": "65013311671",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "AB",
+    "número_válido": ""
+}
+```
+
+Se precisar de mais alguma coisa, é só avisar!

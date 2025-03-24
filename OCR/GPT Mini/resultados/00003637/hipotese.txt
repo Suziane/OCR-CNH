@@ -1,0 +1,17 @@
+```json
+{
+    "nome": "DELGADO PETER MINEMATSUS",
+    "cpf": "262.068.265-70",
+    "filiação": "GHIRINGHELLO PATERNO JACOB DA MATA CARIEL NORICHIKA MONTAN PEREIRA",
+    "data_nascimento": "06/02/1987",
+    "primeira_habilitação": "18/01/2007",
+    "validade": "27/04/1984",
+    "documento_identidade": "895279198",
+    "orgão_emissor": "SESP",
+    "uf": "BA",
+    "número_do_registro": "36261427835",
+    "acc": "",
+    "permissão": "AB",
+    "número_válido": "598618081"
+}
+```

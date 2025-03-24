@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "POLISEL IDINO AHMAD",
+    "CPF": "542.380.018-95",
+    "filiação": "DALILA LIBORIO BALEEIRO, BONUGLI GIULIANO PAZE FÁRIAS",
+    "data_de_nascimento": "19/11/1964",
+    "primeira_habilitação": "14/03/1994",
+    "validade": "29/03/1952",
+    "documento_de_identidade": "664647157",
+    "órgão_emissor": "SSP",
+    "UF": "RS",
+    "número_do_registro": "73278104649",
+    "ACC": "",
+    "permissão": "",
+    "categoria": "E",
+    "número_válido": "394143621"
+}
+```

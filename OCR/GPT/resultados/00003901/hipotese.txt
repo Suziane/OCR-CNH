@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "BELLINI BELLOMI CARFANESSES",
+  "CPF": "850.974.881-64",
+  "filiação": "MARCHESI RIGUERA MEKRYCZ, CAPELARI FALCIN RAMVA SOCA",
+  "data de nascimento": "29/06/1970",
+  "primeira habilitação": "12/05/1995",
+  "validade": "17/05/1983",
+  "documento de identidade": "255182197",
+  "órgão emissor": "SSP",
+  "UF": "PR",
+  "número do registro": "0249544113",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "AB",
+  "número válido": "694114355"
+}
+```

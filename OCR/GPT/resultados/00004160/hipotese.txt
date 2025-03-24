@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "BOLOGNATO GAROZZO ESTEVÃO",
+  "CPF": "598.951.137-06",
+  "filiação": "PLACA BENVENUTI SANTAN DA LUZ ARENDA KATIPAM LAMB PEIXOTO",
+  "data de nascimento": "02/08/1999",
+  "primeira habilitação": "11/12/1986",
+  "validade": "10/08/2007",
+  "documento de identidade": "357637823",
+  "órgão emissor": "SSP",
+  "UF": "RN",
+  "número do registro": "23238124310",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número válido": "662637740"
+}
+```

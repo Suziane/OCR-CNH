@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "HIRAMA PEDIGONI ZANETTA",
+  "CPF": "727.086.940-57",
+  "filiação": "TAH KEISHI PETRICHE, DOLLAY HANTAO MAGDALON",
+  "data de nascimento": "07/02/1956",
+  "primeira habilitação": "09/06/2003",
+  "validade": "14/01/1957",
+  "documento de identidade": "68006765",
+  "órgão emissor": "SN",
+  "UF": "RS",
+  "número do registro": "6348309680",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número válido": "480387627"
+}
+```

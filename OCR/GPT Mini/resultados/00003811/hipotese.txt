@@ -1,0 +1,22 @@
+Aqui está a estrutura JSON com os dados reconhecidos da imagem:
+
+```json
+{
+  "nome": "NOVICKS TAYSSA SCARABELI",
+  "cpf": "017.893.851-30",
+  "filiação": "CALISTO SCHICHVARGER SANTANA YAMASAKI SOMENSI SIMONCELL PEREIRA",
+  "data_nascimento": "21/11/1952",
+  "primeira_habilitação": "30/10/2008",
+  "validade": "24/06/1965",
+  "documento_identidade": "125048245",
+  "órgão_emissor": "POF",
+  "uf": "PB",
+  "número_do_registro": "56981916124",
+  "acc": "",
+  "permissão": "",
+  "categoria": "E",
+  "número_válido": ""
+}
+``` 
+
+Caso precise de alguma modificação ou adição, é só avisar!

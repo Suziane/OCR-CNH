@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "Bingre Prates Seigo",
+    "cpf": "268.857.430-20",
+    "filiacao": "Tonacio Ghirotti Rond, Ikebe Kelson Noriyos Rodrigues",
+    "data_nascimento": "01/08/1951",
+    "primeira_habilitacao": "10/04/1989",
+    "validade": "12/02/2016",
+    "documento_identidade": "767788564",
+    "orgao_emissor": "SEJ",
+    "uf": "MT",
+    "numero_registro": "05924164813",
+    "acc": "",
+    "permissao": "",
+    "categoria": "AB",
+    "numero_valido": "183614657"
+}
+```

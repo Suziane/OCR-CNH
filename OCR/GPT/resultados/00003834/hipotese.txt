@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "PARADELLA GUIMARAES BESSON",
+  "CPF": "874.380.403-99",
+  "filiação": "PASCHOALINO DELFINO MARGA, SERRAMBANA IGOR SALES",
+  "data de nascimento": "07/08/1976",
+  "primeira habilitação": "07/08/1976",
+  "validade": "26/11/2006",
+  "documento de identidade": "047776466",
+  "órgão emissor": "SEJ",
+  "UF": "GO",
+  "número do registro": "51283847678",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "A",
+  "número válido": "490628820"
+}
+```

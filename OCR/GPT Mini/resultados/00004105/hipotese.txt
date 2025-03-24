@@ -1,0 +1,21 @@
+Claro! Abaixo está a estrutura JSON com os dados reconhecidos da imagem:
+
+```json
+{
+  "nome": "ANDRIELLI SAIA KOGA",
+  "cpf": "506.434.175-08",
+  "filiação": "LUIZETTO RHANDAI K RIBEIRO, SANGLADE BLACIDO VIRA",
+  "data_de_nascimento": "15/02/1978",
+  "primeira_habilitação": "06/12/1987",
+  "validade": "03/12/1956",
+  "documento_de_identidade": "512403909 SSF? MG",
+  "órgão_emissor": "SSF",
+  "uf": "MG",
+  "número_do_registro": "76575631220",
+  "acc": "A",
+  "permissão": "",
+  "categoria": ""
+}
+```
+
+Caso precise de mais alguma coisa, é só avisar!

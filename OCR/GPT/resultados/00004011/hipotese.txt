@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "ALECIO MIONO VITTI",
+  "CPF": "001.272.398-39",
+  "filiação": "CURTI JARZINSKI SISD RICHTHOFEN ANHESINI FANT BARROS",
+  "data_de_nascimento": "09/06/1963",
+  "primeira_habilitação": "29/11/1987",
+  "validade": "",
+  "documento_de_identidade": "644296343",
+  "órgão_emissor": "SSP",
+  "UF": "RS",
+  "número_do_registro": "59555222869",
+  "ACC": " ",
+  "permissão": "",
+  "categoria": "B",
+  "número_válido": "084714289"
+}
+```

@@ -1,0 +1,21 @@
+Abaixo está o resultado em formato JSON com as informações extraídas da imagem:
+
+```json
+{
+    "nome": "Lüdscher Carlessi Matsuno",
+    "CPF": "185.444.133-74",
+    "filiação": "Aurelio Wasques Soutt, Zercio Carly Margaroni",
+    "data de nascimento": "26/02/1988",
+    "primeira habilitação": "11/08/1983",
+    "validade": "01/07/1963",
+    "documento de identidade": "626699939",
+    "órgão emissor": "SEJ",
+    "UF": "MG",
+    "número do registro": "14258804374",
+    "ACC": "",
+    "permissão": "B",
+    "categoria": ""
+}
+```
+
+Os campos que não foram encontrados na imagem foram preenchidos como strings vazias.

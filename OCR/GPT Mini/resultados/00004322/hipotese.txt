@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "PAIGLE TAKEMOTO MASTROIAN",
+  "CPF": "738.131.807-51",
+  "filiação": "TERAO FACURY PERAZA; DESSOY SHIGUHARA PORTI",
+  "data_nascimento": "07/02/1993",
+  "primeira_habilitação": "14/03/1986",
+  "validade": "02/06/1984",
+  "documento_identidade": "713.318.850",
+  "orgão_emissor": "GO",
+  "UF": "GO",
+  "número_registro": "578.114.7301",
+  "ACC": "",
+  "permissão": "",
+  "categoria": "E",
+  "número_válido": "639678793"
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+    "nome": "GIANGIULIO BORRO VIGATTO",
+    "CPF": "113.845.877-55",
+    "filiação": "PATRIARCA SARRACCENI RIBEIRO\nGALETTI PERENTE CALTABI ARUJO",
+    "data_nascimento": "20/05/1994",
+    "primeira_habilitação": "01/01/2010",
+    "validade": "01/09/2011",
+    "documento_identidade": "513579199 POF",
+    "órgão_emissor": "MG",
+    "UF": "MG",
+    "número_do_registro": "92199454477",
+    "ACC": "",
+    "permissão": "D",
+    "categoria": "D",
+    "número_válido": "071722161"
+}
+```

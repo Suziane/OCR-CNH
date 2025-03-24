@@ -1,0 +1,17 @@
+```json
+{
+  "nome": "BOTTA PACCEZ MACEIRAS",
+  "CPF": "028.761.746-77",
+  "filiação": "KAZUMITSU SAMMARONE PROTA DUARTE BEIM GOIA MORETTE CAVALCANTI",
+  "data_nascimento": "16/09/2003",
+  "primeira_habilitação": "19/08/1981",
+  "validade": "20/11/2003",
+  "documento_identidade": "742346080",
+  "órgão_emissor": "POM",
+  "UF": "MG",
+  "número_registro": "58035486124",
+  "ACC": "",
+  "permissão": "A",
+  "número_válido": "595048877"
+}
+```
