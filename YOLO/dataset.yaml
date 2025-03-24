@@ -1,0 +1,17 @@
+train: /content/drive/MyDrive/dataset/images/train
+val: /content/drive/MyDrive/dataset/images/val
+test: /content/drive/MyDrive/dataset/images/test
+
+names:
+  0: 1_habilitacao
+  1: categoria
+  2: cpf
+  3: d_nascimento
+  4: doc_ident-emissor-uf
+  5: filiacao
+  6: n_registro
+  7: nome
+  8: validade
+  9: espelho
+  10: permissao
+  11: acc
